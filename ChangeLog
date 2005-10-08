@@ -1,3 +1,7 @@
+2005-10-08  Jakub Steiner <jimmac@ximian.com>
+
+	* README: temprorary link to icon-naming-utils
+
 2005-10-06  Rodney Dawes  <dobey@novell.com>
 
 	* Makefile.am:
