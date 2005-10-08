@@ -1,0 +1,33 @@
+
+size = scalable
+context = mimetypes
+
+iconsdir = $(themedir)/$(size)/$(context)
+
+icons_DATA =					\
+	application-certificate.svg		\
+	application-x-executable.svg		\
+	audio-x-generic.svg			\
+	image-x-generic.svg			\
+	package-x-generic.svg			\
+	text-html.svg				\
+	text-x-generic.svg			\
+	text-x-script.svg			\
+	video-x-generic.svg			\
+	x-directory-desktop.svg			\
+	x-directory-normal-drag-accept.svg	\
+	x-directory-normal-home.svg		\
+	x-directory-normal.svg			\
+	x-directory-remote.svg			\
+	x-directory-remote-server.svg		\
+	x-directory-remote-workgroup.svg	\
+	x-directory-trash-full.svg		\
+	x-directory-trash.svg			\
+	x-office-address-book.svg		\
+	x-office-spreadsheet.svg
+
+EXTRA_DIST =					\
+	$(icons_DATA)
+
+install-data-local: install-iconsDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))

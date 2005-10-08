@@ -1,0 +1,30 @@
+
+size = 16x16
+context = devices
+
+iconsdir = $(themedir)/$(size)/$(context)
+
+icons_DATA =				\
+	audio-card.png			\
+	battery.png					\
+	camera-photo.png		\
+	camera-video.png		\
+	computer.png			\
+	drive-cdrom.png			\
+	drive-harddisk.png		\
+	drive-removable-media.png	\
+	input-gaming.png		\
+	input-keyboard.png		\
+	input-mouse.png			\
+	media-cdrom.png			\
+	network.png					\
+	network-wireless.png	\
+	printer.png			\
+	printer-remote.png		\
+	video-display.png
+
+EXTRA_DIST =				\
+	$(icons_DATA)
+
+install-data-local: install-iconsDATA
+	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))

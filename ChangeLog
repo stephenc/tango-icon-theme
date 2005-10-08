@@ -1,0 +1,216 @@
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* Makefile.am:
+	* */*/Makefile.am: Need to prepend $(DESTDIR) to some references
+	to $(themedir) so that we can build packages
+	
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* COPYING: Replace the GPL file with CC Attribution Share-alike
+
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Up version to 0.1.0 for release
+	Fix ImageMagick check to not error out when disabled explicitly
+
+	* Makefile.am (install-data-local): Touch the toplevel theme directory
+	after we install, if it is in fact, a directory
+
+2005-10-06  Jakub Steiner <jimmac@ximian.com>
+
+	* image-missing: for broken images
+
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Check for ImageMagick >= 6.1.9
+	Use -bordercolor and -border for the options to convert, rather than
+	-mattecolor and -frame
+
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* */actions/Makefile.am:
+	* */status/Makefile.am:
+	Update these for the changes in the previous commit
+
+	* 22x22/*/Makefile.am: Fix the path for the input icon to the convert
+	command, so that we don't fail to install
+
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* 16x16/actions/load-thumbnail.*:
+	* 16x16/actions/search.*:
+	* 22x22/actions/load-thumbnail.*:
+	* 22x22/actions/search.*:
+	* scalable/actions/load-thumbnail.svg:
+	* scalable/actions/search.svg:
+	Remove all these files to be replaced with the new ones below
+
+	* 16x16/status/image-loading.*:
+	* 16x16/actions/system-search.*:
+	* 22x22/status/image-loading.*:
+	* 22x22/actions/system-search.*:
+	* scalable/status/image-loading.svg:
+	* scalable/actions/system-search.svg:
+	Add these new files to replace the ones above to be named properly for
+	the icon naming specification
+
+2005-10-06  Rodney Dawes  <dobey@novell.com>
+
+	* Makefile.am: Add DISTCHECK_CONFIGURE_FLAGS to disable icon framing
+	Use the themedir definition from configure.ac instead of icondir
+	If $(datadir)/icons/Tango is a symlink, delete it
+	Remove the uninstall-local rule
+
+	* autogen.sh: Require automake 1.9 now
+
+	* configure.ac: Up the version to 0.0.3 and rename to tango-icon-theme
+	Require automake 1.9 and use tar-ustar
+	Use the new IT_PROG_INTLTOOL macro and require 0.34.1
+	Define the toplevel icon theme directory in here and AC_SUBST it
+	Add an enable/disable toggle for the icon framing for 24x24 pixel icons
+	If framing is enabled, look for the "convert" binary from ImageMagick
+
+	* index.theme.in: Add directories for 24x24 icon directories
+	Add an inherits so that we fall back to gnome icon theme icons
+
+	* 16x16/*/Makefile.am:
+	* scalable/*/Makefile.am:
+	Update to use the configure defined $(themedir)
+	Clean up to use variables for size and context as well to make it
+	easier to maintain all the Makefiles
+	
+	* 22x22/*/Makefile.am: 	Update to use the configure defined $(themedir)
+	Clean up to use variables for size and context as well to make it
+	easier to maintain all the Makefiles
+	Add a little bit of scripting to the install-data-local rule to add
+	a 1x1 frame to the 22x22 icons to create the 24x24 icons
+
+2005-10-06  Jakub Steiner <jimmac@ximian.com>
+
+	* x-office-address-book: yay, this was easy! ;)
+	
+2005-09-27  Rodney Dawes  <dobey@novell.com>
+
+	* 22x22/categories/Makefile.am: png not svg for bitmap icons
+	
+2005-09-27  Rodney Dawes  <dobey@novell.com>
+
+	* 22x22/categories/Makefile.am:
+	* scalable/categories/Makefile.am:
+	Add Makefiles for the categories
+
+2005-09-27  Jakub Steiner <jimmac@ximian.com>
+
+	* preferences > preferences-desktop: rename
+
+2005-09-26  Jakub Steiner <jimmac@ximian.com>
+
+	* configure.ac:
+	* 16x16/Makefile.am:
+	* 22x22/Makefile.am:
+	* scalable/Makefile.am:
+	* 16x16/categories:
+	* 22x22/categories:
+	* scalable/categories: new section
+	* preferences: new icon
+	
+2005-09-22  Jakub Steiner <jimmac@ximian.com>
+
+	* accessories-text-editor
+
+2005-09-15  Jakub Steiner <jimmac@ximian.com>
+
+	* appointment-new
+	* contact-new
+	* document-print
+	* text-x-script
+
+2005-09-08  Jakub Steiner <jimmac@ximian.com>
+
+	* preferences-desktop-theme: theme icons
+	* preferences-system-windows: Window behavior
+
+2005-09-07  Jakub Steiner <jimmac@ximian.com>
+
+	* preferences-desktop-accessibility:
+	* preferences-desktop-font:
+	* preferences-desktop-wallpaper:
+	* preferences-desktop-screensaver: based on garrett's control
+	  panel bitmap
+	
+2005-09-06  Jakub Steiner <jimmac@ximian.com>
+
+	* multimedia-volume-control: for the mixer
+	
+2005-08-18  Jakub Steiner <jimmac@ximian.com>
+
+	* devices/printer: lighten up
+
+2005-08-10  Jakub Steiner <jimmac@ximian.com>
+
+	* load-thumbnail: not in the spec, but required to make the
+	nautilus theme complete.
+
+2005-07-26  Jakub Steiner <jimmac@ximian.com>
+
+	* go-next, go-previous: tweaked after comments from Steven
+
+2005-07-12  Rodney Dawes  <dobey@novell.com>
+
+	* scalable/actions/Makefile.am: Remove document-template.svg
+
+2005-06-17  Jakub Steiner <jimmac@ximian.com>
+
+	* */emblems:
+	* */emotes: add to the build
+	* emotes/face-shocked: :O
+
+2005-06-17  Jakub Steiner <jimmac@ximian.com>
+
+	* apps/system-users: pulling this name out of my sleeve,
+	  but the image will be extremely re-usable.
+	
+2005-06-06  Rodney Dawes  <dobey@novell.com>
+
+	* scalable/apps/accessories-calculator.svg:
+	* scalable/apps/internet-group-chat.svg:
+	Resave these images in inkscape to fix some rendering issues outside
+	of inkscape
+
+2005-06-06  Jakub Steiner <jimmac@ximian.com>
+
+	* *xcf.bz2: add missing GIMP source files for everything.
+
+2005-06-06  Jakub Steiner <jimmac@ximian.com>
+
+	* accessories-calculator: app icon
+	* internet-mail: app icon
+	* internet-group-chat: app icon
+
+2005-06-03  Jakub Steiner <jimmac@ximian.com>
+
+	* office-calendar: app icon
+	
+2005-05-25  Jakub Steiner <jimmac@ximian.com>
+
+	* x-directory-remote-workgroup
+	* x-directory-remote-server:new additions (+mimetype xcfs)
+	
+2005-05-24  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Fix the error to reference icon-naming-utils rather
+	than icon-mapping-utils
+
+2005-05-24  Rodney Dawes  <dobey@novell.com>
+
+	* index.theme.in: Removed the Inherits line, so we can easily find
+	the missing icons in our theme
+
+2005-05-24  Rodney Dawes  <dobey@novell.com>
+
+	* scalable/mimetypes/audio-x-generic.svg: Re-save in inkscape to
+	fix rendering issues
+
+2005-05-23  Rodney Dawes  <dobey@novell.com>
+
+	* *: Initial import into cvs
