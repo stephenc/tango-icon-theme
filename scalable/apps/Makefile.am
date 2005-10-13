@@ -26,7 +26,8 @@ icons_DATA =					\
 	system-installer.svg			\
 	system-lock-screen.svg			\
 	system-software-update.svg		\
-	system-users.svg
+	system-users.svg			\
+	utilities-system-monitor.svg
 
 EXTRA_DIST =					\
 	$(icons_DATA)

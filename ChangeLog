@@ -1,3 +1,14 @@
+2005-10-13  Rodney Dawes  <dobey@novell.com>
+
+	* */*/Makefile.am:
+	* */*/edit-paste.*:
+	* */*/utilities-system-monitor.*:
+	Add the new edit-paste and utilities-system-monitor icons submitted
+	by Andreas Nilsson
+
+	* *.cvsignore: Add files to ignore a bunch of junk we don't need to
+	have ending up committed to cvs
+
 2005-10-12  Rodney Dawes  <dobey@novell.com>
 
 	* README: Fix the link to point at the tarball on tango-project.org
