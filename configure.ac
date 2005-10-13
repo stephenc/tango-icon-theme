@@ -6,7 +6,7 @@ AC_CONFIG_SRCDIR(index.theme.in)
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar])
 
-IT_PROG_INTLTOOL([0.34.1])
+IT_PROG_INTLTOOL([0.33])
 
 GETTEXT_PACKAGE="${PACKAGE}"
 AC_SUBST(GETTEXT_PACKAGE)
@@ -38,7 +38,7 @@ AC_ARG_ENABLE(icon-framing,
 AM_CONDITIONAL(ENABLE_ICON_FRAMING, test x$enable_framing = xyes)
 
 if test "x$enable_framing" = "xyes"; then
-   PKG_CHECK_MODULES(MAGICK, ImageMagick >= 6.1.9,
+   PKG_CHECK_MODULES(MAGICK, ImageMagick >= 5.5.7,
                      enable_framing=yes, enable_framing=no)
    if test "x$enable_framing" = "xyes"; then
       AC_PATH_PROG(CONVERT, convert)

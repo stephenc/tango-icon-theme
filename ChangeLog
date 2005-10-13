@@ -1,5 +1,10 @@
 2005-10-13  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Reduce intltool requirement to 0.33
+	Reduce imagemagick requirement to 5.5.7
+
+2005-10-13  Rodney Dawes  <dobey@novell.com>
+
 	* */*/Makefile.am:
 	* */*/edit-paste.*:
 	* */*/utilities-system-monitor.*:
