@@ -11,11 +11,12 @@ icons_DATA =			\
 	document-new.svg	\
 	document-print.svg	\
 	document-template.svg	\
-	go-next.svg		\
 	go-jump.svg		\
+	go-next.svg		\
 	go-previous.svg		\
 	system-log-out.svg	\
 	system-search.svg	\
+	system-shutdown.svg	\
 	view-refresh.svg
 
 EXTRA_DIST =			\

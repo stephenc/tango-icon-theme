@@ -11,11 +11,12 @@ icons_DATA =			\
 	document-new.png	\
 	document-print.png	\
 	document-template.png	\
-	go-next.png		\
 	go-jump.png		\
+	go-next.png		\
 	go-previous.png		\
 	system-log-out.png	\
 	system-search.png	\
+	system-shutdown.png	\
 	view-refresh.png
 
 EXTRA_DIST =			\

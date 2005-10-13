@@ -15,8 +15,12 @@ icons_DATA =					\
 	text-x-script.svg			\
 	video-x-generic.svg			\
 	x-directory-desktop.svg			\
+	x-directory-normal-drag-accept.icon	\
 	x-directory-normal-drag-accept.svg	\
 	x-directory-normal-home.svg		\
+	x-directory-normal-visiting.icon	\
+	x-directory-normal-visiting.svg		\
+	x-directory-normal.icon			\
 	x-directory-normal.svg			\
 	x-directory-remote.svg			\
 	x-directory-remote-server.svg		\

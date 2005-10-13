@@ -4,7 +4,7 @@ context = actions
 
 iconsdir = $(themedir)/$(size)/$(context)
 
-icons_DATA =				\
+icons_DATA =			\
 	address-book-new.png	\
 	appointment-new.png	\
 	contact-new.png		\
@@ -16,9 +16,10 @@ icons_DATA =				\
 	go-previous.png		\
 	system-log-out.png	\
 	system-search.png	\
+	system-shutdown.png	\
 	view-refresh.png
 
-EXTRA_DIST =				\
+EXTRA_DIST =			\
 	$(icons_DATA)
 
 install-data-local: install-iconsDATA

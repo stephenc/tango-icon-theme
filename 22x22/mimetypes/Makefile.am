@@ -17,6 +17,7 @@ icons_DATA =					\
 	x-directory-desktop.png			\
 	x-directory-normal-drag-accept.png	\
 	x-directory-normal-home.png		\
+	x-directory-normal-visiting.png		\
 	x-directory-normal.png			\
 	x-directory-remote.png			\
 	x-directory-remote-server.png		\

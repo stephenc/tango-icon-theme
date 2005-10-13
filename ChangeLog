@@ -1,3 +1,10 @@
+2005-10-12  Rodney Dawes  <dobey@novell.com>
+
+	* README: Fix the link to point at the tarball on tango-project.org
+
+	* */*/Makefile.am: Add missing icons and .icon files to icons_DATA so
+	that they get disted and installed properly
+
 2005-10-08  Jakub Steiner <jimmac@ximian.com>
 
 	* README: temprorary link to icon-naming-utils
