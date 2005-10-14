@@ -1,5 +1,11 @@
 2005-10-14  Rodney Dawes  <dobey@novell.com>
 
+	* acinclude.m4: Add contents of pkg.m4 so we can build on FC4
+
+	* configure.ac: Require pkg-config >= 0.15.0 (low version for FC4)
+
+2005-10-14  Rodney Dawes  <dobey@novell.com>
+
 	* Makefile.am: Add rules for creating svg2png.sh
 
 	* configure.ac: Add a check for using rsvg or ksvgtopng to render
