@@ -1,3 +1,7 @@
+2005-10-14  Rodney Dawes  <dobey@novell.com>
+
+	* Makefile.am (EXTRA_DIST): List svg2png.sh.in here
+
 2005-10-14  Jakub Steiner <jimmac@ximian.com>
 
 	* go-home: new stock home icon

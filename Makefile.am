@@ -16,6 +16,7 @@ theme_DATA = index.theme
 
 EXTRA_DIST=				\
 	$(THEME_IN_FILES)		\
+	svg2png.sh.in			\
 	intltool-update.in 		\
 	intltool-merge.in 		\
 	intltool-extract.in
