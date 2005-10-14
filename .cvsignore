@@ -24,4 +24,5 @@ missing
 mkinstalldirs
 stamp-h*
 ltmain.sh
+svg2png.sh
 

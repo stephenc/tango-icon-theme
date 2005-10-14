@@ -6,6 +6,12 @@ THEME_IN_FILES = index.theme.in
 
 @INTLTOOL_THEME_RULE@
 
+noinst_SCRIPTS = svg2png.sh
+
+%.sh: %.sh.in
+	sed -e "s|\@SVGCONVERT\@|$(SVGCONVERT)|g" < $< > $@
+	chmod +x $@
+
 theme_DATA = index.theme
 
 EXTRA_DIST=				\
@@ -26,7 +32,8 @@ install-data-local:
 	fi
 
 CLEANFILES = 				\
-	index.theme
+	index.theme			\
+	svg2png.sh
 
 DISTCLEANFILES = 			\
 	intltool-extract		\

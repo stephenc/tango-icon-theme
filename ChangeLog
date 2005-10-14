@@ -1,3 +1,16 @@
+2005-10-14  Rodney Dawes  <dobey@novell.com>
+
+	* Makefile.am: Add rules for creating svg2png.sh
+
+	* configure.ac: Add a check for using rsvg or ksvgtopng to render
+	some large scale bitmap versions of svg icons (disabled by default)
+
+	* svg2png.sh.in: Shell script wrapper for converting svg to png
+
+	* scalable/*/Makefile.am: Add extra code to install-data-local so that
+	we can generate large scale png images at install time if the option
+	was enabled during configure
+	
 2005-10-14  Jakub Steiner <jimmac@ximian.com>
 
 	* */actions/edit-paste*: add content and bent corner.

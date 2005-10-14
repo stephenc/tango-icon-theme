@@ -30,16 +30,17 @@ if test -z "$ICONMAP"; then
    AC_MSG_ERROR([icon-naming-utils is required for tango-icon-theme])
 fi
 
+# Check for convert from ImageMagick to add the 1x1 frame to 22x22 icons
 AC_ARG_ENABLE(icon-framing,
    AC_HELP_STRING([--disable-icon-framing],
-                   [disable creation of 24x24 icons [default=no]]),
+                   [disable creation of 24x24 icons [default=enabled]]),
     enable_framing=$enableval,
     enable_framing=yes)
 AM_CONDITIONAL(ENABLE_ICON_FRAMING, test x$enable_framing = xyes)
 
 if test "x$enable_framing" = "xyes"; then
-   PKG_CHECK_MODULES(MAGICK, ImageMagick >= 5.5.7,
-                     enable_framing=yes, enable_framing=no)
+   PKG_CHECK_EXISTS([ImageMagick >= 5.5.7],
+                    [enable_framing=yes], [enable_framing=no])
    if test "x$enable_framing" = "xyes"; then
       AC_PATH_PROG(CONVERT, convert)
       if test -z "$CONVERT"; then
@@ -53,6 +54,31 @@ if test "x$enable_framing" = "xyes"; then
       AC_MSG_ERROR([ImageMagick is required to build tango-icon-theme])
    fi
 fi
+
+# Check for rsvg or ksvgtopng for creating large scale bitmaps from svg
+AC_ARG_ENABLE(png-creation,
+   AC_HELP_STRING([--enable-png-creation],
+                   [enable creating png images from svg [default=disabled]]),
+    enable_large_bitmaps=$enableval,
+    enable_large_bitmaps=no)
+
+SVGCONVERT=""
+AC_MSG_CHECKING([SVG to PNG conversion method])
+if test "x$enable_large_bitmaps" = "xyes"; then
+   PKG_CHECK_EXISTS([librsvg-2.0 >= 2.12.3],
+                    [enable_large_bitmaps=yes], [enable_large_bitmaps=no])
+   if test "x$enable_large_bitmaps" = "xyes"; then
+      svgconvert_prog="rsvg"
+   else
+      svgconvert_prog="ksvgtopng"
+   fi
+   AC_MSG_RESULT([$svgconvert_prog])
+   AC_PATH_PROG(SVGCONVERT, $svgconvert_prog)
+else
+   AC_MSG_RESULT([none])
+fi
+AC_SUBST(SVGCONVERT)
+AM_CONDITIONAL(ENABLE_LARGE_BITMAPS, test x$enable_large_bitmaps = xyes)
 
 AC_CONFIG_FILES([
 Makefile
