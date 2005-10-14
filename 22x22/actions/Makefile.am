@@ -12,8 +12,9 @@ icons_DATA =			\
 	document-print.png	\
 	document-template.png	\
 	edit-paste.png		\
-	go-next.png		\
+	go-home.png		\
 	go-jump.png		\
+	go-next.png		\
 	go-previous.png		\
 	system-log-out.png	\
 	system-search.png	\

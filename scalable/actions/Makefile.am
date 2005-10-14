@@ -12,6 +12,7 @@ icons_DATA =			\
 	document-print.svg	\
 	document-template.svg	\
 	edit-paste.svg		\
+	go-home.svg		\
 	go-jump.svg		\
 	go-next.svg		\
 	go-previous.svg		\
