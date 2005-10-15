@@ -1,5 +1,10 @@
 2005-10-14  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Use the deprecated AC_PROG_INTLTOOL so that people
+	still using crappy broken versions of gnome-common 2.8 can build
+
+2005-10-14  Rodney Dawes  <dobey@novell.com>
+
 	* Makefile.am (EXTRA_DIST): List svg2png.sh.in here
 
 2005-10-14  Jakub Steiner <jimmac@ximian.com>
