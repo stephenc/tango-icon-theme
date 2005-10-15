@@ -1,5 +1,10 @@
 2005-10-14  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Fix the fallback to ksvgtopng to actually work, and
+	check that SVGCONVERT is not empty
+
+2005-10-14  Rodney Dawes  <dobey@novell.com>
+
 	* configure.ac: Use the deprecated AC_PROG_INTLTOOL so that people
 	still using crappy broken versions of gnome-common 2.8 can build
 

@@ -75,6 +75,11 @@ if test "x$enable_large_bitmaps" = "xyes"; then
    fi
    AC_MSG_RESULT([$svgconvert_prog])
    AC_PATH_PROG(SVGCONVERT, $svgconvert_prog)
+   if test -z "$SVGCONVERT"; then
+      AC_MSG_ERROR([You need librsvg >= 2.12.3 or ksvgtopng installed to create large scale bitmaps])
+   else
+      enable_large_bitmaps=yes
+   fi
 else
    AC_MSG_RESULT([none])
 fi
