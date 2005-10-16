@@ -1,5 +1,12 @@
 2005-10-15  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.3.0 for release
+
+	* scalable/apps/Makefile.am (install-data-local):
+	Remove debugging echo statement
+
+2005-10-15  Rodney Dawes  <dobey@novell.com>
+
 	* Makefile.am: Remove the svg2png.sh creation stuff from here, and
 	put svg2png.sh in DISTCLEANFILES instead of CLEANFILES
 
