@@ -1,3 +1,20 @@
+2005-10-15  Rodney Dawes  <dobey@novell.com>
+
+	* Makefile.am: Remove the svg2png.sh creation stuff from here, and
+	put svg2png.sh in DISTCLEANFILES instead of CLEANFILES
+
+	* configure.ac: Generate svg2png.sh here and make it exeuctable
+
+	* index.theme.in: Apply patch from Niko Mirthes to add the large scale
+	bitmap directories, some KDE-specific tags, and to inherit crystalsvg
+	Add directory listings for the emblems and emotes contexts
+
+	* svg2png.sh.in: Fix the check for .icon files so that we don't try
+	to convert them to pixmaps
+
+	* scalable/*/Makefile.am: Add 72 and 96 to the list of sizes for
+	creating large scale bitmaps for KDE
+
 2005-10-14  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Fix the fallback to ksvgtopng to actually work, and

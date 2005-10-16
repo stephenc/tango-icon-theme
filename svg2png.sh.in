@@ -2,7 +2,8 @@
 
 SVGCONVERT=@SVGCONVERT@
 
-if `echo ${3} | grep "icon$"`; then
+ICONTEST=`echo ${3} | grep "icon$"`
+if [ ! -z "${ICONTEST}" ]; then
     exit 0
 fi
 

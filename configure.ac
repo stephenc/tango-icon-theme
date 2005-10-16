@@ -115,7 +115,10 @@ scalable/emblems/Makefile
 scalable/emotes/Makefile
 scalable/mimetypes/Makefile
 scalable/status/Makefile
-po/Makefile.in	
+po/Makefile.in
+svg2png.sh
 ])	
 
 AC_OUTPUT
+
+chmod +x svg2png.sh

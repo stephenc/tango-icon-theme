@@ -1,16 +1,10 @@
-DISTCHECK_CONFIGURE_FLAGS = --disable-icon-framing
+DISTCHECK_CONFIGURE_FLAGS = --disable-icon-framing --enable-png-creation
 
 SUBDIRS = 16x16 22x22 scalable po
 
 THEME_IN_FILES = index.theme.in
 
 @INTLTOOL_THEME_RULE@
-
-noinst_SCRIPTS = svg2png.sh
-
-%.sh: %.sh.in
-	sed -e "s|\@SVGCONVERT\@|$(SVGCONVERT)|g" < $< > $@
-	chmod +x $@
 
 theme_DATA = index.theme
 
@@ -33,10 +27,10 @@ install-data-local:
 	fi
 
 CLEANFILES = 				\
-	index.theme			\
-	svg2png.sh
+	index.theme
 
 DISTCLEANFILES = 			\
+	svg2png.sh			\
 	intltool-extract		\
 	intltool-merge			\
 	intltool-update
