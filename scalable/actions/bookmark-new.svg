@@ -567,17 +567,17 @@
        gradientTransform="matrix(1.000000,0.000000,0.000000,1.184816,0.000000,-0.727880)" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="170"
-     inkscape:window-x="413"
+     inkscape:window-y="236"
+     inkscape:window-x="433"
      inkscape:window-height="690"
      inkscape:window-width="770"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer5"
-     inkscape:cy="32.128824"
-     inkscape:cx="33.197002"
-     inkscape:zoom="8"
+     inkscape:cy="30.117474"
+     inkscape:cx="24.960252"
+     inkscape:zoom="16"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
@@ -820,7 +820,7 @@
     </g>
     <path
        style="opacity:0.28021976;fill:url(#linearGradient5872);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 28.745858,32.262406 L 21.147869,27.133701 L 13.87007,32.0713 L 13.761859,4.0900725 L 28.549598,4.2600667 L 28.745858,32.262406 z "
+       d="M 28.245858,31.324906 L 21.147869,27.133701 L 14.30757,30.8838 L 13.761859,3.9475667 L 28.549598,3.9475667 L 28.245858,31.324906 z "
        id="path5138"
        sodipodi:nodetypes="cccccc" />
     <path
