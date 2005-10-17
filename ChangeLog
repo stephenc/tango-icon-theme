@@ -1,5 +1,20 @@
 2005-10-17  Jakub Steiner <jimmac@ximian.com>
 
+	* audio-card.svg: 
+	* camera-photo.svg: 
+	* camera-video.svg: 
+	* computer.svg: 
+	* document-new.svg: 
+	* drive-cdrom.svg: 
+	* emblem-photos.svg: 
+	* help-browser.svg: 
+	* evolution.svg: 
+	* internet-news-reader.svg: 
+	* media-cdrom.svg: 
+	* system-software-update.svg: fix the metadata (license)
+
+2005-10-17  Jakub Steiner <jimmac@ximian.com>
+
 	* utilities-system-monitor: tweak a little.
 
 2005-10-16  Rodney Dawes  <dobey@novell.com>

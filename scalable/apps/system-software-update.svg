@@ -9,9 +9,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="software-update.svg"
-   sodipodi:docbase="/home/jimmac/gfx/novell/pdes/trunk/global-icon-theme/scalable/applications"
-   inkscape:version="0.41+cvs"
+   sodipodi:docname="system-software-update.svg"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/apps"
+   inkscape:version="0.42+devel"
    sodipodi:version="0.32"
    id="svg3440"
    height="48px"
@@ -981,89 +981,65 @@
      inkscape:window-y="138"
      inkscape:window-x="124"
      inkscape:window-height="648"
-     inkscape:window-width="650"
+     inkscape:window-width="770"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:cy="21.704468"
      inkscape:cx="32.806152"
-     inkscape:zoom="1.0000000"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     borderopacity="0.039215686"
+     borderopacity="0.16470588"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         id="Work6"
          rdf:about="">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-           id="type9" />
-        <dc:title
-           id="title4358">Software Update</dc:title>
-        <dc:creator
-           id="creator4360">
-          <cc:Agent
-             id="Agent4362">
-            <dc:title
-               id="title4364">Jakub Steiner</dc:title>
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Software Update</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:contributor
-           id="contributor4366">
-          <cc:Agent
-             id="Agent4368">
-            <dc:title
-               id="title4370" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
           </cc:Agent>
         </dc:contributor>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"
-           id="license4372" />
-        <dc:source
-           id="source4388">http://jimmac.musichall.cz</dc:source>
-        <dc:subject
-           id="subject4390">
-          <rdf:Bag
-             id="Bag4392">
-            <rdf:li
-               id="li6927">network update</rdf:li>
-            <rdf:li
-               id="li6929">software</rdf:li>
-            <rdf:li
-               id="li6931">synchronize</rdf:li>
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>network update</rdf:li>
+            <rdf:li>software</rdf:li>
+            <rdf:li>synchronize</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
       <cc:License
-         id="License4374"
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
-           id="permits4376"
            rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           id="permits4378"
            rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           id="requires4380"
            rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           id="permits4382"
            rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           id="requires4384"
            rdf:resource="http://web.resource.org/cc/ShareAlike" />
-        <cc:requires
-           id="requires4386"
-           rdf:resource="http://web.resource.org/cc/SourceCode" />
       </cc:License>
     </rdf:RDF>
   </metadata>

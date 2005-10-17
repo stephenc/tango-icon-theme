@@ -13,8 +13,8 @@
    height="48.000000px"
    id="svg2327"
    sodipodi:version="0.32"
-   inkscape:version="0.41+cvs"
-   sodipodi:docbase="/home/jimmac/gfx/novell/pdes/trunk/global-icon-theme/scalable/devices"
+   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/devices"
    sodipodi:docname="computer.svg">
   <defs
      id="defs3">
@@ -488,82 +488,59 @@
      borderopacity="0.12156863"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000000"
+     inkscape:zoom="1"
      inkscape:cx="75.353821"
      inkscape:cy="12.176086"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="686"
-     inkscape:window-height="574"
+     inkscape:window-width="770"
+     inkscape:window-height="576"
      inkscape:window-x="402"
-     inkscape:window-y="25" />
+     inkscape:window-y="25"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title2760">Computer</dc:title>
-        <dc:date
-           id="date2762">2005-03-08</dc:date>
-        <dc:creator
-           id="creator2764">
-          <cc:Agent
-             id="Agent2766">
-            <dc:title
-               id="title2768">Jakub Steiner</dc:title>
+        <dc:title>Computer</dc:title>
+        <dc:date>2005-03-08</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:subject
-           id="subject2770">
-          <rdf:Bag
-             id="Bag2772">
-            <rdf:li
-               id="li2946">workstation</rdf:li>
-            <rdf:li
-               id="li2948">computer</rdf:li>
-            <rdf:li
-               id="li2950">node</rdf:li>
-            <rdf:li
-               id="li2952">client</rdf:li>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>workstation</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>node</rdf:li>
+            <rdf:li>client</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"
-           id="license2954" />
-        <dc:source
-           id="source2970">http://jimmac.musichall.cz/</dc:source>
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:source>http://jimmac.musichall.cz/</dc:source>
       </cc:Work>
       <cc:License
-         id="License2956"
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
-           id="permits2958"
            rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           id="permits2960"
            rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           id="requires2962"
            rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           id="permits2964"
            rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           id="requires2966"
            rdf:resource="http://web.resource.org/cc/ShareAlike" />
-        <cc:requires
-           id="requires2968"
-           rdf:resource="http://web.resource.org/cc/SourceCode" />
       </cc:License>
     </rdf:RDF>
   </metadata>

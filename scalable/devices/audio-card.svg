@@ -13,8 +13,8 @@
    height="48px"
    id="svg19135"
    sodipodi:version="0.32"
-   inkscape:version="0.41+cvs"
-   sodipodi:docbase="/home/jimmac/gfx/novell/pdes/trunk/global-icon-theme/scalable/devices"
+   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/devices"
    sodipodi:docname="audio-card.svg">
   <defs
      id="defs3">
@@ -353,10 +353,10 @@
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
+     borderopacity="0.20392157"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000000"
+     inkscape:zoom="4"
      inkscape:cx="24.206131"
      inkscape:cy="11.812843"
      inkscape:current-layer="layer1"
@@ -366,72 +366,49 @@
      inkscape:window-width="831"
      inkscape:window-height="806"
      inkscape:window-x="310"
-     inkscape:window-y="81" />
+     inkscape:window-y="81"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title19411">Audio Card</dc:title>
-        <dc:description
-           id="description19413">Audio Card Device</dc:description>
-        <dc:source
-           id="source19415">http://jimmac.musichall.cz</dc:source>
-        <dc:creator
-           id="creator19417">
-          <cc:Agent
-             id="Agent19419">
-            <dc:title
-               id="title19421">Jakub Steiner</dc:title>
+        <dc:title>Audio Card</dc:title>
+        <dc:description>Audio Card Device</dc:description>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
         <cc:license
-           id="license19423"
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
-        <dc:subject
-           id="subject2505">
-          <rdf:Bag
-             id="Bag2507">
-            <rdf:li
-               id="li2639">sound</rdf:li>
-            <rdf:li
-               id="li2641">audio</rdf:li>
-            <rdf:li
-               id="li2643">card</rdf:li>
-            <rdf:li
-               id="li2645">device</rdf:li>
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>sound</rdf:li>
+            <rdf:li>audio</rdf:li>
+            <rdf:li>card</rdf:li>
+            <rdf:li>device</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/"
-         id="License19425">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction"
-           id="permits19427" />
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution"
-           id="permits19429" />
+           rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice"
-           id="requires19431" />
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
-           id="permits19433" />
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike"
-           id="requires19435" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/SourceCode"
-           id="requires19437" />
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
