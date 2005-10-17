@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="face-sad.svg"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/emotes"
-   inkscape:version="0.41+cvs"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/emotes"
+   inkscape:version="0.42+devel"
    sodipodi:version="0.32"
    id="svg4376"
    height="48px"
@@ -126,7 +126,7 @@
      inkscape:window-y="184"
      inkscape:window-x="223"
      inkscape:window-height="739"
-     inkscape:window-width="700"
+     inkscape:window-width="770"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -144,73 +144,45 @@
      fill="#edd400" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         id="Work6"
          rdf:about="">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-           id="type9" />
-        <dc:title
-           id="title8909">Face - Sad</dc:title>
-        <dc:subject
-           id="subject8911">
-          <rdf:Bag
-             id="Bag8913">
-            <rdf:li
-               id="li3283">emoticon</rdf:li>
-            <rdf:li
-               id="li3285">emote</rdf:li>
-            <rdf:li
-               id="li3287">smiley</rdf:li>
-            <rdf:li
-               id="li3289">sad</rdf:li>
-            <rdf:li
-               id="li3291">:(</rdf:li>
-            <rdf:li
-               id="li3293">:-(</rdf:li>
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Face - Sad</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>emoticon</rdf:li>
+            <rdf:li>emote</rdf:li>
+            <rdf:li>smiley</rdf:li>
+            <rdf:li>sad</rdf:li>
+            <rdf:li>:(</rdf:li>
+            <rdf:li>:-(</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/"
-           id="license9103" />
-        <dc:creator
-           id="creator9121">
-          <cc:Agent
-             id="Agent9123">
-            <dc:title
-               id="title9125">Jakub Steiner</dc:title>
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:source
-           id="source9127">http://jimmac.musichall.cz</dc:source>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
       </cc:Work>
       <cc:License
-         id="License9105"
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
-           id="permits9107"
            rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           id="permits9109"
            rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           id="requires9111"
            rdf:resource="http://web.resource.org/cc/Notice" />
         <cc:requires
-           id="requires9113"
            rdf:resource="http://web.resource.org/cc/Attribution" />
-        <cc:prohibits
-           id="prohibits9115"
-           rdf:resource="http://web.resource.org/cc/CommercialUse" />
         <cc:permits
-           id="permits9117"
            rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           id="requires9119"
            rdf:resource="http://web.resource.org/cc/ShareAlike" />
       </cc:License>
     </rdf:RDF>

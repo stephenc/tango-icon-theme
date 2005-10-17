@@ -1,5 +1,22 @@
 2005-10-17  Jakub Steiner <jimmac@ximian.com>
 
+	* application-x-certificate.svg:
+	* audio-x-generic.svg:
+	* battery-caution.svg:
+	* face-crying.svg:
+	* face-grin.svg:
+	* face-happy.svg:
+	* face-laughing.svg:
+	* face-sad.svg:
+	* face-shocked.svg:
+	* package-x-generic.svg:
+	* x-directory-normal-drag-accept.svg:
+	* x-directory-normal-visiting.svg:
+	* x-directory-trash.svg:
+	* x-directory-trash-full.svg: more license fixes
+
+2005-10-17  Jakub Steiner <jimmac@ximian.com>
+
 	* audio-card.svg: 
 	* camera-photo.svg: 
 	* camera-video.svg: 

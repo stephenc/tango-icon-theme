@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
 <svg
-   xmlns:xml="http://www.w3.org/XML/1998/namespace"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://web.resource.org/cc/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -10,9 +9,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docbase="/home/jimmac/gfx/novell/pdes/trunk/global-icon-theme/scalable/mimetypes"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/mimetypes"
    sodipodi:docname="application-certificate.svg"
-   inkscape:version="0.41+cvs"
+   inkscape:version="0.42+devel"
    sodipodi:version="0.32"
    id="svg5105"
    xml:space="preserve"
@@ -20,24 +19,28 @@
    height="48.000000px"
    width="48.000000px"><metadata
    id="metadata5189">
-  <rdf:RDF
-   id="RDF5191">
+  <rdf:RDF>
     <cc:Work
-   id="Work5193"
    rdf:about="">
-      <dc:format
-   id="format5195">image/svg+xml</dc:format>
+      <dc:format>image/svg+xml</dc:format>
 
 
       <dc:type
-   rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-   id="type5197" />
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
 
 
-    </cc:Work>
+    <dc:title>Certificate</dc:title><dc:creator><cc:Agent><dc:title>Jakub Steiner</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>certificate</rdf:li></rdf:Bag></dc:subject><cc:license
+   rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" /></cc:Work>
 
 
-  </rdf:RDF>
+  <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.0/"><cc:permits
+     rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+     rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+     rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+     rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+     rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+     rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
 
 
 </metadata>
@@ -47,69 +50,69 @@
    id="defs5187"><linearGradient
    id="linearGradient6684">
   <stop
-     id="stop6686"
-     offset="0.0000000"
-     style="stop-color:#d5dbff;stop-opacity:1.0000000;" />
+   id="stop6686"
+   offset="0.0000000"
+   style="stop-color:#d5dbff;stop-opacity:1.0000000;" />
   <stop
-     id="stop6688"
-     offset="1"
-     style="stop-color:#6579ff;stop-opacity:0;" />
+   id="stop6688"
+   offset="1"
+   style="stop-color:#6579ff;stop-opacity:0;" />
 </linearGradient>
 <linearGradient
    id="linearGradient6665">
   <stop
-     style="stop-color:#000000;stop-opacity:1.0000000;"
-     offset="0.0000000"
-     id="stop6667" />
+   style="stop-color:#000000;stop-opacity:1.0000000;"
+   offset="0.0000000"
+   id="stop6667" />
   <stop
-     style="stop-color:#000000;stop-opacity:0.0000000;"
-     offset="1.0000000"
-     id="stop6669" />
+   style="stop-color:#000000;stop-opacity:0.0000000;"
+   offset="1.0000000"
+   id="stop6669" />
 </linearGradient>
 <linearGradient
    id="linearGradient6625">
   <stop
-     id="stop6627"
-     offset="0.0000000"
-     style="stop-color:#1d2349;stop-opacity:1.0000000;" />
+   id="stop6627"
+   offset="0.0000000"
+   style="stop-color:#1d2349;stop-opacity:1.0000000;" />
   <stop
-     style="stop-color:#4c5279;stop-opacity:1.0000000;"
-     offset="0.35315102"
-     id="stop6637" />
+   style="stop-color:#4c5279;stop-opacity:1.0000000;"
+   offset="0.35315102"
+   id="stop6637" />
   <stop
-     style="stop-color:#b3bdff;stop-opacity:1.0000000;"
-     offset="0.46551725"
-     id="stop6633" />
+   style="stop-color:#b3bdff;stop-opacity:1.0000000;"
+   offset="0.46551725"
+   id="stop6633" />
   <stop
-     id="stop6635"
-     offset="0.64982164"
-     style="stop-color:#727cbe;stop-opacity:1.0000000;" />
+   id="stop6635"
+   offset="0.64982164"
+   style="stop-color:#727cbe;stop-opacity:1.0000000;" />
   <stop
-     id="stop6629"
-     offset="1.0000000"
-     style="stop-color:#323c7e;stop-opacity:1.0000000;" />
+   id="stop6629"
+   offset="1.0000000"
+   style="stop-color:#323c7e;stop-opacity:1.0000000;" />
 </linearGradient>
 <linearGradient
    id="linearGradient6617">
   <stop
-     id="stop6619"
-     offset="0.0000000"
-     style="stop-color:#ffffff;stop-opacity:0.24742268;" />
+   id="stop6619"
+   offset="0.0000000"
+   style="stop-color:#ffffff;stop-opacity:0.24742268;" />
   <stop
-     id="stop6621"
-     offset="1"
-     style="stop-color:#ffffff;stop-opacity:0;" />
+   id="stop6621"
+   offset="1"
+   style="stop-color:#ffffff;stop-opacity:0;" />
 </linearGradient>
 <linearGradient
    id="linearGradient6604">
   <stop
-     id="stop6606"
-     offset="0.0000000"
-     style="stop-color:#ffa196;stop-opacity:1.0000000;" />
+   id="stop6606"
+   offset="0.0000000"
+   style="stop-color:#ffa196;stop-opacity:1.0000000;" />
   <stop
-     id="stop6608"
-     offset="1"
-     style="stop-color:#ff1f06;stop-opacity:0;" />
+   id="stop6608"
+   offset="1"
+   style="stop-color:#ff1f06;stop-opacity:0;" />
 </linearGradient>
 <radialGradient
    r="13.2807"
@@ -363,11 +366,12 @@
    id="base"
    pagecolor="#ffffff"
    bordercolor="#666666"
-   borderopacity="1.0"
+   borderopacity="0.16470588"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:window-width="821"
-   inkscape:window-height="818" />
+   inkscape:window-height="818"
+   inkscape:showpageshadow="false" />
 
 
 

@@ -14,7 +14,7 @@
    id="svg4376"
    sodipodi:version="0.32"
    inkscape:version="0.42+devel"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/emotes"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/emotes"
    sodipodi:docname="face-laughing.svg">
   <defs
      id="defs3">
@@ -289,7 +289,7 @@
      borderopacity="0.19607843"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000000"
+     inkscape:zoom="4"
      inkscape:cx="39.088005"
      inkscape:cy="42.927979"
      inkscape:current-layer="layer1"
@@ -297,7 +297,7 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="736"
+     inkscape:window-width="770"
      inkscape:window-height="767"
      inkscape:window-x="234"
      inkscape:window-y="186"
@@ -322,7 +322,7 @@
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Jakub Steiner</dc:title>
@@ -331,7 +331,7 @@
         <dc:source>http://jimmac.musichall.cz</dc:source>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
            rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
@@ -340,8 +340,6 @@
            rdf:resource="http://web.resource.org/cc/Notice" />
         <cc:requires
            rdf:resource="http://web.resource.org/cc/Attribution" />
-        <cc:prohibits
-           rdf:resource="http://web.resource.org/cc/CommercialUse" />
         <cc:permits
            rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires

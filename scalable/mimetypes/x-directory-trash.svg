@@ -13,9 +13,9 @@
    height="48px"
    id="svg57"
    sodipodi:version="0.32"
-   inkscape:version="0.40+cvs"
-   sodipodi:docbase="/home/jimmac/ximian_art/icons/nautilus/snowdunes"
-   sodipodi:docname="gnome-fs-trash-empty.svg">
+   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/mimetypes"
+   sodipodi:docname="x-directory-trash.svg">
   <defs
      id="defs3">
     <linearGradient
@@ -2439,68 +2439,65 @@
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
      inkscape:cx="24.558695"
-     inkscape:cy="16.335040"
+     inkscape:cy="16.33504"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="776"
      inkscape:window-height="863"
-     inkscape:window-x="504"
-     inkscape:window-y="247" />
+     inkscape:window-x="254"
+     inkscape:window-y="96"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title664">Trash Empty</dc:title>
-        <dc:date
-           id="date665">2003-02-04</dc:date>
-        <dc:creator
-           id="creator666">
-          <cc:Agent
-             id="Agent667">
-            <dc:title
-               id="title668">Jakub Steiner</dc:title>
+        <dc:title>Trash Empty</dc:title>
+        <dc:date>2003-02-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:subject
-           id="subject669">
-          <rdf:Bag
-             id="Bag670">
-            <rdf:li
-               id="li430">trash</rdf:li>
-            <rdf:li
-               id="li431">delete</rdf:li>
-            <rdf:li
-               id="li432">deleted files</rdf:li>
-            <rdf:li
-               id="li433">waste</rdf:li>
-            <rdf:li
-               id="li434">recycle</rdf:li>
-            <rdf:li
-               id="li435">bin</rdf:li>
-            <rdf:li
-               id="li436">empty</rdf:li>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>trash</rdf:li>
+            <rdf:li>delete</rdf:li>
+            <rdf:li>deleted files</rdf:li>
+            <rdf:li>waste</rdf:li>
+            <rdf:li>recycle</rdf:li>
+            <rdf:li>bin</rdf:li>
+            <rdf:li>empty</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:publisher
-           id="publisher882">
-          <cc:Agent
-             id="Agent883">
-            <dc:title
-               id="title884">Novell, Inc.</dc:title>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Novell, Inc.</dc:title>
           </cc:Agent>
         </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g

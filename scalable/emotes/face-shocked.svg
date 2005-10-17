@@ -13,8 +13,8 @@
    height="48px"
    id="svg4376"
    sodipodi:version="0.32"
-   inkscape:version="0.41+cvs"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/emotes"
+   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/emotes"
    sodipodi:docname="face-shocked.svg">
   <defs
      id="defs3">
@@ -138,80 +138,52 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="700"
+     inkscape:window-width="770"
      inkscape:window-height="739"
      inkscape:window-x="223"
      inkscape:window-y="184" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title8909">Face - Shocked</dc:title>
-        <dc:subject
-           id="subject8911">
-          <rdf:Bag
-             id="Bag8913">
-            <rdf:li
-               id="li3171">emoticon</rdf:li>
-            <rdf:li
-               id="li3173">emote</rdf:li>
-            <rdf:li
-               id="li3175">smiley</rdf:li>
-            <rdf:li
-               id="li3177">stare</rdf:li>
-            <rdf:li
-               id="li3179">shocked</rdf:li>
-            <rdf:li
-               id="li3181">:O</rdf:li>
+        <dc:title>Face - Shocked</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>emoticon</rdf:li>
+            <rdf:li>emote</rdf:li>
+            <rdf:li>smiley</rdf:li>
+            <rdf:li>stare</rdf:li>
+            <rdf:li>shocked</rdf:li>
+            <rdf:li>:O</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           id="license9103"
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/" />
-        <dc:creator
-           id="creator9121">
-          <cc:Agent
-             id="Agent9123">
-            <dc:title
-               id="title9125">Jakub Steiner</dc:title>
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:source
-           id="source9127">http://jimmac.musichall.cz</dc:source>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/"
-         id="License9105">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction"
-           id="permits9107" />
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution"
-           id="permits9109" />
+           rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice"
-           id="requires9111" />
+           rdf:resource="http://web.resource.org/cc/Notice" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Attribution"
-           id="requires9113" />
-        <cc:prohibits
-           rdf:resource="http://web.resource.org/cc/CommercialUse"
-           id="prohibits9115" />
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
-           id="permits9117" />
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike"
-           id="requires9119" />
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
