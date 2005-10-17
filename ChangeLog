@@ -1,3 +1,7 @@
+2005-10-18  Jakub Steiner <jimmac@ximian.com>
+
+	* process-stop: based on Andreas Nilsson's work
+
 2005-10-17  Jakub Steiner <jimmac@ximian.com>
 
 	* emblem-favorites: new addition.

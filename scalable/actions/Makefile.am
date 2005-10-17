@@ -17,6 +17,7 @@ icons_DATA =			\
 	go-jump.svg		\
 	go-next.svg		\
 	go-previous.svg		\
+	process-stop.svg	\
 	system-log-out.svg	\
 	system-search.svg	\
 	system-shutdown.svg	\
