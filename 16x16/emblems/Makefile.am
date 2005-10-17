@@ -5,6 +5,7 @@ context = emblems
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =				\
+	emblem-favorites.png	\
 	emblem-photos.png
 
 EXTRA_DIST =				\
