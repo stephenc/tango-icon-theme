@@ -1,3 +1,7 @@
+2005-10-19  Jakub Steiner <jimmac@ximian.com>
+
+	* evolution: removed. Specific app icons don't belong here
+	
 2005-10-18  Jakub Steiner <jimmac@ximian.com>
 
 	* utilities-terminal: another submission from Andreas, touched up
