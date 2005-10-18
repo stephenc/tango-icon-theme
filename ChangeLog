@@ -1,5 +1,10 @@
 2005-10-18  Jakub Steiner <jimmac@ximian.com>
 
+	* utilities-terminal: another submission from Andreas, touched up
+	  just a tiny little bit.
+	
+2005-10-18  Jakub Steiner <jimmac@ximian.com>
+
 	* process-stop: based on Andreas Nilsson's work
 
 2005-10-17  Jakub Steiner <jimmac@ximian.com>

@@ -27,7 +27,8 @@ icons_DATA =					\
 	system-lock-screen.png			\
 	system-software-update.png		\
 	system-users.png			\
-	utilities-system-monitor.png
+	utilities-system-monitor.png	\
+	utilities-terminal.png
 
 EXTRA_DIST =					\
 	$(icons_DATA)
