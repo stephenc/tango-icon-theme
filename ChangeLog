@@ -1,3 +1,8 @@
+2005-10-19  Jakub Steiner <jimmac@ximian.com>
+
+	* utilities-system-monitor: make it more different to the terminal
+	  icon.
+
 2005-10-19  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.3.2 for release
