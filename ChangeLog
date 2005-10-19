@@ -1,3 +1,7 @@
+2005-10-19  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Up version to 0.3.2 for release
+
 2005-10-19  Jakub Steiner <jimmac@ximian.com>
 
 	* evolution: removed. Specific app icons don't belong here
@@ -41,7 +45,7 @@
 
 2005-10-17  Rodney  Dawes  <dobey@novell.com>
 
-	* configure.ac: UP version to 0.3.1 for release
+	* configure.ac: Up version to 0.3.1 for release
 
 2005-10-17  Jakub Steiner <jimmac@ximian.com>
 
