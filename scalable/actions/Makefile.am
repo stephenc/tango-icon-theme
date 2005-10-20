@@ -11,7 +11,6 @@ icons_DATA =			\
 	contact-new.svg		\
 	document-new.svg	\
 	document-print.svg	\
-	document-template.svg	\
 	edit-paste.svg		\
 	go-home.svg		\
 	go-jump.svg		\

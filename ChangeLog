@@ -1,3 +1,8 @@
+2005-10-20  Jakub Steiner <jimmac@ximian.com>
+
+	* document-template: removed
+	* text-x-generic-template: it's not an action, but a type of doc
+
 2005-10-19  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.3.2.1 to fix an icon

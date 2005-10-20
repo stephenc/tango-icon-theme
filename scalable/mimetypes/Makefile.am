@@ -12,6 +12,7 @@ icons_DATA =					\
 	package-x-generic.svg			\
 	text-html.svg				\
 	text-x-generic.svg			\
+	text-x-generic-template.svg			\
 	text-x-script.svg			\
 	video-x-generic.svg			\
 	x-directory-desktop.svg			\
