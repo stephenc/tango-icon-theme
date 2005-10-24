@@ -12,10 +12,12 @@ icons_DATA =			\
 	document-new.png	\
 	document-print.png	\
 	edit-paste.png		\
+	go-down.png	\
 	go-home.png		\
 	go-jump.png		\
 	go-next.png		\
 	go-previous.png		\
+	go-up.png	\
 	process-stop.png	\
 	system-log-out.png	\
 	system-search.png	\

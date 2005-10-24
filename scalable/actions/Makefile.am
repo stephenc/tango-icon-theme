@@ -12,10 +12,12 @@ icons_DATA =			\
 	document-new.svg	\
 	document-print.svg	\
 	edit-paste.svg		\
+	go-down.svg	\
 	go-home.svg		\
 	go-jump.svg		\
 	go-next.svg		\
 	go-previous.svg		\
+	go-up.svg	\
 	process-stop.svg	\
 	system-log-out.svg	\
 	system-search.svg	\
