@@ -15,10 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.42+devel"
    sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/mimetypes"
-   sodipodi:docname="text-html.svg"
-   inkscape:export-filename="/home/jimmac/gfx/novell/pdes/trunk/docs/BIGmime-text.png"
-   inkscape:export-xdpi="240.00000"
-   inkscape:export-ydpi="240.00000">
+   sodipodi:docname="text-html.svg">
   <defs
      id="defs3">
     <linearGradient
@@ -1443,13 +1440,6 @@
          transform="matrix(0.576786,0.000000,0.000000,0.576786,11.37028,10.56642)">
         <g
            id="g4138">
-          <image
-             style="opacity:0.75000000"
-             width="23.000000"
-             height="35.000000"
-             href="62169F0D.png"
-             transform="translate(23.74020,6.740200)"
-             id="image4140" />
           <g
              id="g4142">
             <path
@@ -1459,13 +1449,6 @@
         </g>
         <g
            id="g4146">
-          <image
-             style="opacity:0.75000000"
-             width="5.0000000"
-             height="5.0000000"
-             href="62169F0E.png"
-             transform="translate(24.74020,7.740200)"
-             id="image4148" />
           <g
              id="g4150">
             <path
@@ -1475,13 +1458,6 @@
         </g>
         <g
            id="g4154">
-          <image
-             style="opacity:0.75000000"
-             width="12.000000"
-             height="10.000000"
-             href="62169F0F.png"
-             transform="translate(17.74020,3.740200)"
-             id="image4156" />
           <g
              id="g4158">
             <path
@@ -1491,13 +1467,6 @@
         </g>
         <g
            id="g4162">
-          <image
-             style="opacity:0.75000000"
-             width="5.0000000"
-             height="5.0000000"
-             href="62169F10.png"
-             transform="translate(26.74020,10.74020)"
-             id="image4164" />
           <g
              id="g4166">
             <path
@@ -1507,13 +1476,6 @@
         </g>
         <g
            id="g4170">
-          <image
-             style="opacity:0.75000000"
-             width="5.0000000"
-             height="7.0000000"
-             href="62169F11.png"
-             transform="translate(27.74020,9.740200)"
-             id="image4172" />
           <g
              id="g4174">
             <path
@@ -1523,13 +1485,6 @@
         </g>
         <g
            id="g4178">
-          <image
-             style="opacity:0.75000000"
-             width="21.000000"
-             height="37.000000"
-             href="62169F12.png"
-             transform="translate(3.740200,6.740200)"
-             id="image4180" />
           <g
              id="g4182">
             <path
@@ -1539,13 +1494,6 @@
         </g>
         <g
            id="g4186">
-          <image
-             style="opacity:0.75000000"
-             width="5.0000000"
-             height="5.0000000"
-             href="62169F13.png"
-             transform="translate(15.74020,7.740200)"
-             id="image4188" />
           <g
              id="g4190">
             <path
@@ -1555,13 +1503,6 @@
         </g>
         <g
            id="g4194">
-          <image
-             style="opacity:0.75000000"
-             width="9.0000000"
-             height="7.0000000"
-             href="62169F14.png"
-             transform="translate(12.74020,5.740200)"
-             id="image4196" />
           <g
              id="g4198">
             <path
@@ -1603,13 +1544,6 @@
         </g>
         <g
            id="g4222">
-          <image
-             style="opacity:0.75000000"
-             width="8.0000000"
-             height="6.0000000"
-             href="2D44FCEC.png"
-             transform="translate(14.74020,3.740200)"
-             id="image4224" />
           <g
              id="g4226">
             <path
@@ -1619,13 +1553,6 @@
         </g>
         <g
            id="g4230">
-          <image
-             style="opacity:0.75000000"
-             width="5.0000000"
-             height="5.0000000"
-             href="2D44FCED.png"
-             transform="translate(16.74020,12.74020)"
-             id="image4232" />
           <g
              id="g4234">
             <path
@@ -1641,13 +1568,6 @@
         <g
            id="g3218"
            style="color:#000000;fill:url(#radialGradient7216);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7218);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="23.000000"
-             height="35.000000"
-             href="62169F0D.png"
-             transform="translate(23.74020,6.740200)"
-             id="image3220" />
           <g
              id="g3222"
              style="color:#000000;fill:url(#radialGradient7220);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1660,13 +1580,6 @@
         <g
            id="g3226"
            style="color:#000000;fill:url(#radialGradient7224);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7226);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="5.0000000"
-             height="5.0000000"
-             href="62169F0E.png"
-             transform="translate(24.74020,7.740200)"
-             id="image3228" />
           <g
              id="g3230"
              style="color:#000000;fill:url(#radialGradient7228);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1679,13 +1592,6 @@
         <g
            id="g3234"
            style="color:#000000;fill:url(#radialGradient7232);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7234);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="12.000000"
-             height="10.000000"
-             href="62169F0F.png"
-             transform="translate(17.74020,3.740200)"
-             id="image3236" />
           <g
              id="g3238"
              style="color:#000000;fill:url(#radialGradient7236);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1698,13 +1604,6 @@
         <g
            id="g3242"
            style="color:#000000;fill:url(#radialGradient7240);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7242);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="5.0000000"
-             height="5.0000000"
-             href="62169F10.png"
-             transform="translate(26.74020,10.74020)"
-             id="image3244" />
           <g
              id="g3246"
              style="color:#000000;fill:url(#radialGradient7244);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1717,13 +1616,6 @@
         <g
            id="g3250"
            style="color:#000000;fill:url(#radialGradient7248);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7250);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="5.0000000"
-             height="7.0000000"
-             href="62169F11.png"
-             transform="translate(27.74020,9.740200)"
-             id="image3252" />
           <g
              id="g3254"
              style="color:#000000;fill:url(#radialGradient7252);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1736,13 +1628,6 @@
         <g
            id="g3258"
            style="color:#000000;fill:url(#radialGradient7256);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7258);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="21.000000"
-             height="37.000000"
-             href="62169F12.png"
-             transform="translate(3.740200,6.740200)"
-             id="image3260" />
           <g
              id="g3262"
              style="color:#000000;fill:url(#radialGradient7260);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1755,13 +1640,6 @@
         <g
            id="g3266"
            style="color:#000000;fill:url(#radialGradient7264);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7266);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="5.0000000"
-             height="5.0000000"
-             href="62169F13.png"
-             transform="translate(15.74020,7.740200)"
-             id="image3268" />
           <g
              id="g3270"
              style="color:#000000;fill:url(#radialGradient7268);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1774,13 +1652,6 @@
         <g
            id="g3274"
            style="color:#000000;fill:url(#radialGradient7272);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7274);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="9.0000000"
-             height="7.0000000"
-             href="62169F14.png"
-             transform="translate(12.74020,5.740200)"
-             id="image3276" />
           <g
              id="g3278"
              style="color:#000000;fill:url(#radialGradient7276);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1833,13 +1704,6 @@
         <g
            id="g3302"
            style="color:#000000;fill:url(#radialGradient7300);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7302);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="8.0000000"
-             height="6.0000000"
-             href="2D44FCEC.png"
-             transform="translate(14.74020,3.740200)"
-             id="image3304" />
           <g
              id="g3306"
              style="color:#000000;fill:url(#radialGradient7304);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
@@ -1852,13 +1716,6 @@
         <g
            id="g3310"
            style="color:#000000;fill:url(#radialGradient7308);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">
-          <image
-             style="opacity:0.75000000;color:#000000;fill:url(#radialGradient7310);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
-             width="5.0000000"
-             height="5.0000000"
-             href="2D44FCED.png"
-             transform="translate(16.74020,12.74020)"
-             id="image3312" />
           <g
              id="g3314"
              style="color:#000000;fill:url(#radialGradient7312);stroke-dashoffset:0.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible">

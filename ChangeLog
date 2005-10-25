@@ -1,5 +1,9 @@
 2005-10-25  Jakub Steiner <jimmac@ximian.com>
 
+	* text-html.svg: address issues raised in fdo bug #4845
+
+2005-10-25  Jakub Steiner <jimmac@ximian.com>
+
 	* go-bottom, go-top, go-first, go-last: more arrows
 	
 2005-10-24  Jakub Steiner <jimmac@ximian.com>
