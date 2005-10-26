@@ -1,3 +1,7 @@
+2005-10-26  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Up version to 0.3.3 for release
+
 2005-10-25  Jakub Steiner <jimmac@ximian.com>
 
 	* text-html.svg: address issues raised in fdo bug #4845
