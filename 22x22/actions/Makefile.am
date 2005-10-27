@@ -11,6 +11,7 @@ icons_DATA =			\
 	contact-new.png		\
 	document-new.png	\
 	document-print.png	\
+	edit-copy.png		\
 	edit-paste.png		\
 	go-bottom.png	\
 	go-down.png	\
