@@ -1,5 +1,9 @@
 2005-10-28  Jakub Steiner <jimmac@ximian.com>
 
+	* view-refresh: white was invisible, touch up shape a bit.
+
+2005-10-28  Jakub Steiner <jimmac@ximian.com>
+
 	* edit-undo, edit-redo: yellow goodness
 	
 2005-10-28  Jakub Steiner <jimmac@ximian.com>
