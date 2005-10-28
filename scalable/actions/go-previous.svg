@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-previous.svg"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/actions"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/actions"
    inkscape:version="0.42+devel"
    sodipodi:version="0.32"
    id="svg11300"
@@ -754,18 +754,18 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="142"
-     inkscape:window-x="205"
-     inkscape:window-height="774"
-     inkscape:window-width="837"
+     inkscape:window-y="336"
+     inkscape:window-x="272"
+     inkscape:window-height="1041"
+     inkscape:window-width="930"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="23.143990"
-     inkscape:cx="31.925533"
-     inkscape:zoom="4.0000000"
+     inkscape:cy="28.228444"
+     inkscape:cx="25.499451"
+     inkscape:zoom="5.6568542"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
@@ -836,16 +836,16 @@
     <path
        sodipodi:nodetypes="cccccccc"
        id="path8643"
-       d="M 39.490316,15.340571 L 39.490316,32.678741 L 26.537753,32.678741 L 26.537753,41.098779 L 6.5779170,23.973588 L 26.656563,6.7295901 L 26.656563,15.345875 L 39.490316,15.340571 z "
+       d="M 39.490316,15.496821 L 39.490316,32.491241 L 26.537753,32.491241 L 26.537753,40.973779 L 6.577917,23.973588 L 26.531563,6.7295901 L 26.531563,15.502125 L 39.490316,15.496821 z "
        style="opacity:1.0000000;color:#000000;fill:url(#radialGradient2597);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#727e0a;stroke-width:1.0000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
     <path
        sodipodi:nodetypes="cccccc"
        id="path8645"
-       d="M 26.113368,8.0717266 L 26.113368,16.034451 L 38.930538,16.034451 L 38.930538,24.918914 C 22.180538,18.668914 22.797001,30.213626 7.5470000,23.963626 L 26.113368,8.0717266 z "
+       d="M 25.988368,7.9779766 L 25.988368,16.034451 L 38.930538,16.034451 L 38.930538,24.918914 C 22.180538,18.668914 22.797001,30.213626 7.547,23.963626 L 25.988368,7.9779766 z "
        style="opacity:0.50802141;color:#000000;fill:url(#radialGradient8656);fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
     <path
        style="opacity:0.48128340;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.0000004;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
-       d="M 38.475551,16.541365 L 38.475551,31.463305 L 25.615184,31.463305 L 25.615184,38.764721 L 7.8246690,23.969030 L 25.724895,9.0636299 L 25.724895,16.546262 L 38.475551,16.541365 z "
+       d="M 38.475551,16.541365 L 38.475551,31.463305 L 25.490184,31.463305 L 25.490184,38.764721 L 8.168419,23.96903 L 25.506145,9.0636299 L 25.506145,16.546262 L 38.475551,16.541365 z "
        id="path8658"
        sodipodi:nodetypes="cccccccc" />
   </g>

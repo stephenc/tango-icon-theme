@@ -1,3 +1,10 @@
+2005-10-28  Jakub Steiner <jimmac@ximian.com>
+
+	* scalable/actions/go-last.svg
+	* scalable/actions/go-next.svg
+	* scalable/actions/go-previous.svg: tweak shapes a little (snap to
+	grid)
+
 2005-10-27  Jakub Steiner <jimmac@ximian.com>
 
 	* */actions/Makefile.am: forgot to add edit-copy, thanks Steven!

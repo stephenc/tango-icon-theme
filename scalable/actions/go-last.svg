@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-last.svg"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/actions"
    inkscape:version="0.42+devel"
    sodipodi:version="0.32"
    id="svg11300"
@@ -785,9 +785,9 @@
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="32.302662"
-     inkscape:cx="65.189277"
-     inkscape:zoom="1"
+     inkscape:cy="29.200557"
+     inkscape:cx="70.352189"
+     inkscape:zoom="4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
@@ -868,7 +868,7 @@
     <path
        sodipodi:nodetypes="ccccccccc"
        id="path8645"
-       d="M 21.817170,7.1863873 L 21.817170,15.149112 L 9.0000000,15.149112 L 9.0000000,24.033575 C 25.750000,17.783575 29.633537,29.453287 44.883537,23.203287 L 44.866945,7.1053120 L 40.037853,7.0698370 L 40.021262,22.721862 L 21.817170,7.1863873 z "
+       d="M 21.81717,7.1863873 L 21.81717,15.149112 L 9,15.149112 L 9,24.033575 C 23.75,28.283575 28.133537,18.203287 44.883537,23.203287 L 44.866945,7.105312 L 40.037853,7.069837 L 40.021262,22.721862 L 21.81717,7.1863873 z "
        style="opacity:0.50802141;color:#000000;fill:url(#radialGradient8656);fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
     <path
        style="opacity:0.48128340;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.0000004;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
