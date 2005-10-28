@@ -1,5 +1,9 @@
 2005-10-28  Jakub Steiner <jimmac@ximian.com>
 
+	* edit-undo, edit-redo: flip'em
+
+2005-10-28  Jakub Steiner <jimmac@ximian.com>
+
 	* preferences-desktop.svg: add a little bit of detail
 
 2005-10-28  Jakub Steiner <jimmac@ximian.com>
