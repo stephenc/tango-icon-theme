@@ -12,6 +12,7 @@ icons_DATA =			\
 	document-new.png	\
 	document-print.png	\
 	edit-copy.png		\
+	edit-cut.png	\
 	edit-paste.png		\
 	edit-redo.png	\
 	edit-undo.png	\
