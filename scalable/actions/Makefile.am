@@ -13,6 +13,8 @@ icons_DATA =			\
 	document-print.svg	\
 	edit-copy.svg		\
 	edit-paste.svg		\
+	edit-redo.svg	\
+	edit-undo.svg	\
 	go-bottom.svg	\
 	go-down.svg	\
 	go-first.svg	\

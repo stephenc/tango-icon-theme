@@ -13,6 +13,8 @@ icons_DATA =			\
 	document-print.png	\
 	edit-copy.png		\
 	edit-paste.png		\
+	edit-redo.png	\
+	edit-undo.png	\
 	go-bottom.png	\
 	go-down.png	\
 	go-first.png	\

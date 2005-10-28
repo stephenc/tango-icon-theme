@@ -1,5 +1,9 @@
 2005-10-28  Jakub Steiner <jimmac@ximian.com>
 
+	* edit-undo, edit-redo: yellow goodness
+	
+2005-10-28  Jakub Steiner <jimmac@ximian.com>
+
 	* scalable/actions/go-last.svg
 	* scalable/actions/go-next.svg
 	* scalable/actions/go-previous.svg: tweak shapes a little (snap to
