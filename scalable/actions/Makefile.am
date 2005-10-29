@@ -30,6 +30,7 @@ icons_DATA =			\
 	system-log-out.svg	\
 	system-search.svg	\
 	system-shutdown.svg	\
+	tab-new.svg	\
 	view-refresh.svg
 
 EXTRA_DIST =			\

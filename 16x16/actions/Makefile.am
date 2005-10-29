@@ -30,6 +30,7 @@ icons_DATA =			\
 	system-log-out.png	\
 	system-search.png	\
 	system-shutdown.png	\
+	tab-new.png	\
 	view-refresh.png
 
 EXTRA_DIST =			\
