@@ -24,7 +24,7 @@
    id="metadata367"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
-         rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" /><dc:title>Go Home</dc:title><dc:creator><cc:Agent><dc:title>jakub Steiner</dc:title></cc:Agent></dc:creator><dc:source>http://jimmac.musichall.cz</dc:source><dc:subject><rdf:Bag><rdf:li>home</rdf:li><rdf:li>return</rdf:li><rdf:li>go</rdf:li><rdf:li>default</rdf:li><rdf:li>user</rdf:li><rdf:li>directory</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" /><dc:title>Go Home</dc:title><dc:creator><cc:Agent><dc:title>Jakub Steiner</dc:title></cc:Agent></dc:creator><dc:source>http://jimmac.musichall.cz</dc:source><dc:subject><rdf:Bag><rdf:li>home</rdf:li><rdf:li>return</rdf:li><rdf:li>go</rdf:li><rdf:li>default</rdf:li><rdf:li>user</rdf:li><rdf:li>directory</rdf:li></rdf:Bag></dc:subject><dc:contributor><cc:Agent><dc:title>Tuomas Kuosmanen</dc:title></cc:Agent></dc:contributor></cc:Work><cc:License
        rdf:about="http://creativecommons.org/licenses/by-sa/2.0/"><cc:permits
          rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
          rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
@@ -1178,8 +1178,8 @@
    inkscape:cy="14.259584"
    inkscape:cx="39.269109"
    inkscape:zoom="8"
-   inkscape:window-height="704"
-   inkscape:window-width="822"
+   inkscape:window-height="691"
+   inkscape:window-width="770"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
    borderopacity="0.21568627"
@@ -1187,8 +1187,8 @@
    pagecolor="#ffffff"
    id="base"
    inkscape:showpageshadow="false"
-   inkscape:window-x="252"
-   inkscape:window-y="833"
+   inkscape:window-x="304"
+   inkscape:window-y="846"
    inkscape:current-layer="svg2"
    fill="#555753"
    showgrid="false"
