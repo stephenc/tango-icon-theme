@@ -1,3 +1,9 @@
+2005-11-01  Jakub Steiner <jimmac@ximian.com>
+
+	* document-save: in the end we go with widely recognised floppy
+		metaphor. Artwork by Tuomas Kuosmanen. Dude, get the bloody cvs
+		account!
+
 2005-10-31  Jakub Steiner <jimmac@ximian.com>
 
 	* scalable/actions/go-home.svg: tweak the roof a little

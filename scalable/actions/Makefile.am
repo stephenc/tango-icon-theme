@@ -11,6 +11,7 @@ icons_DATA =			\
 	contact-new.svg		\
 	document-new.svg	\
 	document-print.svg	\
+	document-save.svg	\
 	edit-copy.svg		\
 	edit-cut.svg	\
 	edit-paste.svg		\
