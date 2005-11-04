@@ -27,6 +27,7 @@ icons_DATA =			\
 	go-previous.png		\
 	go-top.png	\
 	go-up.png	\
+	help-contents.png	\
 	process-stop.png	\
 	system-log-out.png	\
 	system-search.png	\

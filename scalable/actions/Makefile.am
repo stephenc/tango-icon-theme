@@ -27,6 +27,7 @@ icons_DATA =			\
 	go-previous.svg		\
 	go-top.svg	\
 	go-up.svg	\
+	help-contents.svg	\
 	process-stop.svg	\
 	system-log-out.svg	\
 	system-search.svg	\

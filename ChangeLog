@@ -1,3 +1,8 @@
+2005-11-04  Jakub Steiner <jimmac@ximian.com>
+
+	* help-contents: I'd perhaps leave it the same as help-browser,
+	  but...
+
 2005-11-03  Jakub Steiner <jimmac@ximian.com>
 
 	* audio-input-microphone: testing 1,2,3...
