@@ -11,6 +11,7 @@ icons_DATA =			\
 	contact-new.png		\
 	document-new.png	\
 	document-print.png	\
+	document-properties.png	\
 	document-save.png	\
 	edit-copy.png		\
 	edit-cut.png	\

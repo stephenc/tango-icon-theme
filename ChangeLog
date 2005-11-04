@@ -1,5 +1,6 @@
 2005-11-04  Jakub Steiner <jimmac@ximian.com>
 
+	* document-properties: hopefully emblem works
 	* help-contents: I'd perhaps leave it the same as help-browser,
 	  but...
 
