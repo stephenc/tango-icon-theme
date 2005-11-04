@@ -9,7 +9,8 @@ icons_DATA =			\
 	dialog-information.png	\
 	dialog-warning.png	\
 	image-loading.png	\
-	image-missing.png
+	image-missing.png	\
+	mail-attachment.png
 
 EXTRA_DIST =			\
 	$(icons_DATA)
