@@ -18,6 +18,10 @@ icons_DATA =			\
 	edit-paste.svg		\
 	edit-redo.svg	\
 	edit-undo.svg	\
+	format-justify-center.svg	\
+	format-justify-fill.svg	\
+	format-justify-left.svg	\
+	format-justify-right.svg	\
 	go-bottom.svg	\
 	go-down.svg	\
 	go-first.svg	\

@@ -18,6 +18,10 @@ icons_DATA =			\
 	edit-paste.png		\
 	edit-redo.png	\
 	edit-undo.png	\
+	format-justify-center.png	\
+	format-justify-fill.png	\
+	format-justify-left.png	\
+	format-justify-right.png	\
 	go-bottom.png	\
 	go-down.png	\
 	go-first.png	\
