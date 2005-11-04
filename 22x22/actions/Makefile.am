@@ -18,6 +18,8 @@ icons_DATA =			\
 	edit-paste.png		\
 	edit-redo.png	\
 	edit-undo.png	\
+	format-indent-less.png	\
+	format-indent-more.png	\
 	format-justify-center.png	\
 	format-justify-fill.png	\
 	format-justify-left.png	\

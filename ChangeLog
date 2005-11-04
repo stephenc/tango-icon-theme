@@ -1,5 +1,10 @@
 2005-11-04  Jakub Steiner <jimmac@ximian.com>
 
+	* format-indent-less:
+	* format-indent-more: based on Andreas' format icons
+
+2005-11-04  Jakub Steiner <jimmac@ximian.com>
+
 	* mail-attachment:
 	* dialog-warning: more icons from Andreas (and Garrett)
 

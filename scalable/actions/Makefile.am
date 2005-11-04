@@ -18,6 +18,8 @@ icons_DATA =			\
 	edit-paste.svg		\
 	edit-redo.svg	\
 	edit-undo.svg	\
+	format-indent-less.svg	\
+	format-indent-more.svg	\
 	format-justify-center.svg	\
 	format-justify-fill.svg	\
 	format-justify-left.svg	\
