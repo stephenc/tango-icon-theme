@@ -7,6 +7,7 @@ iconsdir = $(themedir)/$(size)/$(context)
 icons_DATA =			\
 	battery-caution.svg	\
 	dialog-information.svg	\
+	dialog-warning.svg	\
 	image-loading.svg \
 	image-missing.svg
 

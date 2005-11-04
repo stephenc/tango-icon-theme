@@ -7,6 +7,7 @@ iconsdir = $(themedir)/$(size)/$(context)
 icons_DATA =			\
 	battery-caution.png	\
 	dialog-information.png	\
+	dialog-warning.png	\
 	image-loading.png	\
 	image-missing.png
 
