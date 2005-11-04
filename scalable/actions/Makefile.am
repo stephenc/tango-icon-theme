@@ -10,6 +10,7 @@ icons_DATA =			\
 	bookmark-new.svg	\
 	contact-new.svg		\
 	document-new.svg	\
+	document-open.svg	\
 	document-print.svg	\
 	document-properties.svg	\
 	document-save.svg	\
