@@ -12,6 +12,7 @@ icons_DATA =			\
 	document-new.svg	\
 	document-open.svg	\
 	document-print.svg	\
+	document-print-preview.svg	\
 	document-properties.svg	\
 	document-save.svg	\
 	edit-copy.svg		\
