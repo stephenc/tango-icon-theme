@@ -42,7 +42,8 @@ icons_DATA =			\
 	system-search.png	\
 	system-shutdown.png	\
 	tab-new.png	\
-	view-refresh.png
+	view-refresh.png \
+	window-new.png	
 
 EXTRA_DIST =			\
 	$(icons_DATA)

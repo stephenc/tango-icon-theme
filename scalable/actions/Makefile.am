@@ -42,7 +42,8 @@ icons_DATA =			\
 	system-search.svg	\
 	system-shutdown.svg	\
 	tab-new.svg	\
-	view-refresh.svg
+	view-refresh.svg	\
+	window-new.svg	
 
 EXTRA_DIST =			\
 	$(icons_DATA)
