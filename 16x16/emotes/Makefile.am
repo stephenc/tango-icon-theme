@@ -10,7 +10,8 @@ icons_DATA =				\
 	face-grin.png	\
 	face-laughing.png	\
 	face-sad.png	\
-	face-shocked.png
+	face-shocked.png	\
+	face-wink.png
 
 EXTRA_DIST =				\
 	$(icons_DATA)

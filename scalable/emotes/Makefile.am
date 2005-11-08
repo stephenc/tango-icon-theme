@@ -10,7 +10,8 @@ icons_DATA =				\
 	face-grin.svg	\
 	face-laughing.svg	\
 	face-sad.svg	\
-	face-shocked.svg
+	face-shocked.svg	\
+	face-wink.svg
 
 EXTRA_DIST =				\
 	$(icons_DATA)
