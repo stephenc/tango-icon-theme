@@ -1,5 +1,9 @@
 2005-11-10  Jakub Steiner <jimmac@ximian.com>
 
+	* image-x-generic: nicer.
+	
+2005-11-10  Jakub Steiner <jimmac@ximian.com>
+
 	* document-save:
 	* document-save-as: use a more up-to-date metaphor
 	* media-floppy: use the old save as media icon
