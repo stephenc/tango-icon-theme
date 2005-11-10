@@ -542,43 +542,5 @@
        d="M 34.767155,16.211613 L 32.782979,18.757322 C 27.372947,17.241029 24.896829,21.486664 17.109284,20.489112 L 13.247998,16.080077 L 20.434468,16.162862 C 20.483219,4.3164571 8.3443098,4.998966 5.0292663,13.627829 C 8.8372201,-1.2611216 27.893316,0.8064118 28.28332,16.114112 L 34.767155,16.211613 z "
        id="path4989"
        sodipodi:nodetypes="cccccccc" />
-    <rect
-       style="opacity:1;color:#000000;fill:#fdfdfd;fill-opacity:1;fill-rule:nonzero;stroke:#535353;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="rect6951"
-       width="39.247944"
-       height="12.278223"
-       x="4.5635238"
-       y="30.298382"
-       rx="1.6249996"
-       ry="1.6249996" />
-    <rect
-       style="opacity:1;color:#000000;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="rect6953"
-       width="16"
-       height="7"
-       x="7"
-       y="33"
-       ry="0" />
-    <rect
-       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="rect6957"
-       width="1"
-       height="9"
-       x="24"
-       y="32" />
-    <rect
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="rect6959"
-       width="4"
-       height="5"
-       x="8"
-       y="34" />
-    <rect
-       y="34"
-       x="13"
-       height="5"
-       width="4"
-       id="rect6961"
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
   </g>
 </svg>
