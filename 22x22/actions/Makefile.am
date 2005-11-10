@@ -28,6 +28,10 @@ icons_DATA =			\
 	format-justify-fill.png	\
 	format-justify-left.png	\
 	format-justify-right.png	\
+	format-text-bold.png	\
+	format-text-italic.png	\
+	format-text-strikethrough.png	\
+	format-text-underline.png	\
 	go-bottom.png	\
 	go-down.png	\
 	go-first.png	\

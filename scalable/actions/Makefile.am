@@ -28,6 +28,10 @@ icons_DATA =			\
 	format-justify-fill.svg	\
 	format-justify-left.svg	\
 	format-justify-right.svg	\
+	format-text-bold.svg	\
+	format-text-italic.svg	\
+	format-text-strikethrough.svg	\
+	format-text-underline.svg	\
 	go-bottom.svg	\
 	go-down.svg	\
 	go-first.svg	\

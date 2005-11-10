@@ -1,5 +1,13 @@
 2005-11-10  Jakub Steiner <jimmac@ximian.com>
 
+	* format-text-bold:
+	* format-text-italic:
+	* format-text-underline:
+	* format-text-strikethrough: submitted by David Schroeder (touched
+	  up)
+
+2005-11-10  Jakub Steiner <jimmac@ximian.com>
+
 	* x-directory-normal:
 	* x-directory-normal-drag-accept:
 	* x-directory-normal-open: (new state)
