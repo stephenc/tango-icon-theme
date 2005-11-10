@@ -13,7 +13,7 @@ icons_DATA =			\
 	image-missing.png	\
 	locked.png	\
 	mail-attachment.png	\
-	unloaked.png
+	unlocked.png
 
 EXTRA_DIST =			\
 	$(icons_DATA)
