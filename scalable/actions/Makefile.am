@@ -15,6 +15,7 @@ icons_DATA =			\
 	document-print-preview.svg	\
 	document-properties.svg	\
 	document-save.svg	\
+	edit-clear.svg	\
 	edit-copy.svg		\
 	edit-cut.svg	\
 	edit-paste.svg		\
