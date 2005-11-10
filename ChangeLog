@@ -1,5 +1,9 @@
 2005-11-10  Jakub Steiner <jimmac@ximian.com>
 
+	* dialog-error: touch-ups
+
+2005-11-10  Jakub Steiner <jimmac@ximian.com>
+
 	* (r) face-happy:
 	* face-smile: according to the naming spec. man renaming in cvs is
 	  a pain!
