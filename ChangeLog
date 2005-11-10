@@ -1,5 +1,13 @@
 2005-11-10  Jakub Steiner <jimmac@ximian.com>
 
+	* x-directory-normal:
+	* x-directory-normal-drag-accept:
+	* x-directory-normal-open: (new state)
+	* x-directory-remote: based on feedback, disconnect from Novell
+	  dots and make more lively (works better on grey backgrounds too)
+	
+2005-11-10  Jakub Steiner <jimmac@ximian.com>
+
 	* image-x-generic: nicer.
 	
 2005-11-10  Jakub Steiner <jimmac@ximian.com>

@@ -19,6 +19,7 @@ icons_DATA =					\
 	x-directory-normal-drag-accept.icon	\
 	x-directory-normal-drag-accept.svg	\
 	x-directory-normal-home.svg		\
+	x-directory-normal-open.svg		\
 	x-directory-normal-visiting.icon	\
 	x-directory-normal-visiting.svg		\
 	x-directory-normal.icon			\
