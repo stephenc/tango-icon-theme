@@ -15,9 +15,9 @@
    sodipodi:version="0.32"
    inkscape:version="0.42+devel"
    version="1.0"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions"
-   sodipodi:docname="document-save.svg"
-   inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions/document-save.png"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/22x22/devices"
+   sodipodi:docname="media-floppy.svg"
+   inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/22x22/devices/media-floppy.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000">
   <defs
@@ -138,8 +138,8 @@
      inkscape:grid-points="false"
      inkscape:window-width="1059"
      inkscape:window-height="966"
-     inkscape:window-x="230"
-     inkscape:window-y="49"
+     inkscape:window-x="547"
+     inkscape:window-y="147"
      fill="#204a87"
      stroke="#3465a4" />
   <metadata
@@ -152,7 +152,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-        <dc:title>Document Save</dc:title>
+        <dc:title>Media Floppy</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Tuomas Kuosmanen</dc:title>
@@ -165,6 +165,8 @@
             <rdf:li>store</rdf:li>
             <rdf:li>file</rdf:li>
             <rdf:li>io</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>floppy</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:contributor>

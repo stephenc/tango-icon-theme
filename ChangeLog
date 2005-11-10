@@ -1,5 +1,11 @@
 2005-11-10  Jakub Steiner <jimmac@ximian.com>
 
+	* document-save:
+	* document-save-as: use a more up-to-date metaphor
+	* media-floppy: use the old save as media icon
+	
+2005-11-10  Jakub Steiner <jimmac@ximian.com>
+
 	* locked, unlocked: new status icons from Andreas
 
 2005-11-10  Jakub Steiner <jimmac@ximian.com>

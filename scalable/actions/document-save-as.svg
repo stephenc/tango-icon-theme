@@ -9,7 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="document-save.svg"
+   sodipodi:docname="document-save-as.svg"
    sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/actions"
    inkscape:version="0.42+devel"
    sodipodi:version="0.32"
@@ -18,6 +18,17 @@
    width="48px">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient6965">
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1;"
+         offset="0"
+         id="stop6967" />
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:1;"
+         offset="1"
+         id="stop6969" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6925">
@@ -312,6 +323,15 @@
        x2="7"
        y2="21.118431"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6965"
+       id="linearGradient6971"
+       x1="28.061466"
+       y1="31.431349"
+       x2="28.061466"
+       y2="36.437492"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:window-y="178"
@@ -320,11 +340,11 @@
      inkscape:window-width="999"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     showgrid="true"
+     showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="11.891468"
-     inkscape:cx="28.318495"
-     inkscape:zoom="16"
+     inkscape:cy="15.12998"
+     inkscape:cx="36.05811"
+     inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.22745098"
@@ -342,7 +362,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Save</dc:title>
+        <dc:title>Save As</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Jakub Steiner</dc:title>
@@ -352,7 +372,7 @@
           <rdf:Bag>
             <rdf:li>hdd</rdf:li>
             <rdf:li>hard drive</rdf:li>
-            <rdf:li>save</rdf:li>
+            <rdf:li>save as</rdf:li>
             <rdf:li>io</rdf:li>
             <rdf:li>store</rdf:li>
           </rdf:Bag>
@@ -543,7 +563,7 @@
        id="path4989"
        sodipodi:nodetypes="cccccccc" />
     <rect
-       style="opacity:1;color:#000000;fill:#fdfdfd;fill-opacity:1;fill-rule:nonzero;stroke:#535353;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+       style="opacity:1;color:#000000;fill:url(#linearGradient6971);fill-opacity:1.0;fill-rule:nonzero;stroke:#7d7d7d;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
        id="rect6951"
        width="39.247944"
        height="12.278223"
@@ -552,7 +572,7 @@
        rx="1.6249996"
        ry="1.6249996" />
     <rect
-       style="opacity:1;color:#000000;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+       style="opacity:0.59659091;color:#000000;fill:#7d7d7d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
        id="rect6953"
        width="16"
        height="7"
@@ -566,19 +586,5 @@
        height="9"
        x="24"
        y="32" />
-    <rect
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="rect6959"
-       width="4"
-       height="5"
-       x="8"
-       y="34" />
-    <rect
-       y="34"
-       x="13"
-       height="5"
-       width="4"
-       id="rect6961"
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
   </g>
 </svg>

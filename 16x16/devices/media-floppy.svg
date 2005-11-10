@@ -15,8 +15,8 @@
    sodipodi:version="0.32"
    inkscape:version="0.42+devel"
    version="1.0"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/16x16/actions"
-   sodipodi:docname="document-save.svg"
+   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/16x16/devices"
+   sodipodi:docname="media-floppy.svg"
    inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/16x16/actions/document-save.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000">
@@ -251,8 +251,8 @@
      inkscape:grid-points="false"
      inkscape:window-width="941"
      inkscape:window-height="744"
-     inkscape:window-x="37"
-     inkscape:window-y="25"
+     inkscape:window-x="483"
+     inkscape:window-y="181"
      fill="#204a87"
      stroke="#3465a4" />
   <metadata
@@ -272,9 +272,11 @@
             <rdf:li>document</rdf:li>
             <rdf:li>file</rdf:li>
             <rdf:li>io</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>floppy</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:title>Document Save</dc:title>
+        <dc:title>Media Floppy</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Tuomas Kuosmanen &lt;tigert@novell.com&gt;</dc:title>

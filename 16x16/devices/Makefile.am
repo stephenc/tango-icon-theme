@@ -18,6 +18,7 @@ icons_DATA =				\
 	input-keyboard.png		\
 	input-mouse.png			\
 	media-cdrom.png			\
+	media-floppy.png	\
 	network.png					\
 	network-wireless.png	\
 	printer.png			\
