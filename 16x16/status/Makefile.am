@@ -11,7 +11,9 @@ icons_DATA =			\
 	dialog-warning.png	\
 	image-loading.png	\
 	image-missing.png	\
-	mail-attachment.png
+	locked.png	\
+	mail-attachment.png \
+	unlocked.png
 
 EXTRA_DIST =			\
 	$(icons_DATA)

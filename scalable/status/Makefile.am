@@ -11,7 +11,9 @@ icons_DATA =			\
 	dialog-warning.svg	\
 	image-loading.svg	\
 	image-missing.svg	\
-	mail-attachment.svg
+	locked.svg	\
+	mail-attachment.svg	\
+	unlocked.svg
 
 EXTRA_DIST =			\
 	$(icons_DATA)
