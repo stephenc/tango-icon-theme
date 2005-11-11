@@ -373,10 +373,10 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="891"
-     inkscape:window-height="932"
-     inkscape:window-x="294"
-     inkscape:window-y="762" />
+     inkscape:window-width="892"
+     inkscape:window-height="831"
+     inkscape:window-x="368"
+     inkscape:window-y="57" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -446,7 +446,7 @@
        style="opacity:0.69886361;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient1764);stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
     <path
        style="opacity:0.49431817;color:#000000;fill:url(#radialGradient4997);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       d="M 26.036989,4.5686095 L 31.223727,10.798241 C 27.036227,14.04824 31.036989,25.235424 25.911989,29.610424 L 25.974489,22.943609 C 10.786989,22.881109 11.661989,38.443609 22.724489,42.693609 C 3.6363414,37.811681 6.2869904,13.381109 25.911989,12.88111 L 26.036989,4.5686095 z "
+       d="M 26.036989,4.5686095 L 36.723727,14.798241 C 29.786227,14.79824 32.036989,23.735424 25.911989,26.610424 L 25.974489,22.943609 C 10.786989,22.881109 11.661989,38.443609 22.724489,42.693609 C 3.6363414,37.811681 6.2869904,13.381109 25.911989,12.88111 L 26.036989,4.5686095 z "
        id="path4989"
        sodipodi:nodetypes="ccccccc" />
   </g>
