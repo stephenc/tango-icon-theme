@@ -1,3 +1,8 @@
+2005-11-11  Jakub Steiner <jimmac@ximian.com>
+
+	* scalable/actions/go-home.svg: get rid of the svg namespace.
+	  it krashes ze ksvg.
+	
 2005-11-10  Jakub Steiner <jimmac@ximian.com>
 
 	* format-text-bold:
