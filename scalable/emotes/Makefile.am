@@ -12,8 +12,8 @@ icons_DATA =				\
 	face-grin.svg	\
 	face-laughing.svg	\
 	face-sad.svg	\
-	face-shocked.svg	\
 	face-smile.svg	\
+	face-surprise.svg	\
 	face-wink.svg
 
 EXTRA_DIST =				\
