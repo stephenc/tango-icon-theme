@@ -8,6 +8,7 @@ icons_DATA =				\
 	emblem-favorites.svg	\
 	emblem-important.svg	\
 	emblem-photos.svg	\
+	emblem-symbolic-link.png	\
 	emblem-system.svg
 
 EXTRA_DIST =				\
