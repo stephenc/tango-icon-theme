@@ -27,6 +27,7 @@ icons_DATA =					\
 	x-directory-trash-full.png		\
 	x-directory-trash.png			\
 	x-office-address-book.png		\
+	x-office-document.png		\
 	x-office-spreadsheet.png
 
 EXTRA_DIST =					\

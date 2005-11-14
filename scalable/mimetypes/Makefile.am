@@ -30,6 +30,7 @@ icons_DATA =					\
 	x-directory-trash-full.svg		\
 	x-directory-trash.svg			\
 	x-office-address-book.svg		\
+	x-office-document.svg		\
 	x-office-spreadsheet.svg
 
 EXTRA_DIST =					\
