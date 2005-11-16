@@ -1,5 +1,10 @@
 2005-11-16  Jakub Steiner <jimmac@ximian.com>
 
+	* system-lock-screen: too many complaints about the icon looking
+		like an egg. Liked it personally, but ...
+		
+2005-11-16  Jakub Steiner <jimmac@ximian.com>
+
 	* mail-message-new:
 	* edit-find: New icons from Steven Garrity. I think we'll stick
 		with binoculars or glasses for zoom.
