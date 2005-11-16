@@ -19,6 +19,7 @@ icons_DATA =			\
 	edit-clear.png	\
 	edit-copy.png		\
 	edit-cut.png	\
+	edit-find.png	\
 	edit-paste.png		\
 	edit-redo.png	\
 	edit-undo.png	\
@@ -43,6 +44,7 @@ icons_DATA =			\
 	go-top.png	\
 	go-up.png	\
 	help-contents.png	\
+	mail-message-new.png	\
 	process-stop.png	\
 	system-log-out.png	\
 	system-search.png	\

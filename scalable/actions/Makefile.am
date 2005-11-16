@@ -19,6 +19,7 @@ icons_DATA =			\
 	edit-clear.svg	\
 	edit-copy.svg		\
 	edit-cut.svg	\
+	edit-find.svg	\
 	edit-paste.svg		\
 	edit-redo.svg	\
 	edit-undo.svg	\
@@ -43,6 +44,7 @@ icons_DATA =			\
 	go-top.svg	\
 	go-up.svg	\
 	help-contents.svg	\
+	mail-message-new.svg	\
 	process-stop.svg	\
 	system-log-out.svg	\
 	system-search.svg	\

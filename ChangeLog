@@ -1,3 +1,9 @@
+2005-11-16  Jakub Steiner <jimmac@ximian.com>
+
+	* mail-message-new:
+	* edit-find: New icons from Steven Garrity. I think we'll stick
+		with binoculars or glasses for zoom.
+
 2005-11-14  Jakub Steiner <jimmac@ximian.com>
 
 	* emblem-important: !
