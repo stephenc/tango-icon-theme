@@ -14,7 +14,7 @@
    id="svg97"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/actions"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
    sodipodi:docname="directory-new.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -1556,10 +1556,10 @@
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1026"
-     inkscape:window-height="998"
-     inkscape:window-x="-13"
-     inkscape:window-y="58"
+     inkscape:window-width="872"
+     inkscape:window-height="586"
+     inkscape:window-x="505"
+     inkscape:window-y="302"
      inkscape:showpageshadow="false"
      stroke="#3465a4" />
   <metadata
@@ -1570,7 +1570,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Folder Icon</dc:title>
+        <dc:title>New Folder</dc:title>
         <dc:date />
         <dc:creator>
           <cc:Agent>
@@ -1578,14 +1578,21 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
         <dc:source>http://jimmac.musichall.cz</dc:source>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>folder</rdf:li>
             <rdf:li>directory</rdf:li>
+            <rdf:li>create</rdf:li>
+            <rdf:li>new</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Tuomas Kuosmanen</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by/2.0/">
