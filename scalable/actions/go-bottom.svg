@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-bottom.svg"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
-   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/jimmac/scalable"
+   inkscape:version="0.43+devel"
    sodipodi:version="0.32"
    id="svg11300"
    height="48px"
@@ -21,6 +21,17 @@
    inkscape:export-ydpi="90.000000">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient2309">
+      <stop
+         id="stop2311"
+         offset="0"
+         style="stop-color:#73d216" />
+      <stop
+         id="stop2313"
+         offset="1.0000000"
+         style="stop-color:#4e9a06" />
+    </linearGradient>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8650"
@@ -809,15 +820,15 @@
        r="17.171415" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2591"
+       xlink:href="#linearGradient2309"
        id="radialGradient1441"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-1.871885e-16,0.843022,-1.020168,-2.265228e-16,46.39357,1.413854)"
-       cx="22.291636"
-       cy="32.797512"
-       fx="22.291636"
-       fy="32.797512"
-       r="16.956199" />
+       cx="34.663586"
+       cy="20.321211"
+       fx="34.663586"
+       fy="20.321211"
+       r="16.9562" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8662"
@@ -842,7 +853,7 @@
        r="17.171415" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2591"
+       xlink:href="#linearGradient2309"
        id="radialGradient11961"
        cx="13.904816"
        cy="36.435665"
@@ -853,26 +864,26 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="25"
-     inkscape:window-x="0"
-     inkscape:window-height="885"
-     inkscape:window-width="1280"
+     inkscape:window-y="48"
+     inkscape:window-x="293"
+     inkscape:window-height="664"
+     inkscape:window-width="872"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="19.122118"
-     inkscape:cx="35.42839"
-     inkscape:zoom="1"
+     inkscape:cy="22.011268"
+     inkscape:cx="76.899747"
+     inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     fill="#9db029"
-     stroke="#727e0a" />
+     fill="#4e9a06"
+     stroke="#4e9a06" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -889,15 +900,11 @@
         <dc:source>http://jimmac.musichall.cz</dc:source>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-        <dc:title>Go Down</dc:title>
+        <dc:title>Go to Bottom</dc:title>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>go</rdf:li>
-            <rdf:li>lower</rdf:li>
-            <rdf:li>down</rdf:li>
-            <rdf:li>arrow</rdf:li>
-            <rdf:li>pointer</rdf:li>
-            <rdf:li>&gt;</rdf:li>
+            <rdf:li>bottom</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:contributor>
@@ -938,7 +945,7 @@
        style="opacity:0.20454544;color:#000000;fill:url(#radialGradient1444);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        sodipodi:type="arc" />
     <path
-       style="opacity:1.0000000;color:#000000;fill:url(#radialGradient1441);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#727e0a;stroke-width:1.0000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       style="opacity:1.0000000;color:#000000;fill:url(#radialGradient1441);fill-opacity:1.0;fill-rule:evenodd;stroke:#3b7502;stroke-width:1.0000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        d="M 40.500000,42.500000 L 40.500000,36.503792 L 25.375000,36.503792 L 40.468750,18.500000 L 32.500000,18.437500 L 32.500000,5.4999998 L 14.531250,5.4999998 L 14.531250,18.437500 L 6.5000002,18.437500 L 21.875000,36.503792 L 6.5018962,36.503792 L 6.5018962,42.500000 L 40.500000,42.500000 z "
        id="path10479"
        sodipodi:nodetypes="ccccccccccccc" />
@@ -953,12 +960,12 @@
        id="path10496"
        sodipodi:nodetypes="ccccccccc" />
     <rect
-       style="opacity:0.48099998;fill:url(#radialGradient11961);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.0000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       style="opacity:0.481;fill:url(#radialGradient11961);fill-opacity:1.0;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2163"
        width="32.001644"
        height="4.0094671"
        x="7.4998465"
-       y="37.500000" />
+       y="37.5" />
     <path
        style="opacity:0.17613636;fill:url(#radialGradient7994);fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.25000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
        d="M 40.000000,40.785821 C 27.939340,36.732669 10.597476,42.084912 7.0220967,39.534362 L 7.0376697,37.027779 L 40.000000,37.004571 L 40.000000,40.785821 z "

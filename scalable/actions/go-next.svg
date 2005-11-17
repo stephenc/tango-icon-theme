@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-next.svg"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/actions"
-   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/andreas/projekt/tango/scalable"
+   inkscape:version="0.42+0.43pre2"
    sodipodi:version="0.32"
    id="svg11300"
    height="48"
@@ -25,11 +25,11 @@
     <linearGradient
        id="linearGradient2591">
       <stop
-         style="stop-color:#9db029;stop-opacity:1;"
+         style="stop-color:#73d216"
          offset="0"
          id="stop2593" />
       <stop
-         style="stop-color:#869623;stop-opacity:1.0000000;"
+         style="stop-color:#4e9a06"
          offset="1.0000000"
          id="stop2595" />
     </linearGradient>
@@ -755,26 +755,26 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="485"
-     inkscape:window-x="234"
-     inkscape:window-height="921"
-     inkscape:window-width="886"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="885"
+     inkscape:window-width="1280"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="30.689592"
-     inkscape:cx="37.410692"
-     inkscape:zoom="4"
+     inkscape:cy="27.398876"
+     inkscape:cx="34.827552"
+     inkscape:zoom="11.313708"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     fill="#9db029"
-     stroke="#727e0a" />
+     fill="#4e9a06"
+     stroke="#4e9a06" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -838,7 +838,7 @@
        sodipodi:nodetypes="cccccccc"
        id="path8643"
        d="M 8.5541875,15.517348 L 8.5541875,32.511768 L 21.538,32.511768 L 21.538,41.056806 L 41.497835,24.150365 L 21.41919,7.1251168 L 21.41919,15.522652 L 8.5541875,15.517348 z "
-       style="opacity:1;color:#000000;fill:url(#radialGradient2597);fill-opacity:1;fill-rule:evenodd;stroke:#727e0a;stroke-width:1.00000036;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+       style="opacity:1;color:#000000;fill:url(#radialGradient2597);fill-opacity:1;fill-rule:evenodd;stroke:#3a7304;stroke-width:1.00000036;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     <path
        sodipodi:nodetypes="cccccc"
        id="path8645"

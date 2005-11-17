@@ -1,3 +1,8 @@
+2005-11-17  Jakub Steiner <jimmac@ximian.com>
+
+	* go-*: new color palette fixes by Andreas Nilsson, few shading
+	  fixes
+	
 2005-11-16  Jakub Steiner <jimmac@ximian.com>
 
 	* system-lock-screen: too many complaints about the icon looking

@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-down.svg"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
-   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/andreas/projekt/tango/scalable"
+   inkscape:version="0.42+0.43pre2"
    sodipodi:version="0.32"
    id="svg11300"
    height="48px"
@@ -21,6 +21,17 @@
    inkscape:export-ydpi="90.000000">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient1442">
+      <stop
+         id="stop1444"
+         offset="0"
+         style="stop-color:#73d216" />
+      <stop
+         id="stop1446"
+         offset="1.0000000"
+         style="stop-color:#4e9a06" />
+    </linearGradient>
     <linearGradient
        id="linearGradient2591">
       <stop
@@ -820,7 +831,7 @@
        r="15.644737" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2591"
+       xlink:href="#linearGradient1442"
        id="radialGradient1469"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.871885e-16,-0.843022,1.020168,2.265228e-16,0.606436,42.58614)"
@@ -842,26 +853,26 @@
        r="17.171415" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="36"
-     inkscape:window-x="296"
-     inkscape:window-height="874"
-     inkscape:window-width="984"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="885"
+     inkscape:window-width="1280"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cy="29.717799"
-     inkscape:cx="35.779536"
-     inkscape:zoom="1"
+     inkscape:cy="23.239067"
+     inkscape:cx="30.291728"
+     inkscape:zoom="11.313708"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     fill="#9db029"
-     stroke="#727e0a" />
+     fill="#4e9a06"
+     stroke="#4e9a06" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -930,7 +941,7 @@
        id="g1464"
        transform="matrix(-1.000000,0.000000,0.000000,-1.000000,47.02856,43.99921)">
       <path
-         style="opacity:1.0000000;color:#000000;fill:url(#radialGradient1469);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#727e0a;stroke-width:1.0000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         style="opacity:1.0000000;color:#000000;fill:url(#radialGradient1469);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#3a7304;stroke-width:1.0000004;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
          d="M 14.519136,38.500000 L 32.524165,38.496094 L 32.524165,25.504468 L 40.519531,25.496656 L 23.374809,5.4992135 L 6.5285585,25.497284 L 14.524440,25.501074 L 14.519136,38.500000 z "
          id="path8643"
          sodipodi:nodetypes="cccccccc" />
