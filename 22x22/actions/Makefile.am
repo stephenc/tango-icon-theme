@@ -45,6 +45,14 @@ icons_DATA =			\
 	go-up.png	\
 	help-contents.png	\
 	mail-message-new.png	\
+	media-playback-pause.png	\
+	media-playback-start.png	\
+	media-playback-stop.png	\
+	media-record.png	\
+	media-seek-backward.png	\
+	media-seek-forward.png	\
+	media-skip-backward.png	\
+	media-skip-forward.png	\
 	process-stop.png	\
 	system-log-out.png	\
 	system-search.png	\
