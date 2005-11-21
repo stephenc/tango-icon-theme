@@ -1,5 +1,9 @@
 2005-11-21  Jakub Steiner <jimmac@ximian.com>
 
+	* document-print: make the arrow less obtrusive. Fixes bug #5110
+
+2005-11-21  Jakub Steiner <jimmac@ximian.com>
+
 	* document-open: update to the current folder
 
 2005-11-18  Jakub Steiner <jimmac@ximian.com>
