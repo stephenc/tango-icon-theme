@@ -1,3 +1,9 @@
+2005-11-21  Rodney Dawes  <dobey@novell.com>
+
+	* AUTHORS: Update tigert's mail address
+	
+	* configure.ac: Up version to 0.5.0 for release
+
 2005-11-21  Jakub Steiner <jimmac@ximian.com>
 
 	* go-jump: fix the green
