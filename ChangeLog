@@ -1,5 +1,10 @@
+2005-11-22  Jakub Steiner <jimmac@ximian.com>
+
+	* multimedia-player: generic media player
+
 2005-11-21  Andreas Nilsson <nisses.mail@home.se>
-	* go-previous, go next: fixed the new green for sizes 16x16 and 22x22
+
+* go-previous, go next: fixed the new green for sizes 16x16 and 22x22
 
 2005-11-21  Rodney Dawes  <dobey@novell.com>
 

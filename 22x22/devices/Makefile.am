@@ -19,6 +19,7 @@ icons_DATA =				\
 	input-mouse.png			\
 	media-cdrom.png			\
 	media-floppy.png	\
+	multimedia-player.png	\
 	network.png			\
 	network-wireless.png		\
 	printer.png			\

@@ -19,6 +19,7 @@ icons_DATA =				\
 	input-mouse.svg			\
 	media-cdrom.svg			\
 	media-floppy.svg	\
+	multimedia-player.svg	\
 	network.svg					\
 	network-wireless.svg	\
 	printer.svg			\
