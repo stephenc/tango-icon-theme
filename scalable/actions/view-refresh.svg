@@ -22,6 +22,29 @@
   <defs
      id="defs3">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2690">
+      <stop
+         style="stop-color:#c4d7eb;stop-opacity:1;"
+         offset="0"
+         id="stop2692" />
+      <stop
+         style="stop-color:#c4d7eb;stop-opacity:0;"
+         offset="1"
+         id="stop2694" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2682">
+      <stop
+         style="stop-color:#3977c3;stop-opacity:1;"
+         offset="0"
+         id="stop2684" />
+      <stop
+         style="stop-color:#89aedc;stop-opacity:0;"
+         offset="1"
+         id="stop2686" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient2402">
       <stop
          style="stop-color:#729fcf;stop-opacity:1;"
@@ -109,26 +132,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2831"
-       id="linearGradient1479"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,-1,48.0625,44.125)"
-       x1="13.478554"
-       y1="10.612206"
-       x2="15.419417"
-       y2="19.115122" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2847"
-       id="linearGradient1481"
-       gradientUnits="userSpaceOnUse"
-       x1="37.128052"
-       y1="29.729605"
-       x2="37.065414"
-       y2="26.194071"
-       gradientTransform="translate(1,-2)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2831"
        id="linearGradient1486"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0.465413,-0.277593)"
@@ -202,6 +205,24 @@
        x2="53.588622"
        y2="26.649362"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2682"
+       id="linearGradient2688"
+       x1="36.713837"
+       y1="31.455952"
+       x2="37.124462"
+       y2="24.842253"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2690"
+       id="linearGradient2696"
+       x1="32.647972"
+       y1="30.748846"
+       x2="37.124462"
+       y2="24.842253"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      stroke="#3465a4"
@@ -222,8 +243,8 @@
      inkscape:showpageshadow="false"
      inkscape:window-width="891"
      inkscape:window-height="932"
-     inkscape:window-x="574"
-     inkscape:window-y="168" />
+     inkscape:window-x="666"
+     inkscape:window-y="184" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -309,7 +330,7 @@
        inkscape:r_cx="true"
        id="path2839"
        d="M 28.375,33.4375 C 28.375,33.4375 37.3125,34.0625 34.5625,23.5625 L 42.338388,23.5625 C 42.338388,25.065102 41.75,35.4375 28.375,33.4375 z "
-       style="color:#000000;fill:url(#linearGradient1479);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient1481);stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+       style="color:#000000;fill:url(#linearGradient2696);fill-opacity:1.0;fill-rule:nonzero;stroke:url(#linearGradient2688);stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
     <g
        style="color:#000000;fill:url(#linearGradient2408);fill-opacity:1.0;fill-rule:nonzero;stroke:url(#linearGradient1501);stroke-width:1.31916928;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;opacity:1"
        inkscape:r_cy="true"
