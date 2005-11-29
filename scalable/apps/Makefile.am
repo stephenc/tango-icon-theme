@@ -6,6 +6,7 @@ iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =					\
 	accessories-calculator.svg		\
+	accessories-character-map.svg		\
 	accessories-text-editor.svg		\
 	help-browser.svg			\
 	internet-group-chat.svg			\
