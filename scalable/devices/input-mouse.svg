@@ -10,12 +10,13 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="input-mouse.svg"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/devices"
-   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/devices"
+   inkscape:version="0.43+devel"
    sodipodi:version="0.32"
    id="svg4654"
    height="48px"
-   width="48px">
+   width="48px"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
     <linearGradient
@@ -109,17 +110,6 @@
          offset="1.0000000"
          style="stop-color:#909090;stop-opacity:1.0000000;" />
     </linearGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.390590,-5.505050e-25,2.098157e-24,2.305134,-28.96597,-20.01310)"
-       r="13.261548"
-       fy="14.245288"
-       fx="20.588579"
-       cy="14.245288"
-       cx="20.588579"
-       id="radialGradient11603"
-       xlink:href="#linearGradient11597"
-       inkscape:collect="always" />
     <radialGradient
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.000000,0.000000,0.000000,0.619469,3.608225e-15,12.30737)"

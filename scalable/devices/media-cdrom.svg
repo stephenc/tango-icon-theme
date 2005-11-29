@@ -13,9 +13,10 @@
    height="48.000000px"
    id="svg3077"
    sodipodi:version="0.32"
-   inkscape:version="0.42+devel"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/devices"
-   sodipodi:docname="media-cdrom.svg">
+   inkscape:version="0.43+devel"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/devices"
+   sodipodi:docname="media-cdrom.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
     <linearGradient
@@ -164,46 +165,6 @@
          offset="1"
          style="stop-color:#EBEBEB"
          id="stop3038" />
-    </linearGradient>
-    <linearGradient
-       y2="34.307499"
-       x2="32.511002"
-       y1="11.188500"
-       x1="14.996600"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3112">
-      <stop
-         id="stop3114"
-         style="stop-color:#EBEBEB"
-         offset="0" />
-      <stop
-         id="stop3116"
-         style="stop-color:#FFFFFF"
-         offset="0.5" />
-      <stop
-         id="stop3118"
-         style="stop-color:#EBEBEB"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="14.203300"
-       x2="35.391201"
-       y1="32.416500"
-       x1="12.274400"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3121">
-      <stop
-         id="stop3123"
-         style="stop-color:#FBFBFB"
-         offset="0" />
-      <stop
-         id="stop3125"
-         style="stop-color:#B6B6B6"
-         offset="0.5" />
-      <stop
-         id="stop3127"
-         style="stop-color:#E4E4E4"
-         offset="1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
