@@ -5,6 +5,7 @@ context = categories
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =				\
+	applications-accessories.svg	\
 	applications-development.svg	\
 	applications-games.svg	\
 	applications-graphics.svg	\
