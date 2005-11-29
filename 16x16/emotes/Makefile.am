@@ -10,6 +10,7 @@ icons_DATA =				\
 	face-devil-grin.png	\
 	face-glasses.png	\
 	face-grin.png	\
+	face-kiss.png	\
 	face-sad.png	\
 	face-smile.png	\
 	face-smile-big.png	\

@@ -10,6 +10,7 @@ icons_DATA =				\
 	face-devil-grin.svg	\
 	face-glasses.svg	\
 	face-grin.svg	\
+	face-kiss.svg	\
 	face-sad.svg	\
 	face-smile.svg	\
 	face-smile-big.svg	\
