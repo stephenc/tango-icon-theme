@@ -1,3 +1,8 @@
+2005-11-29  Andreas Nilsson  <nisses.mail@home.se>
+	
+	Fixed the names of the face-kiss emote from face-kiss22 and
+	face-kiss16 to just face-kiss, they should work now.
+
 2005-11-29  Tuomas Kuosmanen  <tigert@tigert.com>
 	
 	Realized inkscape had this nifty commandline option to vacuum
