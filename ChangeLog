@@ -1,3 +1,8 @@
+2005-11-29  Tuomas Kuosmanen  <tigert@tigert.com>
+
+	* scalable/categories/applications-accessories.svg: oopsie, 
+	needed a vacuum defs to clean up and remove <svg:svg stuff..
+
 2005-11-29  Jakub Steiner <jimmac@ximian.com>
 
 	* application-games: libart is more precise than jimmac at 22x22
