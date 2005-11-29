@@ -10,15 +10,16 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="system-software-update.svg"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/apps"
-   inkscape:version="0.42+devel"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/apps"
+   inkscape:version="0.43+devel"
    sodipodi:version="0.32"
    id="svg3440"
    height="48px"
    width="48px"
    inkscape:export-filename="/home/jimmac/Desktop/big-software-update.png"
    inkscape:export-xdpi="360.00000"
-   inkscape:export-ydpi="360.00000">
+   inkscape:export-ydpi="360.00000"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
     <linearGradient
@@ -262,32 +263,6 @@
          style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3978">
-      <stop
-         id="stop3980"
-         offset="0.0000000"
-         style="stop-color:#b8d799;stop-opacity:1.0000000;" />
-      <stop
-         id="stop3984"
-         offset="0.50000000"
-         style="stop-color:#92be66;stop-opacity:1.0000000;" />
-      <stop
-         id="stop3982"
-         offset="1.0000000"
-         style="stop-color:#1d3407;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3970">
-      <stop
-         id="stop3972"
-         offset="0"
-         style="stop-color:#d3d7cf;stop-opacity:1;" />
-      <stop
-         id="stop3974"
-         offset="1.0000000"
-         style="stop-color:#b7bbb4;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient3962">
       <stop
          id="stop3964"
@@ -306,51 +281,6 @@
          offset="1.0000000"
          style="stop-color:#36486c;stop-opacity:1.0000000;" />
     </linearGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       fy="15.0801"
-       fx="22.3018"
-       r="30.7033"
-       cy="15.0801"
-       cx="22.3018"
-       id="aigrd2">
-      <stop
-         id="stop3196"
-         style="stop-color:#FFFFFF"
-         offset="0" />
-      <stop
-         id="stop3198"
-         style="stop-color:#FBFBFB"
-         offset="0.1258" />
-      <stop
-         id="stop3200"
-         style="stop-color:#EFEFEF"
-         offset="0.2514" />
-      <stop
-         id="stop3202"
-         style="stop-color:#DBDBDB"
-         offset="0.3769" />
-      <stop
-         id="stop3204"
-         style="stop-color:#BFBFBF"
-         offset="0.5026" />
-      <stop
-         id="stop3206"
-         style="stop-color:#9B9B9B"
-         offset="0.6283" />
-      <stop
-         id="stop3208"
-         style="stop-color:#6E6E6E"
-         offset="0.7541" />
-      <stop
-         id="stop3210"
-         style="stop-color:#3B3B3B"
-         offset="0.8776" />
-      <stop
-         id="stop3212"
-         style="stop-color:#000000"
-         offset="1" />
-    </radialGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
        r="29.993349"

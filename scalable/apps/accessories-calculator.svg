@@ -13,9 +13,10 @@
    height="48px"
    id="svg5816"
    sodipodi:version="0.32"
-   inkscape:version="0.41"
-   sodipodi:docbase="/home/dobey/Projects/tango-desktop-theme/scalable/apps"
-   sodipodi:docname="accessories-calculator.svg">
+   inkscape:version="0.43+devel"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/apps"
+   sodipodi:docname="accessories-calculator.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
     <linearGradient
@@ -78,282 +79,6 @@
          offset="1"
          id="stop30509" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient29433">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop29435" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop29437" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient29418">
-      <stop
-         style="stop-color:#f5f5f5;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop29420" />
-      <stop
-         style="stop-color:#e9e9e9;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop29422" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient28260">
-      <stop
-         id="stop28262"
-         offset="0.0000000"
-         style="stop-color:#9aa29a;stop-opacity:1.0000000;" />
-      <stop
-         id="stop28264"
-         offset="1.0000000"
-         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient28254">
-      <stop
-         style="stop-color:#9aa29a;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop28256" />
-      <stop
-         style="stop-color:none"
-         offset="1.0000000"
-         id="stop28258" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2274">
-      <stop
-         id="stop2276"
-         offset="0.0000000"
-         style="stop-color:#000000;stop-opacity:0.12871288;" />
-      <stop
-         id="stop2278"
-         offset="1.0000000"
-         style="stop-color:#000000;stop-opacity:0.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient9749">
-      <stop
-         id="stop9751"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop9753"
-         offset="1.0000000"
-         style="stop-color:#ededed;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2152">
-      <stop
-         id="stop2154"
-         offset="0.0000000"
-         style="stop-color:#9aa29a;stop-opacity:1.0000000;" />
-      <stop
-         id="stop2156"
-         offset="1.0000000"
-         style="stop-color:#b5beb5;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2166">
-      <stop
-         id="stop2168"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop2170"
-         offset="1.0000000"
-         style="stop-color:#dcdcdc;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient18913">
-      <stop
-         id="stop18915"
-         offset="0.0000000"
-         style="stop-color:#ededed;stop-opacity:1.0000000;" />
-      <stop
-         id="stop18917"
-         offset="1.0000000"
-         style="stop-color:#c8c8c8;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2136">
-      <stop
-         id="stop2138"
-         offset="0.0000000"
-         style="stop-color:#989690;stop-opacity:1.0000000;" />
-      <stop
-         id="stop2140"
-         offset="1.0000000"
-         style="stop-color:#656460;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient15107">
-      <stop
-         id="stop15109"
-         offset="0.0000000"
-         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
-      <stop
-         id="stop15111"
-         offset="1.0000000"
-         style="stop-color:#e2e2e2;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10691">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop10693" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop10695" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10691"
-       id="radialGradient11382"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.902215,0.525703)"
-       cx="6.7027131"
-       cy="73.615714"
-       fx="6.7027131"
-       fy="73.615714"
-       r="7.2284161" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2274"
-       id="linearGradient27463"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.394900,0.000000,0.000000,0.781058,2.879512,0.343005)"
-       x1="8.7803760"
-       y1="37.784682"
-       x2="9.7619219"
-       y2="32.203162" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9749"
-       id="linearGradient27468"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.370928,0.000000,0.000000,1.443758,2.431133,-0.140786)"
-       x1="11.233107"
-       y1="13.686079"
-       x2="21.111549"
-       y2="24.132717" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2152"
-       id="linearGradient27471"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.454781,0.000000,0.000000,0.762004,2.879512,0.343005)"
-       x1="8.9156475"
-       y1="37.197018"
-       x2="9.8855033"
-       y2="52.090678" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2152"
-       id="linearGradient27474"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.454781,0.000000,0.000000,0.762004,2.879512,0.343005)"
-       x1="8.9156475"
-       y1="37.197018"
-       x2="9.8855033"
-       y2="52.090678" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2166"
-       id="linearGradient27477"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.819266,0.000000,0.000000,1.028193,2.879512,0.343005)"
-       x1="10.184240"
-       y1="15.148383"
-       x2="15.310744"
-       y2="29.568739" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient18913"
-       id="linearGradient27483"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.570607,0.000000,0.000000,1.190976,2.879512,0.343005)"
-       x1="5.8266134"
-       y1="7.2310905"
-       x2="13.467486"
-       y2="17.876846" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient15107"
-       id="linearGradient27486"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.343475,0.000000,0.000000,1.417854,2.879511,0.314599)"
-       x1="11.572842"
-       y1="4.7461626"
-       x2="18.475286"
-       y2="26.022910" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2136"
-       id="linearGradient27488"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.343475,0.000000,0.000000,1.417854,2.879511,0.314599)"
-       x1="2.0618774"
-       y1="15.257116"
-       x2="30.599684"
-       y2="15.257116" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient29418"
-       id="linearGradient29424"
-       x1="19.394928"
-       y1="15.927658"
-       x2="45.052801"
-       y2="15.927658"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient29418"
-       id="linearGradient29429"
-       gradientUnits="userSpaceOnUse"
-       x1="26.011957"
-       y1="10.916001"
-       x2="39.037319"
-       y2="26.257807"
-       gradientTransform="matrix(1.007553,0.000000,0.000000,0.987647,55.17808,0.274607)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient29433"
-       id="radialGradient29439"
-       cx="29.496454"
-       cy="27.645426"
-       fx="29.496454"
-       fy="27.645426"
-       r="11.515739"
-       gradientTransform="matrix(1.000000,0.000000,0.000000,0.346491,-2.705086e-17,18.06653)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient29418"
-       id="linearGradient29443"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.977228,0.000000,0.000000,0.995878,108.8527,9.115637)"
-       x1="35.003674"
-       y1="10.957423"
-       x2="27.273300"
-       y2="24.143761" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient29433"
-       id="radialGradient29455"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.000000,0.000000,0.000000,0.346491,2.266524e-16,18.06653)"
-       cx="29.496454"
-       cy="27.645426"
-       fx="29.496454"
-       fy="27.645426"
-       r="11.515739" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient30505"
@@ -527,69 +252,46 @@
      fill="#2e3436" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title29050">Calculator</dc:title>
-        <dc:creator
-           id="creator29052">
-          <cc:Agent
-             id="Agent29054">
-            <dc:title
-               id="title29056">Jakub Steiner</dc:title>
+        <dc:title>Calculator</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:contributor
-           id="contributor29058">
-          <cc:Agent
-             id="Agent29060">
-            <dc:title
-               id="title29062" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
           </cc:Agent>
         </dc:contributor>
         <cc:license
-           id="license29064"
            rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-        <dc:subject
-           id="subject29080">
-          <rdf:Bag
-             id="Bag29082">
-            <rdf:li
-               id="li29531">calc</rdf:li>
-            <rdf:li
-               id="li29533">calculator</rdf:li>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>calc</rdf:li>
+            <rdf:li>calculator</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/"
-         id="License29066">
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction"
-           id="permits29068" />
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution"
-           id="permits29070" />
+           rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice"
-           id="requires29072" />
+           rdf:resource="http://web.resource.org/cc/Notice" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Attribution"
-           id="requires29074" />
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
-           id="permits29076" />
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike"
-           id="requires29078" />
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>

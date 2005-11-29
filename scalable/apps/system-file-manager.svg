@@ -13,9 +13,10 @@
    height="48px"
    id="svg1288"
    sodipodi:version="0.32"
-   inkscape:version="0.41+cvs"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-desktop-theme/scalable/apps"
-   sodipodi:docname="system-file-manager.svg">
+   inkscape:version="0.43+devel"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/apps"
+   sodipodi:docname="system-file-manager.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
     <linearGradient
@@ -28,50 +29,6 @@
          id="stop3089"
          offset="1.0000000"
          style="stop-color:#6b4301;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2412">
-      <stop
-         style="stop-color:#bbb893;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop2414" />
-      <stop
-         style="stop-color:#514f33;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop2416" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2398">
-      <stop
-         id="stop2400"
-         offset="0.0000000"
-         style="stop-color:#98935a;stop-opacity:1.0000000;" />
-      <stop
-         id="stop2402"
-         offset="1.0000000"
-         style="stop-color:#827e4d;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2390">
-      <stop
-         style="stop-color:#7b794a;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop2392" />
-      <stop
-         style="stop-color:#acaa74;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop2394" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2382">
-      <stop
-         style="stop-color:#aca874;stop-opacity:1;"
-         offset="0"
-         id="stop2384" />
-      <stop
-         style="stop-color:#8b8753;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop2386" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -117,26 +74,6 @@
        x2="38.694427"
        y2="57.468739"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2412"
-       id="radialGradient2418"
-       cx="25.853592"
-       cy="32.929787"
-       fx="25.853592"
-       fy="32.929787"
-       r="1.8119612"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2412"
-       id="radialGradient2436"
-       gradientUnits="userSpaceOnUse"
-       cx="25.853592"
-       cy="32.929787"
-       fx="25.853592"
-       fy="32.929787"
-       r="1.8119612" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="19.168869"
@@ -181,69 +118,45 @@
      inkscape:window-y="74" />
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title2448">File Manager</dc:title>
-        <dc:creator
-           id="creator2450">
-          <cc:Agent
-             id="Agent2452">
-            <dc:title
-               id="title2454">Jakub Steiner</dc:title>
+        <dc:title>File Manager</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:source
-           id="source2456">http://jimmac.musichall.cz</dc:source>
-        <dc:subject
-           id="subject2458">
-          <rdf:Bag
-             id="Bag2460">
-            <rdf:li
-               id="li2728">file</rdf:li>
-            <rdf:li
-               id="li2730">manager</rdf:li>
-            <rdf:li
-               id="li2732">copy</rdf:li>
-            <rdf:li
-               id="li2734">move</rdf:li>
-            <rdf:li
-               id="li2736">filesystem</rdf:li>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>file</rdf:li>
+            <rdf:li>manager</rdf:li>
+            <rdf:li>copy</rdf:li>
+            <rdf:li>move</rdf:li>
+            <rdf:li>filesystem</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           id="license2738"
            rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/2.0/"
-         id="License2754">
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction"
-           id="permits2756" />
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution"
-           id="permits2758" />
+           rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice"
-           id="requires2760" />
+           rdf:resource="http://web.resource.org/cc/Notice" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Attribution"
-           id="requires2762" />
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
-           id="permits2764" />
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike"
-           id="requires2766" />
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
