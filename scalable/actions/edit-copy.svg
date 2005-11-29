@@ -13,9 +13,10 @@
    height="48px"
    id="svg4198"
    sodipodi:version="0.32"
-   inkscape:version="0.42+devel"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
-   sodipodi:docname="edit-copy.svg">
+   inkscape:version="0.43+devel"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/actions"
+   sodipodi:docname="edit-copy.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4200">
     <linearGradient
@@ -39,16 +40,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient15218"
-       id="linearGradient15224"
-       x1="22.308331"
-       y1="18.992140"
-       x2="35.785294"
-       y2="39.498238"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.060837,0.000000,0.000000,0.987595,4.641161,4.108291)" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient2259">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -59,38 +50,6 @@
          offset="1"
          id="stop2263" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2259"
-       id="linearGradient2265"
-       x1="26.076092"
-       y1="26.696676"
-       x2="30.811172"
-       y2="42.007351"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.993566,0.000000,0.000000,1.000000,6.219859,4.033411)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2216">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2218" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop2220" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2216"
-       id="linearGradient2222"
-       x1="36.8125"
-       y1="39.15625"
-       x2="39.0625"
-       y2="42.0625"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(6.161836,4.033411)" />
     <linearGradient
        id="linearGradient2224">
       <stop
