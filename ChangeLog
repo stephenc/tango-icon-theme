@@ -1,3 +1,71 @@
+2005-11-29  Tuomas Kuosmanen  <tigert@tigert.com>
+	
+	Realized inkscape had this nifty commandline option to vacuum
+	defs.
+	
+	 # du -s -h scalable/actions
+	 # 1.6M
+	 # for i in *.svg; do inkscape --vacuum-defs $i; done
+	 # du -s -h scalable/actions
+	 # 1.1M
+
+	Hm. We need a cleaning!
+
+	before: 5.2M    scalable/
+	after:  3.8M    scalable/
+
+	 (I committed just those that shrunk over 1k)
+
+	* scalable/actions/ -> appointment-new.svg bookmark-new.svg
+	contact-new.svg directory-new.svg document-new.svg
+	document-open.svg document-print-preview.svg document-print.svg
+	document-properties.svg edit-clear.svg edit-copy.svg edit-redo.svg
+	edit-undo.svg format-justify-left.svg format-text-bold.svg
+	format-text-italic.svg format-text-strikethrough.svg
+	format-text-underline.svg go-bottom.svg go-down.svg go-first.svg
+	go-jump.svg go-last.svg go-next.svg go-up.svg help-contents.svg
+	mail-message-new.svg system-log-out.svg system-search.svg
+	system-shutdown.svg window-new.svg: saved 500k
+
+	* scalable/apps/ -> accessories-calculator.svg
+	accessories-text-editor.svg help-browser.svg
+	internet-group-chat.svg preferences-desktop-accessibility.svg
+	preferences-desktop-font.svg preferences-desktop-screensaver.svg
+	preferences-desktop-theme.svg preferences-desktop-wallpaper.svg
+	preferences-system-session.svg preferences-system-windows.svg
+	system-file-manager.svg system-installer.svg
+	system-lock-screen.svg system-software-update.svg
+	utilities-terminal.svg: saved 100k
+
+	* scalable/categories: applications-development.svg
+	applications-games.svg applications-graphics.svg
+	preferences-desktop.svg: saved ~50k
+
+	* scalable/devices: audio-card.svg audio-input-microphone.svg
+	battery.svg camera-photo.svg camera-video.svg drive-cdrom.svg
+	drive-removable-media.svg input-gaming.svg input-keyboard.svg
+	input-mouse.svg media-cdrom.svg network.svg network-wireless.svg
+	printer.svg video-display.svg: saved 110k
+
+	* scalable/emblems: emblem-important.svg emblem-symbolic-link.svg
+	emblem-system.svg: saved ~24k
+
+	* scalable/emotes: face-crying.svg face-devil-grin.svg
+	face-kiss.svg face-smile-big.svg: saved 16k
+
+	* scalable/mimetypes: application-x-executable.svg
+	audio-x-generic.svg package-x-generic.svg text-html.svg
+	text-x-generic.svg text-x-generic-template.svg text-x-script.svg
+	x-directory-desktop.svg x-directory-normal-drag-accept.svg
+	x-directory-normal-home.svg
+	x-directory-normal-open.svgx-directory-normal.svg
+	x-directory-normal-visiting.svg x-directory-remote.svg
+	x-directory-trash-full.svg x-directory-trash.svg
+	x-office-document.svg: saved LOTS, around 600k
+
+	* scalable/status: dialog-error.svg dialog-information.svg
+	image-loading.svg image-missing.svg unlocked.svg: saved around 35k
+
 2005-11-29  Andreasn Nilsson <nisses.mail@home.se>
 
 	* face-kiss: :-* -emote by Lapo Calamandrei
