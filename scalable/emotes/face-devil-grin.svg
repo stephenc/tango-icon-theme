@@ -14,11 +14,12 @@
    id="svg4376"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/jimmac/gfx/ximian/tango-icon-theme/scalable/emotes"
+   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/emotes"
    sodipodi:docname="face-devil-grin.svg"
    inkscape:export-filename="/home/tigert/Desktop/face-grin.png"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-ydpi="90.000000">
+   inkscape:export-ydpi="90.000000"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
     <linearGradient
@@ -93,21 +94,6 @@
          id="stop2106" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3290">
-      <stop
-         style="stop-color:#fffcde;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop3292" />
-      <stop
-         id="stop3294"
-         offset="0.64485979"
-         style="stop-color:#f6e76a;stop-opacity:1.0000000;" />
-      <stop
-         style="stop-color:#ffb738;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop3296" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient3068">
       <stop
          style="stop-color:#cccccc;stop-opacity:1.0000000;"
@@ -152,16 +138,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2102"
-       id="linearGradient2108"
-       x1="14.000000"
-       y1="21.062500"
-       x2="14.000000"
-       y2="32.875000"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.000000,0.000000,0.000000,1.033654,1.500000,-0.627404)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2102"
        id="linearGradient2112"
        gradientUnits="userSpaceOnUse"
        x1="14.000000"
@@ -189,16 +165,6 @@
        y1="21.062500"
        x2="14.500000"
        y2="33.431156" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2102"
-       id="linearGradient2124"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.000000,0.000000,0.000000,1.071351,-22.50000,-3.854623)"
-       x1="14.000000"
-       y1="21.062500"
-       x2="14.000000"
-       y2="35.744175" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3068"
