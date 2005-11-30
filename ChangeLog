@@ -1,3 +1,13 @@
+2005-11-30  Rodney Dawes  <dobey@novell.com>
+
+	* */apps/system-lock-screen.*: This belongs in actions, not apps
+
+	* */actions/directory-new.*: Renamed to folder-new
+
+	* */actions/folder-new.*: Renamed version of directory-new
+	
+	* */actions/system-lock-screen.*: Moved here from apps folder
+
 2005-11-29  Jakub Steiner <jimmac@ximian.com>
 
 	* face-kiss: shape fixups

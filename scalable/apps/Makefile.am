@@ -24,10 +24,9 @@ icons_DATA =					\
 	preferences-system-windows.svg		\
 	system-file-manager.svg			\
 	system-installer.svg			\
-	system-lock-screen.svg			\
 	system-software-update.svg		\
 	system-users.svg			\
-	utilities-system-monitor.svg	\
+	utilities-system-monitor.svg		\
 	utilities-terminal.svg
 
 EXTRA_DIST =					\

@@ -24,10 +24,9 @@ icons_DATA =					\
 	preferences-system-windows.png		\
 	system-file-manager.png			\
 	system-installer.png			\
-	system-lock-screen.png			\
 	system-software-update.png		\
 	system-users.png			\
-	utilities-system-monitor.png \
+	utilities-system-monitor.png 		\
 	utilities-terminal.png
 
 EXTRA_DIST =					\
