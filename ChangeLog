@@ -1,5 +1,9 @@
 2005-11-30  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.5.1 for release
+
+2005-11-30  Rodney Dawes  <dobey@novell.com>
+
 	* */apps/system-lock-screen.*: This belongs in actions, not apps
 
 	* */actions/directory-new.*: Renamed to folder-new
