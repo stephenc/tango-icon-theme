@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-top.svg"
-   sodipodi:docbase="/home/andreas/projekt/tango/22"
-   inkscape:version="0.42+0.43pre2"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions"
+   inkscape:version="0.43+devel"
    sodipodi:version="0.32"
    id="svg11300"
    height="22.000000px"
@@ -824,10 +824,10 @@
        id="radialGradient1441"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-9.317958e-17,0.419644,-0.507824,-1.127596e-16,47.38696,22.04717)"
-       cx="34.086746"
-       cy="15.827333"
-       fx="34.086746"
-       fy="15.827333"
+       cx="16.661263"
+       cy="24.011763"
+       fx="16.661263"
+       fy="24.011763"
        r="16.956199" />
     <radialGradient
        inkscape:collect="always"
@@ -886,8 +886,8 @@
        r="17.171415" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="25"
-     inkscape:window-x="0"
+     inkscape:window-y="5"
+     inkscape:window-x="432"
      inkscape:window-height="885"
      inkscape:window-width="1280"
      inkscape:showpageshadow="false"
@@ -972,7 +972,10 @@
          style="opacity:1.0000000;color:#000000;fill:url(#radialGradient1441);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#3a7304;stroke-width:1.0000012;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
          d="M 44.546986,43.487106 L 44.546986,39.514389 L 36.924245,39.514389 L 44.437681,30.552380 L 40.470960,30.521269 L 40.470960,24.478929 L 31.526394,24.478929 L 31.526394,30.521269 L 27.528561,30.521269 L 35.181999,39.514389 L 27.529506,39.514389 L 27.529506,43.487106 L 44.546986,43.487106 z "
          id="path2688"
-         sodipodi:nodetypes="ccccccccccccc" />
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions/go-up.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <g
          id="g1451"
          transform="matrix(1.000000,0.000000,0.000000,-1.000000,-3.822583e-3,65.99479)">

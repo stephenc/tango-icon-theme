@@ -8,6 +8,7 @@ icons_DATA =				\
 	emblem-favorites.svg	\
 	emblem-important.svg	\
 	emblem-photos.svg	\
+	emblem-readonly.svg	\
 	emblem-symbolic-link.svg	\
 	emblem-system.svg
 

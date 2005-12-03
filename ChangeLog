@@ -1,3 +1,7 @@
+2005-12-03  Jakub Steiner <jimmac@ximian.com>
+
+	* emblem-readonly: for unwritable items
+
 2005-11-30  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.5.1 for release

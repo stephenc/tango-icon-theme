@@ -10,13 +10,13 @@
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="go-down.svg"
-   sodipodi:docbase="/home/jimmac/22"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions"
    inkscape:version="0.43+devel"
    sodipodi:version="0.32"
    id="svg11300"
    height="22.000000px"
    width="22.000000px"
-   inkscape:export-filename="/home/jimmac/22/go-down.png"
+   inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions/go-down.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000">
   <defs
@@ -864,8 +864,8 @@
        r="17.171415" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="25"
-     inkscape:window-x="0"
+     inkscape:window-y="73"
+     inkscape:window-x="237"
      inkscape:window-height="885"
      inkscape:window-width="1280"
      inkscape:showpageshadow="false"
