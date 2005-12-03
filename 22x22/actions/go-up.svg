@@ -16,7 +16,7 @@
    id="svg11300"
    height="22.000000px"
    width="22.000000px"
-   inkscape:export-filename="/home/andreas/projekt/tango/22/go-up.png"
+   inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions/go-up.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000">
   <defs
@@ -856,11 +856,11 @@
        xlink:href="#linearGradient1437"
        id="radialGradient1456"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(9.369482e-17,-0.409379,0.510632,1.100013e-16,24.55439,43.47984)"
+       gradientTransform="matrix(-9.369482e-17,-0.409379,-0.510632,1.100013e-16,47.49663,43.47984)"
        cx="13.547347"
-       cy="20.940437"
+       cy="22.464554"
        fx="13.547347"
-       fy="20.940437"
+       fy="22.464554"
        r="16.956199" />
     <radialGradient
        inkscape:collect="always"
@@ -875,8 +875,8 @@
        r="17.171415" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="25"
-     inkscape:window-x="0"
+     inkscape:window-y="73"
+     inkscape:window-x="671"
      inkscape:window-height="885"
      inkscape:window-width="1280"
      inkscape:showpageshadow="false"
@@ -959,17 +959,23 @@
        transform="matrix(-1.000000,0.000000,0.000000,-1.000000,47.02856,43.99921)">
       <g
          id="g1451"
-         transform="matrix(1.000000,0.000000,0.000000,-1.000000,-3.822583e-3,65.99479)">
+         transform="matrix(-1,0,0,-1,72.0472,65.99479)"
+         inkscape:r_cx="true"
+         inkscape:r_cy="true">
         <path
            sodipodi:nodetypes="cccccccc"
            id="path8643"
-           d="M 31.518218,41.495580 L 40.530404,41.493681 L 40.530404,35.505248 L 44.532383,35.501456 L 35.950811,25.470125 L 27.518636,35.479664 L 31.520871,35.481503 L 31.518218,41.495580 z "
-           style="opacity:1.0000000;color:#000000;fill:url(#radialGradient1456);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#3a7304;stroke-width:0.99999917;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+           d="M 40.532801,41.49558 L 31.520615,41.493681 L 31.520615,35.505248 L 27.518636,35.501456 L 36.100208,25.470125 L 44.532383,35.479664 L 40.530148,35.481503 L 40.532801,41.49558 z "
+           style="opacity:1;color:#000000;fill:url(#radialGradient1456);fill-opacity:1;fill-rule:evenodd;stroke:#3a7304;stroke-width:0.99999917;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+           inkscape:r_cx="true"
+           inkscape:r_cy="true" />
         <path
-           style="opacity:0.48128340;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
-           d="M 32.526157,40.486750 L 39.540651,40.488550 L 39.540651,34.514200 L 42.419869,34.507002 L 35.945357,27.019634 L 29.690791,34.475864 L 32.524969,34.478281 L 32.526157,40.486750 z "
+           style="opacity:0.48128339;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+           d="M 32.526157,40.48675 L 39.540651,40.48855 L 39.540651,34.5142 L 42.419869,34.507002 L 35.945357,27.019634 L 29.690791,34.475864 L 32.524969,34.478281 L 32.526157,40.48675 z "
            id="path8658"
-           sodipodi:nodetypes="cccccccc" />
+           sodipodi:nodetypes="cccccccc"
+           inkscape:r_cx="true"
+           inkscape:r_cy="true" />
       </g>
       <path
          sodipodi:nodetypes="cccccc"
