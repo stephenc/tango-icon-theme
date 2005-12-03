@@ -10,7 +10,8 @@ icons_DATA =				\
 	emblem-photos.svg	\
 	emblem-readonly.svg	\
 	emblem-symbolic-link.svg	\
-	emblem-system.svg
+	emblem-system.svg	\
+	emblem-unreadable.svg
 
 EXTRA_DIST =				\
 	$(icons_DATA)

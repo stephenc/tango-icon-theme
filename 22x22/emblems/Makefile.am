@@ -10,7 +10,8 @@ icons_DATA =				\
 	emblem-photos.png	\
 	emblem-readonly.png	\
 	emblem-symbolic-link.png	\
-	emblem-system.png
+	emblem-system.png	\
+	emblem-unreadable.png
 
 EXTRA_DIST =				\
 	$(icons_DATA)

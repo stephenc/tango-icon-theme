@@ -1,6 +1,7 @@
 2005-12-03  Jakub Steiner <jimmac@ximian.com>
 
 	* emblem-readonly: for unwritable items
+	* emblem-unreadable: for unreadable items
 
 2005-11-30  Rodney Dawes  <dobey@novell.com>
 
