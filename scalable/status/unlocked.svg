@@ -644,9 +644,9 @@
      borderopacity="0.19607843"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="26.035027"
-     inkscape:cy="26.73554"
+     inkscape:zoom="11.313708"
+     inkscape:cx="26.388884"
+     inkscape:cy="28.431207"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -659,8 +659,8 @@
      fill="#c4a000"
      inkscape:window-width="872"
      inkscape:window-height="663"
-     inkscape:window-x="700"
-     inkscape:window-y="333"
+     inkscape:window-x="181"
+     inkscape:window-y="404"
      showborder="true"
      inkscape:showpageshadow="false" />
   <metadata
@@ -912,7 +912,7 @@ Lapo Calamandrei</dc:title>
          inkscape:r_cx="true"
          sodipodi:nodetypes="ccccczcccczccc"
          id="path2086"
-         d="M 14.625,19.194666 L 14.5,17.773114 C 16.082652,18.703615 17.401837,18.604506 18,18.023112 L 14.5,15.523113 L 14.5,6.892856 C 14.378104,-1.0416346 18.139338,-3.204022 24.395027,-1.9348152 C 30.571757,-0.6816282 37.5,7.6479326 37.5,13.625 L 37.5,21.859846 C 37.416053,23.563431 32.536612,20.932149 32.5,19.234846 L 32.5,11.375 C 32.5,9.497501 29.683916,3.8385626 25.452241,4.0147537 C 21.30729,4.187334 20.489989,7.343455 20.52268,9.2955955 L 20.58518,22.355576 C 20.875,24.589755 14.625,21.644953 14.625,19.194666 z "
+         d="M 14.625,19.194666 L 14.5,17.773114 C 16.082652,18.703615 17.401837,18.604506 18,18.023112 L 14.5,15.523113 L 14.5,6.892856 C 14.378104,-1.0416346 18.139338,-3.204022 24.395027,-1.9348152 C 30.571757,-0.6816282 37.5,7.6479326 37.5,13.625 L 37.5,21.859846 C 37.416053,23.563431 32.536612,20.932149 32.5,19.234846 L 32.5,11.375 C 32.5,9.497501 29.9793,4.8322283 25.452241,4.0147537 C 20.953737,3.2024354 20.52268,6.1233627 20.52268,9.2955955 L 20.58518,22.355576 C 20.875,24.589755 14.625,21.644953 14.625,19.194666 z "
          style="fill:url(#linearGradient1392);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient1394);stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:r_cy="true"
