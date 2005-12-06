@@ -106,10 +106,10 @@
        id="linearGradient1401"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-1,0,0,1,95.99994,-121)"
-       x1="51.113514"
-       y1="161.06604"
-       x2="54.521976"
-       y2="148.06299" />
+       x1="53.499996"
+       y1="158.41438"
+       x2="53.499996"
+       y2="142.05258" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2584"
@@ -178,8 +178,8 @@
      stroke="#729fcf"
      inkscape:window-width="1144"
      inkscape:window-height="808"
-     inkscape:window-x="72"
-     inkscape:window-y="0"
+     inkscape:window-x="499"
+     inkscape:window-y="62"
      showborder="true"
      inkscape:showpageshadow="false"
      borderlayer="top">

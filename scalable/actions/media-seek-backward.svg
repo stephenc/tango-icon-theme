@@ -106,10 +106,10 @@
        id="linearGradient1401"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-47.9996,-121)"
-       x1="51.113514"
-       y1="161.06604"
-       x2="54.521976"
-       y2="148.06299" />
+       x1="54.988514"
+       y1="156"
+       x2="54.896976"
+       y2="142.18799" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2584"
@@ -159,9 +159,9 @@
      borderopacity="0.15294118"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="41.521823"
-     inkscape:cy="29.404515"
+     inkscape:zoom="8"
+     inkscape:cx="65.199418"
+     inkscape:cy="17.655272"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -177,8 +177,8 @@
      stroke="#729fcf"
      inkscape:window-width="1144"
      inkscape:window-height="808"
-     inkscape:window-x="72"
-     inkscape:window-y="0"
+     inkscape:window-x="471"
+     inkscape:window-y="34"
      showborder="true"
      inkscape:showpageshadow="false"
      borderlayer="top">
