@@ -1,5 +1,10 @@
 2005-12-06  Jakub Steiner <jimmac@ximian.com>
 
+	* media-seek*:
+	* media-skip*: sunken look
+
+2005-12-06  Jakub Steiner <jimmac@ximian.com>
+
 	* {un,}locked.svg: worked with Lapo's change of perspective.
 	
 2005-12-06  Jakub Steiner <jimmac@ximian.com>
