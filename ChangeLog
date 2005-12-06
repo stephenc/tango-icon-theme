@@ -1,3 +1,10 @@
+2005-12-06  Jakub Steiner <jimmac@ximian.com>
+
+	* media-playback-start:
+	* media-playback-stop:
+	* media-playback-pause: try sunken look with darker outline.
+		Seek/skip + 16x16 TODO.
+
 2005-12-03  Jakub Steiner <jimmac@ximian.com>
 
 	* README: update information
