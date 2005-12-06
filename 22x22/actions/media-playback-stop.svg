@@ -534,7 +534,7 @@
        xlink:href="#linearGradient2679"
        id="radialGradient2924"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.898174e-6,-0.56155,2.739142,-6.551066e-7,-271.9038,110.3895)"
+       gradientTransform="matrix(4.898174e-6,-0.56155,2.739142,-6.551066e-7,-272.9038,110.3895)"
        cx="169.77171"
        cy="100.20107"
        fx="169.77171"
@@ -545,7 +545,7 @@
        xlink:href="#linearGradient2817"
        id="linearGradient2927"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.610243,0,0,0.62002,-271.0388,-47.41214)"
+       gradientTransform="matrix(1.610243,0,0,0.62002,-272.0388,-47.41214)"
        x1="174.83363"
        y1="84.263489"
        x2="174.74524"
@@ -597,8 +597,8 @@
      stroke="#555753"
      inkscape:window-width="872"
      inkscape:window-height="588"
-     inkscape:window-x="921"
-     inkscape:window-y="0"
+     inkscape:window-x="702"
+     inkscape:window-y="233"
      showborder="true"
      inkscape:showpageshadow="false">
     <sodipodi:guide
@@ -731,7 +731,7 @@
      inkscape:r_cy="true">
     <path
        style="opacity:0.15;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2927);stroke-width:2;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       d="M 5.1180598,4.9795713 L 5.1180598,17.999996 L 18.000003,17.999996 L 18.000003,4.9795713 L 5.1180598,4.9795713 z "
+       d="M 4.1180598,4.9795713 L 4.1180598,17.999996 L 17.000003,17.999996 L 17.000003,4.9795713 L 4.1180598,4.9795713 z "
        id="path2815"
        inkscape:r_cx="true"
        inkscape:r_cy="true" />
@@ -739,23 +739,23 @@
        inkscape:r_cy="true"
        inkscape:r_cx="true"
        style="color:#000000;fill:url(#radialGradient2924);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       d="M 6,6 L 6,17 L 17,17 L 17,6 L 6,6 z "
+       d="M 5,6 L 5,17 L 16,17 L 16,6 L 5,6 z "
        id="path2827" />
     <path
        inkscape:r_cy="true"
        inkscape:r_cx="true"
        id="path2762"
-       d="M 5.529973,5.5000007 L 5.529973,17.506783 L 17.499998,17.506783 L 17.499998,5.5000007 L 5.529973,5.5000007 z "
+       d="M 4.529973,5.5000007 L 4.529973,17.506783 L 16.499998,17.506783 L 16.499998,5.5000007 L 4.529973,5.5000007 z "
        style="color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:1.00000024;stroke-linecap:square;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     <path
        inkscape:r_cy="true"
        inkscape:r_cx="true"
        style="color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       d="M 6.5875233,6.4999976 L 6.5875233,16.502855 L 16.500007,16.502855 L 16.500007,6.4999976 L 6.5875233,6.4999976 z "
+       d="M 5.5875233,6.4999976 L 5.5875233,16.502855 L 15.500007,16.502855 L 15.500007,6.4999976 L 5.5875233,6.4999976 z "
        id="path2811" />
     <path
        style="opacity:0.5;color:#000000;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       d="M 7,7.0530328 L 7,11.334411 L 16,10.96318 L 16,7 L 7,7.0530328 z "
+       d="M 6,7.0530328 L 6,11.334411 L 15,10.96318 L 15,7 L 6,7.0530328 z "
        id="path2479"
        inkscape:r_cx="true"
        inkscape:r_cy="true"
