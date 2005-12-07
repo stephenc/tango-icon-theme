@@ -1,5 +1,9 @@
 2005-12-07  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.6.0 for release
+
+2005-12-07  Rodney Dawes  <dobey@novell.com>
+
 	* */apps/Makefile.am:
 	* */apps/preferences-desktop-assistive-technology:
 	* */apps/preferences-desktop-keyboard-shortcuts:
