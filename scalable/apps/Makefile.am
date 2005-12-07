@@ -4,32 +4,37 @@ context = apps
 
 iconsdir = $(themedir)/$(size)/$(context)
 
-icons_DATA =					\
-	accessories-calculator.svg		\
-	accessories-character-map.svg		\
-	accessories-text-editor.svg		\
-	help-browser.svg			\
-	internet-group-chat.svg			\
-	internet-mail.svg			\
-	internet-news-reader.svg		\
-	internet-web-browser.svg		\
-	multimedia-volume-control.svg		\
-	office-calendar.svg			\
-	preferences-desktop-accessibility.svg	\
-	preferences-desktop-font.svg		\
-	preferences-desktop-screensaver.svg	\
-	preferences-desktop-theme.svg		\
-	preferences-desktop-wallpaper.svg	\
-	preferences-system-session.svg		\
-	preferences-system-windows.svg		\
-	system-file-manager.svg			\
-	system-installer.svg			\
-	system-software-update.svg		\
-	system-users.svg			\
-	utilities-system-monitor.svg		\
+icons_DATA =						\
+	accessories-calculator.svg			\
+	accessories-character-map.svg			\
+	accessories-text-editor.svg			\
+	help-browser.svg				\
+	internet-group-chat.svg				\
+	internet-mail.svg				\
+	internet-news-reader.svg			\
+	internet-web-browser.svg			\
+	multimedia-volume-control.svg			\
+	office-calendar.svg				\
+	preferences-desktop-accessibility.svg		\
+	preferences-desktop-assistive-technology.svg	\
+	preferences-desktop-font.svg			\
+	preferences-desktop-keyboard-shortcuts.svg	\
+	preferences-desktop-remote-desktop.svg		\
+	preferences-desktop-screensaver.svg		\
+	preferences-desktop-sound.svg			\
+	preferences-desktop-theme.svg			\
+	preferences-desktop-wallpaper.svg		\
+	preferences-system-network-proxy.svg		\
+	preferences-system-session.svg			\
+	preferences-system-windows.svg			\
+	system-file-manager.svg				\
+	system-installer.svg				\
+	system-software-update.svg			\
+	system-users.svg				\
+	utilities-system-monitor.svg			\
 	utilities-terminal.svg
 
-EXTRA_DIST =					\
+EXTRA_DIST =						\
 	$(icons_DATA)
 
 install-data-local: install-iconsDATA
