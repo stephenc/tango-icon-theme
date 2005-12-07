@@ -7,7 +7,7 @@ iconsdir = $(themedir)/$(size)/$(context)
 icons_DATA =				\
 	audio-card.png			\
 	audio-input-microphone.png	\
-	battery.png					\
+	battery.png			\
 	camera-photo.png		\
 	camera-video.png		\
 	computer.png			\
@@ -18,10 +18,10 @@ icons_DATA =				\
 	input-keyboard.png		\
 	input-mouse.png			\
 	media-cdrom.png			\
-	media-floppy.png	\
-	multimedia-player.png	\
-	network.png					\
-	network-wireless.png	\
+	media-floppy.png		\
+	multimedia-player.png		\
+	network-wired.png		\
+	network-wireless.png		\
 	printer.png			\
 	printer-remote.png		\
 	video-display.png
