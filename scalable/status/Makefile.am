@@ -9,11 +9,17 @@ icons_DATA =			\
 	dialog-error.svg	\
 	dialog-information.svg	\
 	dialog-warning.svg	\
+	folder-drag-accept.icon	\
+	folder-drag-accept.svg	\
+	folder-open.svg		\
+	folder-visiting.icon	\
+	folder-visiting.svg	\
 	image-loading.svg	\
 	image-missing.svg	\
-	locked.svg	\
+	locked.svg		\
 	mail-attachment.svg	\
-	unlocked.svg
+	unlocked.svg		\
+	user-trash-full.svg
 
 EXTRA_DIST =			\
 	$(icons_DATA)

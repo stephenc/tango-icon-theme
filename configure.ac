@@ -7,7 +7,7 @@ AC_CONFIG_SRCDIR(index.theme.in)
 AM_INIT_AUTOMAKE([1.9 tar-ustar])
 
 AC_PROG_INTLTOOL([0.33])
-PKG_PROG_PKG_CONFIG([0.15.0])
+PKG_PROG_PKG_CONFIG([0.19])
 
 GETTEXT_PACKAGE="${PACKAGE}"
 AC_SUBST(GETTEXT_PACKAGE)
@@ -26,9 +26,20 @@ AC_SUBST(ACLOCAL_AMFLAGS, "\${ACLOCAL_FLAGS}")
 # Define the toplevel path here
 AC_SUBST(themedir, "\${datadir}/icons/Tango")
 
-AC_PATH_PROG(ICONMAP, icon-name-mapping)
-if test -z "$ICONMAP"; then
-   AC_MSG_ERROR([icon-naming-utils is required for tango-icon-theme])
+UTILS_REQUIRED=0.6.0
+
+AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
+PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,
+                 have_utils=yes, have_utils=no)
+if test "x$have_utils" = "xyes"; then
+   UTILS_PATH="`$PKG_CONFIG --variable=program_path icon-naming-utils`"
+   ICONMAP="$UTILS_PATH/icon-name-mapping"
+   AC_SUBST(ICONMAP)
+   AC_MSG_RESULT([yes])
+else
+   AC_MSG_RESULT([no])
+   AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build
+                 and install tango-icon-theme])
 fi
 
 # Check for convert from ImageMagick to add the 1x1 frame to 22x22 icons
@@ -96,6 +107,7 @@ Makefile
 16x16/emblems/Makefile
 16x16/emotes/Makefile
 16x16/mimetypes/Makefile
+16x16/places/Makefile
 16x16/status/Makefile
 22x22/Makefile
 22x22/actions/Makefile
@@ -105,6 +117,7 @@ Makefile
 22x22/emblems/Makefile
 22x22/emotes/Makefile
 22x22/mimetypes/Makefile
+22x22/places/Makefile
 22x22/status/Makefile
 scalable/Makefile
 scalable/actions/Makefile
@@ -114,6 +127,7 @@ scalable/devices/Makefile
 scalable/emblems/Makefile
 scalable/emotes/Makefile
 scalable/mimetypes/Makefile
+scalable/places/Makefile
 scalable/status/Makefile
 po/Makefile.in
 svg2png.sh

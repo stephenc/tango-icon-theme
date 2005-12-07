@@ -1,3 +1,20 @@
+2005-12-07  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Fix the icon-naming-utils check to use pkgconfig and
+	require icon-naming-utils >= 0.6.0
+	Add */places/Makefile to the config files to output
+
+	* */Makefile.am: Add places to SUBDIRS
+
+	* */emblems/Makefile.am:
+	* */emblems/emblem-favorites.*: Rename to emblem-favorite
+
+	* */places/Makefile.am: Add the new places context in to cover some
+	of the icons we have in Tango
+
+	* */mimetypes/x-directory*: Rename and move to places or status as
+	according to the latest version of the Icon Naming Specification
+
 2005-12-06  Jakub Steiner <jimmac@ximian.com>
 
 	* media-seek*:

@@ -1,23 +1,18 @@
 
 size = scalable
-context = mimetypes
+context = places
 
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =					\
-	application-certificate.svg		\
-	application-x-executable.svg		\
-	audio-x-generic.svg			\
-	image-x-generic.svg			\
-	package-x-generic.svg			\
-	text-html.svg				\
-	text-x-generic.svg			\
-	text-x-generic-template.svg		\
-	text-x-script.svg			\
-	video-x-generic.svg			\
-	x-office-address-book.svg		\
-	x-office-document.svg			\
-	x-office-spreadsheet.svg
+	folder-remote.svg			\
+	folder.icon				\
+	folder.svg				\
+	network-server.svg			\
+	network-workgroup.svg			\
+	user-desktop.svg			\
+	user-home.svg				\
+	user-trash.svg
 
 EXTRA_DIST =					\
 	$(icons_DATA)
