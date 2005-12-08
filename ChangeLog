@@ -1,3 +1,11 @@
+2005-12-08  Rodney Dawes  <dobey@novell.com>
+
+	* index.theme.in: Applied patch from Niko Mirthes to:
+	Add the places directories to the list
+	Update some KDE specific stuff for 3.5
+	Set the MinSize on scalable/status to 32
+	Set the MaxSize on scalable/* to 256 instead of 2048
+
 2005-12-07  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.6.0 for release
