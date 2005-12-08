@@ -1,5 +1,9 @@
 2005-12-08  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.6.1 for release
+
+2005-12-08  Rodney Dawes  <dobey@novell.com>
+
 	* index.theme.in: Applied patch from Niko Mirthes to:
 	Add the places directories to the list
 	Update some KDE specific stuff for 3.5
