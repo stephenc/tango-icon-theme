@@ -9,11 +9,15 @@ icons_DATA =			\
 	dialog-error.png	\
 	dialog-information.png	\
 	dialog-warning.png	\
+	folder-drag-accept.png	\
+	folder-open.png		\
+	folder-visiting.png	\
 	image-loading.png	\
 	image-missing.png	\
-	locked.png	\
+	locked.png		\
 	mail-attachment.png	\
-	unlocked.png
+	unlocked.png		\
+	user-trash-full.png
 
 EXTRA_DIST =			\
 	$(icons_DATA)
