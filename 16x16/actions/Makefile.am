@@ -46,6 +46,7 @@ icons_DATA =				\
 	go-up.png			\
 	help-contents.png		\
 	mail-message-new.png		\
+	media-eject.png	\
 	media-playback-pause.png	\
 	media-playback-start.png	\
 	media-playback-stop.png		\

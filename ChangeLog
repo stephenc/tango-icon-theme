@@ -1,3 +1,7 @@
+2005-12-14  Jakub Steiner <jimmac@ximian.com>
+
+	* media-eject: the missing button
+
 2005-12-12  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.6.2 for release
