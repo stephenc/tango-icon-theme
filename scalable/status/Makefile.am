@@ -4,24 +4,25 @@ context = status
 
 iconsdir = $(themedir)/$(size)/$(context)
 
-icons_DATA =			\
-	battery-caution.svg	\
-	dialog-error.svg	\
-	dialog-information.svg	\
-	dialog-warning.svg	\
-	folder-drag-accept.icon	\
-	folder-drag-accept.svg	\
-	folder-open.svg		\
-	folder-visiting.icon	\
-	folder-visiting.svg	\
-	image-loading.svg	\
-	image-missing.svg	\
-	locked.svg		\
-	mail-attachment.svg	\
-	unlocked.svg		\
+icons_DATA =				\
+	battery-caution.svg		\
+	dialog-error.svg		\
+	dialog-information.svg		\
+	dialog-warning.svg		\
+	folder-drag-accept.icon		\
+	folder-drag-accept.svg		\
+	folder-open.svg			\
+	folder-visiting.icon		\
+	folder-visiting.svg		\
+	image-loading.svg		\
+	image-missing.svg		\
+	locked.svg			\
+	mail-attachment.svg		\
+	network-wireless-encrypted.svg	\
+	unlocked.svg			\
 	user-trash-full.svg
 
-EXTRA_DIST =			\
+EXTRA_DIST =				\
 	$(icons_DATA)
 
 install-data-local: install-iconsDATA

@@ -4,22 +4,23 @@ context = status
 
 iconsdir = $(themedir)/$(size)/$(context)
 
-icons_DATA =			\
-	battery-caution.png	\
-	dialog-error.png	\
-	dialog-information.png	\
-	dialog-warning.png	\
-	folder-drag-accept.png	\
-	folder-open.png		\
-	folder-visiting.png	\
-	image-loading.png	\
-	image-missing.png	\
-	locked.png		\
-	mail-attachment.png	\
-	unlocked.png		\
+icons_DATA =				\
+	battery-caution.png		\
+	dialog-error.png		\
+	dialog-information.png		\
+	dialog-warning.png		\
+	folder-drag-accept.png		\
+	folder-open.png			\
+	folder-visiting.png		\
+	image-loading.png		\
+	image-missing.png		\
+	locked.png			\
+	mail-attachment.png		\
+	network-wireless-encrypted.png	\
+	unlocked.png			\
 	user-trash-full.png
 
-EXTRA_DIST =			\
+EXTRA_DIST =				\
 	$(icons_DATA)
 
 install-data-local: install-iconsDATA
