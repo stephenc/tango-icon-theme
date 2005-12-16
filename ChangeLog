@@ -1,5 +1,9 @@
 2005-12-16  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.6.3 for release
+
+2005-12-16  Rodney Dawes  <dobey@novell.com>
+
 	* scalable/status/media-playback-start.svg: Match border color with
 	the media-playback-stop icon, and remove the opaque background setting
 	Patch from Niko Mirthes
