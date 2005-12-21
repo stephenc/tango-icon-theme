@@ -1,3 +1,7 @@
+2005-12-21  Jakub Steiner <jimmac@ximian.com>
+
+	* folder-saved-search: for query-based virtual folders
+
 2005-12-16  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.6.3 for release
