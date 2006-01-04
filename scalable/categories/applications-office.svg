@@ -944,7 +944,10 @@
      inkscape:window-x="2359"
      inkscape:window-y="0"
      width="48px"
-     height="48px" />
+     height="48px"
+     objecttolerance="1"
+     inkscape:object-nodes="false"
+     inkscape:has_abs_tolerance="false" />
   <metadata
      id="metadata4">
     <rdf:RDF>

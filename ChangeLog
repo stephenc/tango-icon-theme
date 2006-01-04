@@ -1,5 +1,11 @@
 2006-01-04  Jakub Steiner <jimmac@ximian.com>
 
+	* applications-internet: while the generic browser icons should
+		perhaps go away from tango base, here's a slightly mac osish
+		internet category
+	
+2006-01-04  Jakub Steiner <jimmac@ximian.com>
+
 	* applications-office: finally came to senses and stopped messing
 		around with a typewriter. Maybe a better metaphore but really hard
 		to execute well. This works for me, maybe slightly similar to

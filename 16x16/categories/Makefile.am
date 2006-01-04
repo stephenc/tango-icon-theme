@@ -9,6 +9,7 @@ icons_DATA =				\
 	applications-development.png	\
 	applications-games.png	\
 	applications-graphics.png	\
+	applications-internet.png	\
 	applications-office.png	\
 	preferences-desktop.png
 
