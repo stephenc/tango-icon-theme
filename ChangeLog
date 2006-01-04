@@ -1,5 +1,10 @@
 2006-01-04  Jakub Steiner <jimmac@ximian.com>
 
+	* applications-multimedia: quite poor at 48x48 and 16x16. Needs
+		more work.
+	
+2006-01-04  Jakub Steiner <jimmac@ximian.com>
+
 	* applications-internet: while the generic browser icons should
 		perhaps go away from tango base, here's a slightly mac osish
 		internet category
