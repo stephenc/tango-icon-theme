@@ -9,6 +9,7 @@ icons_DATA =				\
 	applications-development.svg	\
 	applications-games.svg	\
 	applications-graphics.svg	\
+	applications-office.svg	\
 	preferences-desktop.svg
 
 EXTRA_DIST =				\

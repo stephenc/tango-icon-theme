@@ -1,3 +1,10 @@
+2006-01-04  Jakub Steiner <jimmac@ximian.com>
+
+	* applications-office: finally came to senses and stopped messing
+		around with a typewriter. Maybe a better metaphore but really hard
+		to execute well. This works for me, maybe slightly similar to
+		applications-graphics.
+	
 2005-12-21  Jakub Steiner <jimmac@ximian.com>
 
 	* folder-saved-search: for query-based virtual folders
