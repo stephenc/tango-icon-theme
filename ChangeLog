@@ -1,3 +1,8 @@
+2006-01-05  Jakub Steiner <jimmac@ximian.com>
+
+	* applications-system: a merge between executable mimetype and
+		emblem-system. Works for me.
+
 2006-01-04  Jakub Steiner <jimmac@ximian.com>
 
 	* applications-multimedia: quite poor at 48x48 and 16x16. Needs
