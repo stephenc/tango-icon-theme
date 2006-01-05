@@ -1,5 +1,11 @@
 2006-01-05  Jakub Steiner <jimmac@ximian.com>
 
+	* applications-other: this is fairly abstract so I thought making
+		it very similar to the generic executable will be good. color just
+		randomly, looked weird in green, red looked like a warning.
+
+2006-01-05  Jakub Steiner <jimmac@ximian.com>
+
 	* applications-system: a merge between executable mimetype and
 		emblem-system. Works for me.
 
