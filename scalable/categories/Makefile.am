@@ -14,7 +14,6 @@ icons_DATA =				\
 	applications-office.svg	\
 	applications-other.svg	\
 	applications-system.svg	\
-	applications-utilities.svg	\
 	preferences-desktop.svg	\
 	preferences-desktop-locale.svg	\
 	preferences-desktop-peripherals.svg	\

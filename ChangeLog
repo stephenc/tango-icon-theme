@@ -1,5 +1,10 @@
 2006-01-06  Jakub Steiner <jimmac@ximian.com>
 
+	* applications-utilities: removed due to
+		only-jimmac-gets-this-metaphor
+	
+2006-01-06  Jakub Steiner <jimmac@ximian.com>
+
 	* help-contents: removed an uglie. better nothing that that :)
 
 2006-01-06  Jakub Steiner <jimmac@ximian.com>
