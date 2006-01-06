@@ -16,7 +16,8 @@ icons_DATA =				\
 	applications-system.png	\
 	applications-utilities.png	\
 	preferences-desktop.png	\
-	preferences-desktop-peripherals.png
+	preferences-desktop-peripherals.png	\
+	preferences-system.png
 
 EXTRA_DIST =				\
 	$(icons_DATA)
