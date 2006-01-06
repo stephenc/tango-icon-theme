@@ -44,7 +44,6 @@ icons_DATA =				\
 	go-previous.svg			\
 	go-top.svg			\
 	go-up.svg			\
-	help-contents.svg		\
 	mail-message-new.svg		\
 	media-eject.svg	\
 	media-playback-pause.svg	\
