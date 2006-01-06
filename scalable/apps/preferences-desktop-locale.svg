@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/categories"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/apps"
    sodipodi:docname="preferences-desktop-locale.svg">
   <defs
      id="defs3">
@@ -586,8 +586,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="27.184444"
-     inkscape:cy="27.951268"
+     inkscape:cx="4.1943737"
+     inkscape:cy="18.883919"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -595,8 +595,8 @@
      inkscape:showpageshadow="false"
      inkscape:window-width="1021"
      inkscape:window-height="954"
-     inkscape:window-x="719"
-     inkscape:window-y="40" />
+     inkscape:window-x="2044"
+     inkscape:window-y="75" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -657,7 +657,7 @@
        id="g16556"
        transform="translate(-0.972274,-1.06066)">
       <path
-         style="color:#000000;fill:url(#linearGradient16562);fill-opacity:1;fill-rule:evenodd;stroke:#939691;stroke-width:0.9999994;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+         style="color:#000000;fill:url(#linearGradient16562);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:0.9999994;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
          d="M 11.502116,18.15938 C 20.684459,11.618642 37.143377,20.103923 46.498972,18.15938 L 46.498972,43.261671 C 37.489881,46.266875 21.897222,36.89771 11.502116,43.261671 L 11.502116,18.15938 z "
          id="path16504"
          sodipodi:nodetypes="ccccc" />
@@ -696,7 +696,7 @@
          sodipodi:nodetypes="ccccc"
          id="rect15576"
          d="M 1.5021165,4.1593795 C 10.684459,-2.3813582 27.143377,6.1039232 36.498972,4.1593795 L 36.498972,29.261671 C 27.489881,32.266875 11.897222,22.89771 1.5021165,29.261671 L 1.5021165,4.1593795 z "
-         style="color:#000000;fill:url(#linearGradient16577);fill-opacity:1;fill-rule:evenodd;stroke:#939691;stroke-width:0.9999994;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+         style="color:#000000;fill:url(#linearGradient16577);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:0.9999994;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
       <path
          sodipodi:nodetypes="ccccc"
          id="path16466"
