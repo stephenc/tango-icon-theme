@@ -1,5 +1,10 @@
 2006-01-06  Jakub Steiner <jimmac@ximian.com>
 
+	* device/network-wireless-encrypted: it's already in status
+		(removed)
+	
+2006-01-06  Jakub Steiner <jimmac@ximian.com>
+
 	* devices/Makefile.am: fix typo
 
 2006-01-06  Jakub Steiner <jimmac@ximian.com>
