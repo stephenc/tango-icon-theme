@@ -1,5 +1,9 @@
 2006-01-06  Jakub Steiner <jimmac@ximian.com>
 
+	* devices/Makefile.am: fix typo
+
+2006-01-06  Jakub Steiner <jimmac@ximian.com>
+
 	* preferences-system: renamed from preferences-desktop
 	* preferences-desktop: some sort of a presudo widget (switches)
 
