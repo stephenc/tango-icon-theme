@@ -1,5 +1,11 @@
 2006-01-06  Jakub Steiner <jimmac@ximian.com>
 
+	* input-mouse: fix aspect, get rid of MS Intellimouse elements.
+	* preferences-desktop-peripherals: hopefully won't imply
+		input-devices only
+
+2006-01-06  Jakub Steiner <jimmac@ximian.com>
+
 	* network-wireless-encrypted: WPA/WEP encrypted networks
 
 2006-01-05  Jakub Steiner <jimmac@ximian.com>
