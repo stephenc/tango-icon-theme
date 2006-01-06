@@ -15,7 +15,6 @@ icons_DATA =				\
 	applications-other.png	\
 	applications-system.png	\
 	preferences-desktop.png	\
-	preferences-desktop-locale.png	\
 	preferences-desktop-peripherals.png	\
 	preferences-system.png
 
