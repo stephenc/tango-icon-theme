@@ -22,6 +22,7 @@ icons_DATA =				\
 	multimedia-player.png		\
 	network-wired.png		\
 	network-wireless.png		\
+	network-wireless-excrypted.png		\
 	printer.png			\
 	printer-remote.png		\
 	video-display.png

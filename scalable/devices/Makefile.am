@@ -22,6 +22,7 @@ icons_DATA =				\
 	multimedia-player.svg		\
 	network-wired.svg		\
 	network-wireless.svg		\
+	network-wireless-excrypted.svg		\
 	printer.svg			\
 	video-display.svg
 
