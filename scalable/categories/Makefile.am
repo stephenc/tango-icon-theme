@@ -16,6 +16,7 @@ icons_DATA =				\
 	applications-system.svg	\
 	applications-utilities.svg	\
 	preferences-desktop.svg	\
+	preferences-desktop-locale.svg	\
 	preferences-desktop-peripherals.svg	\
 	preferences-system.svg
 
