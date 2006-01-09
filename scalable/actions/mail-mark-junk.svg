@@ -16,7 +16,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
    sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
-   sodipodi:docname="mark-mail-junk.svg"
+   sodipodi:docname="mail-mark-junk.svg"
    inkscape:export-filename="/home/andreas/projekt/tango/junkmail.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000">
@@ -628,16 +628,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="25.709106"
-     inkscape:cy="38.880005"
+     inkscape:cx="27.122215"
+     inkscape:cy="24.038772"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
      inkscape:window-height="949"
-     inkscape:window-x="2146"
-     inkscape:window-y="92"
+     inkscape:window-x="588"
+     inkscape:window-y="124"
      inkscape:showpageshadow="false"
      stroke="#555753"
      fill="#8f5902"
@@ -652,7 +652,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Mail Junk</dc:title>
-        <dc:date></dc:date>
+        <dc:date />
         <dc:creator>
           <cc:Agent>
             <dc:title>Andreas Nilsson</dc:title>
@@ -848,7 +848,7 @@
        y="7.4905033"
        transform="matrix(0.999624,2.742865e-2,-2.742865e-2,0.999624,0.000000,0.000000)" />
     <path
-       style="opacity:0.47802198;color:#000000;fill:url(#linearGradient4623);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:0.30769231;color:#000000;fill:url(#linearGradient4623);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        d="M 5,33 L 5,45 L 44,45 L 43,33 L 36.25,35.625 L 30.107372,33.818425 L 22.733587,36.937209 L 13.881097,31.846379 L 5,33 z "
        id="path4615"
        inkscape:r_cx="true"

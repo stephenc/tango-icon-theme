@@ -13,10 +13,10 @@
    height="22"
    id="svg1306"
    sodipodi:version="0.32"
-   inkscape:version="0.43"
-   sodipodi:docbase="/home/lapo/Desktop"
+   inkscape:version="0.43+devel"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions"
    sodipodi:docname="format-text-italic.svg"
-   inkscape:export-filename="/home/lapo/Desktop/font22.png"
+   inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/22x22/actions/format-text-italic.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    version="1.0">
@@ -100,10 +100,10 @@
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
+     borderopacity="0.18039216"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
+     inkscape:zoom="1"
      inkscape:cx="10.148673"
      inkscape:cy="11.46894"
      inkscape:current-layer="layer4"
@@ -114,15 +114,16 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1041"
      inkscape:window-height="819"
-     inkscape:window-x="229"
-     inkscape:window-y="25"
+     inkscape:window-x="736"
+     inkscape:window-y="229"
      gridspacingx="0.5px"
      gridspacingy="0.5px"
      gridempspacing="2"
      inkscape:grid-points="true"
      stroke="#eeeeec"
      fill="#729fcf"
-     showborder="false" />
+     showborder="true"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata1311">
     <rdf:RDF>
