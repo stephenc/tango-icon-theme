@@ -20,6 +20,7 @@ icons_DATA =				\
 	edit-copy.png			\
 	edit-cut.png			\
 	edit-find.png			\
+	edit-find-replace.png			\
 	edit-paste.png			\
 	edit-redo.png			\
 	edit-undo.png			\
