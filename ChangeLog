@@ -1,6 +1,7 @@
 2006-01-09  Jakub Steiner <jimmac@ximian.com>
 
-	* 22x22/actions/format-text-italic: fix output dimensions
+	* 16x16/actions/format-text-italic: fix output dimensions
+	* 22x22/actions/format-text-italic: -"-
 
 2006-01-09  Jakub Steiner <jimmac@ximian.com>
 
