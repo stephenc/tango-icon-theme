@@ -317,7 +317,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Format Text - Underlined</dc:title>
-        <dc:date></dc:date>
+        <dc:date />
         <dc:creator>
           <cc:Agent>
             <dc:title>Lapo Calamandrei</dc:title>
@@ -397,7 +397,7 @@
        inkscape:r_cx="true"
        inkscape:r_cy="true" />
     <path
-       style="opacity:0.56593407;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient1621);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.47802198;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient1621);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 14.43934,27.5 L 33.383883,27.5 L 24.041631,4.8110299 L 14.43934,27.5 z "
        id="path2239"
        sodipodi:nodetypes="cc"

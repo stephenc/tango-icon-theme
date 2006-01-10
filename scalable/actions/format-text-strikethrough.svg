@@ -252,9 +252,9 @@
      borderopacity="0.1372549"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="117.53136"
-     inkscape:cy="2.1947426"
+     inkscape:zoom="16"
+     inkscape:cx="12.370597"
+     inkscape:cy="32.041577"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -385,10 +385,10 @@
        d="M 10.5,40.5 L 6.6462632,40.5 L 20.682829,5.5 L 27.353737,5.5 L 41.682829,40.5 L 37.865658,40.5 L 34.403563,32.469062 L 13.523417,32.368272 C 13.523417,32.368272 10.5,40.5 10.5,40.5 z "
        style="font-size:54.8693924px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:none;fill-opacity:1;stroke:url(#linearGradient1624);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans" />
     <path
-       style="opacity:0.56593407;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient1621);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 14.43934,29.5 L 33.383883,29.5 L 24.041631,6.8110299 L 14.43934,29.5 z "
+       style="opacity:0.46703297;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient1621);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 14.68934,29.5 L 33.258883,29.5 L 24.041631,6.8110299 L 14.68934,29.5 z "
        id="path2239"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cccc" />
     <path
        style="opacity:0.16470588;fill:url(#linearGradient2527);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        d="M 12.34375,22 L 10.75,26 C 10.75,26 17.84375,26 17.84375,26 L 19.46875,22 L 12.34375,22 z M 28.53125,22 L 30.15625,26 L 37.25,26 L 35.65625,22 L 28.53125,22 z "
