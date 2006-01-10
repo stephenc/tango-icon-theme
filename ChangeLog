@@ -1,3 +1,7 @@
+2006-01-10  Jakub Steiner <jimmac@ximian.com>
+
+	* scalable/format-text-*: making more tangoish.
+
 2006-01-09  Jakub Steiner <jimmac@ximian.com>
 
 	* 16x16/actions/format-text-italic: fix output dimensions
