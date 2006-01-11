@@ -425,7 +425,7 @@
        fx="24.969707"
        fy="42.210564"
        r="20.815456"
-       gradientTransform="matrix(1,0,0,0.286624,-1.338775e-15,30.11199)"
+       gradientTransform="matrix(1,0,0,0.286624,-1.249436e-15,30.11199)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -580,17 +580,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="26.84496"
-     inkscape:cy="20.467138"
+     inkscape:cx="78.91608"
+     inkscape:cy="-28.507164"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="934"
-     inkscape:window-x="2549"
-     inkscape:window-y="146" />
+     inkscape:window-width="872"
+     inkscape:window-height="583"
+     inkscape:window-x="925"
+     inkscape:window-y="0" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -641,7 +641,7 @@
        d="M 45.785164 42.210564 A 20.815456 5.9662137 0 1 1  4.1542511,42.210564 A 20.815456 5.9662137 0 1 1  45.785164 42.210564 z"
        inkscape:r_cx="true"
        inkscape:r_cy="true"
-       transform="matrix(1.09791,0,0,0.709433,-3.392995,9.97849)" />
+       transform="matrix(1.199821,0,0,0.650174,-5.937679,13.54051)" />
     <path
        style="opacity:1;color:#000000;fill:url(#linearGradient4563);fill-opacity:1;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
        d="M 7.5758002,12.994256 L 6.0829449,41.499992 L 41.911473,41.499992 L 38.328621,13.202804 L 7.5758002,12.994256 z "
