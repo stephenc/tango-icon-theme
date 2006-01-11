@@ -19,6 +19,7 @@ icons_DATA =				\
 	edit-clear.svg			\
 	edit-copy.svg			\
 	edit-cut.svg			\
+	edit-delete.svg	\
 	edit-find.svg			\
 	edit-find-replace.svg			\
 	edit-paste.svg			\
