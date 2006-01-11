@@ -18,6 +18,7 @@ icons_DATA =					\
 	x-office-address-book.svg		\
 	x-office-calendar.svg	\
 	x-office-document.svg			\
+	x-office-presentation.svg	\
 	x-office-spreadsheet.svg
 
 EXTRA_DIST =					\
