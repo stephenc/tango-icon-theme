@@ -1,5 +1,10 @@
 2006-01-11  Jakub Steiner <jimmac@ximian.com>
 
+	* start-here: more of a placeholder than anything useful.
+		Vendors/Distributions will replace this with some branding anyway.
+	
+2006-01-11  Jakub Steiner <jimmac@ximian.com>
+
 	* list-add:
 	* list-remove: add/remove icons submitted by Andreas Nilsson
 	* edit-delete: another submission from Andreas
