@@ -16,6 +16,7 @@ icons_DATA =					\
 	text-x-script.png			\
 	video-x-generic.png			\
 	x-office-address-book.png		\
+	x-office-calendar.png	\
 	x-office-document.png		\
 	x-office-spreadsheet.png
 
