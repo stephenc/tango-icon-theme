@@ -22,6 +22,17 @@
   <defs
      id="defs3">
     <linearGradient
+       id="linearGradient4604">
+      <stop
+         style="stop-color:#383936;stop-opacity:1;"
+         offset="0"
+         id="stop4606" />
+      <stop
+         style="stop-color:#555753;stop-opacity:1;"
+         offset="1"
+         id="stop4608" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient6105">
       <stop
@@ -406,16 +417,6 @@
        y2="22.67392"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.125982,0,0,1.272791,-4.167995,-7.706526)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4565"
-       id="linearGradient4563"
-       x1="23.334524"
-       y1="35.174473"
-       x2="23.334524"
-       y2="36.509514"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.125982,0,0,1.17973,-4.167995,-4.008505)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4573"
@@ -569,6 +570,16 @@
        fx="12.993087"
        fy="18.399908"
        r="2.1617265" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4604"
+       id="linearGradient4610"
+       x1="25.348972"
+       y1="37.548233"
+       x2="25.348972"
+       y2="39.750675"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.951156,0,0,1,1.172114,0)" />
   </defs>
   <sodipodi:namedview
      stroke="#ef2929"
@@ -579,17 +590,17 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="78.91608"
-     inkscape:cy="-28.507164"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="68.499104"
+     inkscape:cy="8.964032"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="872"
-     inkscape:window-height="583"
-     inkscape:window-x="925"
+     inkscape:window-width="1224"
+     inkscape:window-height="1080"
+     inkscape:window-x="2348"
      inkscape:window-y="0" />
   <metadata
      id="metadata4">
@@ -643,18 +654,19 @@
        inkscape:r_cy="true"
        transform="matrix(1.199821,0,0,0.650174,-5.937679,13.54051)" />
     <path
-       style="opacity:1;color:#000000;fill:url(#linearGradient4563);fill-opacity:1;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       d="M 7.5758002,12.994256 L 6.0829449,41.499992 L 41.911473,41.499992 L 38.328621,13.202804 L 7.5758002,12.994256 z "
+       style="opacity:1;color:#000000;fill:url(#linearGradient4610);fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+       d="M 7.1903818,30.619256 L 6.9579435,41.499992 L 41.036463,41.499992 L 40.503612,28.827804 L 7.1903818,30.619256 z "
        id="path4535"
        inkscape:r_cx="true"
        inkscape:r_cy="true"
        sodipodi:nodetypes="ccccc" />
     <path
        style="opacity:0.23076923;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       d="M 6.7796067,37.613897 L 6.5805593,41 L 41.314314,41 L 7.0781776,40.502043 L 6.7796067,37.613897 z "
+       d="M 7.5296067,37.613897 L 7.3305593,41 L 41.314314,41 L 7.8281776,40.502043 L 7.5296067,37.613897 z "
        id="path6079"
        inkscape:r_cx="true"
-       inkscape:r_cy="true" />
+       inkscape:r_cy="true"
+       sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:r_cy="true"

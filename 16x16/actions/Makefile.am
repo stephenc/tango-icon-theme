@@ -49,6 +49,7 @@ icons_DATA =				\
 	mail-mark-junk.png	\
 	mail-reply-all.png	\
 	mail-reply-sender.png	\
+	mail-send-receive.png	\
 	media-eject.png	\
 	media-playback-pause.png	\
 	media-playback-start.png	\
