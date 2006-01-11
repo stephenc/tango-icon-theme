@@ -1,5 +1,10 @@
 2006-01-11  Jakub Steiner <jimmac@ximian.com>
 
+	* list-add:
+	* list-remove: add/remove icons submitted by Andreas Nilsson
+	
+2006-01-11  Jakub Steiner <jimmac@ximian.com>
+
 	* mail-forward: based on contribution by Garrett LeSage
 	
 2006-01-11  Jakub Steiner <jimmac@ximian.com>

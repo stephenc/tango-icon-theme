@@ -45,6 +45,8 @@ icons_DATA =				\
 	go-previous.svg			\
 	go-top.svg			\
 	go-up.svg			\
+	list-add.svg	\
+	list-remove.svg	\
 	mail-forward.svg	\
 	mail-message-new.svg		\
 	mail-mark-junk.svg	\

@@ -45,6 +45,8 @@ icons_DATA =				\
 	go-previous.png			\
 	go-top.png			\
 	go-up.png			\
+	list-add.png	\
+	list-remove.png	\
 	mail-forward.png	\
 	mail-message-new.png		\
 	mail-mark-junk.png	\
