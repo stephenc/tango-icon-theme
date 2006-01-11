@@ -45,6 +45,7 @@ icons_DATA =				\
 	go-previous.png			\
 	go-top.png			\
 	go-up.png			\
+	mail-forward.png	\
 	mail-message-new.png		\
 	mail-mark-junk.png	\
 	mail-reply-all.png	\
