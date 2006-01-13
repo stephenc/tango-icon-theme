@@ -1,7 +1,15 @@
+2006-01-13  Rodney Dawes  <dobey@novell.com>
+
+	* */status/Makefile.am:
+	* */status/locked.*:
+	* */status/unlocked.*:
+	Remove these icons as they aren't in the spec, and the metaphors are
+	not that great where they are used
+
 2006-01-11  Jakub Steiner <jimmac@ximian.com>
 
 	* start-here: more of a placeholder than anything useful.
-		Vendors/Distributions will replace this with some branding anyway.
+	Vendors/Distributions will replace this with some branding anyway.
 	
 2006-01-11  Jakub Steiner <jimmac@ximian.com>
 

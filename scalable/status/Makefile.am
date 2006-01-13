@@ -16,10 +16,8 @@ icons_DATA =				\
 	folder-visiting.svg		\
 	image-loading.svg		\
 	image-missing.svg		\
-	locked.svg			\
 	mail-attachment.svg		\
 	network-wireless-encrypted.svg	\
-	unlocked.svg			\
 	user-trash-full.svg
 
 EXTRA_DIST =				\

@@ -14,10 +14,8 @@ icons_DATA =				\
 	folder-visiting.png		\
 	image-loading.png		\
 	image-missing.png		\
-	locked.png			\
 	mail-attachment.png		\
 	network-wireless-encrypted.png	\
-	unlocked.png			\
 	user-trash-full.png
 
 EXTRA_DIST =				\
