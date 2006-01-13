@@ -1,5 +1,10 @@
 2006-01-13  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.6.5 for release
+	Require version 0.6.5 of icon-naming-utils
+
+2006-01-13  Rodney Dawes  <dobey@novell.com>
+
 	* */status/Makefile.am:
 	* */status/locked.*:
 	* */status/unlocked.*:
