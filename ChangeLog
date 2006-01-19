@@ -1,3 +1,11 @@
+2006-01-19  Rodney Dawes  <dobey@novell.com>
+
+	* 22x22/status/Makefile.am:
+	* 22x22/status/weather-*.png:
+	* scalable/status/Makefile.am:
+	* scalable/status/weather-*.svg:
+	Add new weather status icons from Ryan Collier
+
 2006-01-13  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.6.5 for release

@@ -18,7 +18,17 @@ icons_DATA =				\
 	image-missing.svg		\
 	mail-attachment.svg		\
 	network-wireless-encrypted.svg	\
-	user-trash-full.svg
+	user-trash-full.svg		\
+	weather-clear.svg		\
+	weather-clear-night.svg		\
+	weather-few-clouds.svg		\
+	weather-few-clouds-night.svg	\
+	weather-overcast.svg		\
+	weather-severe-alert.svg	\
+	weather-showers.svg		\
+	weather-showers-scattered.svg	\
+	weather-snow.svg		\
+	weather-storm.svg
 
 EXTRA_DIST =				\
 	$(icons_DATA)
