@@ -1,5 +1,14 @@
 2006-01-19  Rodney Dawes  <dobey@novell.com>
 
+	* 16x16/status/Makefile.am:
+	* 16x16/status/weather-*.*:
+	Add in the 16x16 versions of the weather icons from Ryan Collier
+
+	* 22x22/status/weather-*.svg: Add in the sources for the 22x22 weather
+	icons from Ryan Collier
+
+2006-01-19  Rodney Dawes  <dobey@novell.com>
+
 	* */emotes/Makefile.am:
 	* */emotes/face-plain.*:
 	Add new face-plain emote icons from Steven Garrity
