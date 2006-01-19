@@ -4,20 +4,21 @@ context = emotes
 
 iconsdir = $(themedir)/$(size)/$(context)
 
-icons_DATA =				\
-	face-angel.png	\
-	face-crying.png	\
+icons_DATA =			\
+	face-angel.png		\
+	face-crying.png		\
 	face-devil-grin.png	\
 	face-glasses.png	\
-	face-grin.png	\
-	face-kiss.png	\
-	face-sad.png	\
-	face-smile.png	\
+	face-grin.png		\
+	face-kiss.png		\
+	face-plain.png		\
+	face-sad.png		\
+	face-smile.png		\
 	face-smile-big.png	\
 	face-surprise.png	\
 	face-wink.png
 
-EXTRA_DIST =				\
+EXTRA_DIST =			\
 	$(icons_DATA)
 
 install-data-local: install-iconsDATA

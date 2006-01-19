@@ -1,5 +1,11 @@
 2006-01-19  Rodney Dawes  <dobey@novell.com>
 
+	* */emotes/Makefile.am:
+	* */emotes/face-plain.*:
+	Add new face-plain emote icons from Steven Garrity
+
+2006-01-19  Rodney Dawes  <dobey@novell.com>
+
 	* 22x22/status/Makefile.am:
 	* 22x22/status/weather-*.png:
 	* scalable/status/Makefile.am:
