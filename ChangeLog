@@ -1,3 +1,8 @@
+2006-01-20  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Up version to 0.6.6 for release
+	Require version 0.6.6 of icon-naming-utils
+
 2006-01-20  Garrett LeSage  <garrett@novell.com>
 
 	* scalable/places/*.svg:
