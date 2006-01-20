@@ -14,12 +14,11 @@
    id="svg97"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/mimetypes"
-   sodipodi:docname="x-directory-normal-visiting.svg"
+   sodipodi:docbase="/home/garrett/Source/tango-icon-theme/scalable/status"
+   sodipodi:docname="folder-visiting.svg"
    inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/snowdunes/gnome-fs-directory-accept.png"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-ydpi="90.000000"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:export-ydpi="90.000000">
   <defs
      id="defs3">
     <linearGradient
@@ -50,18 +49,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="12.115917"
-     inkscape:cy="17.387169"
+     inkscape:zoom="10.9375"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:current-layer="layer3"
-     showgrid="false"
+     showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="934"
-     inkscape:window-height="653"
-     inkscape:window-x="237"
-     inkscape:window-y="2"
-     inkscape:showpageshadow="false" />
+     inkscape:window-width="1060"
+     inkscape:window-height="913"
+     inkscape:window-x="158"
+     inkscape:window-y="210"
+     inkscape:showpageshadow="false"
+     gridempspacing="4" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -86,6 +86,11 @@
             <dc:title>Novell, Inc.</dc:title>
           </cc:Agent>
         </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Garrett LeSage</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
@@ -117,7 +122,7 @@
        inkscape:export-xdpi="74.800003"
        inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/gnome-fs-directory.png"
        transform="matrix(1.034424,0.000000,-0.495029,-0.645645,11.68444,60.77602)"
-       style="opacity:0.45142857;display:block;stroke-miterlimit:4.0000000;stroke:#000000;fill-rule:nonzero"
+       style="opacity:0.45;display:block;stroke-miterlimit:4.0000000;stroke:#000000;fill-rule:nonzero"
        id="g2347">
       <g
          id="g2348"
@@ -214,8 +219,11 @@
     <path
        sodipodi:nodetypes="ccccccccccccccccccc"
        id="path2375"
-       d="M 2.3125000,5.4375000 C 1.8987305,5.4375000 1.5519420,5.8362304 1.5937500,6.2500000 L 4.6250000,38.750000 C 4.6668080,39.163769 5.1174803,39.562500 5.5312500,39.562500 L 6.2500000,39.562500 C 6.3134628,39.584176 6.3304410,39.656250 6.4062500,39.656250 L 39.718750,39.656250 C 39.925644,39.656250 40.219240,39.541309 40.406250,39.406250 C 40.936652,39.023186 41.074578,38.790769 41.312500,38.437500 C 43.760628,34.802440 47.125000,18.968750 47.125000,18.968750 C 47.228443,18.761866 46.997826,18.531250 46.687500,18.531250 L 35.437500,18.531250 L 34.718750,11.437500 C 34.676942,11.023730 34.226269,10.593750 33.812500,10.593750 L 21.093750,10.593750 C 20.503204,10.593750 19.881278,10.227800 19.687500,9.6562500 L 18.562500,6.1562500 C 18.393248,5.6570373 18.017323,5.4375000 17.250000,5.4375000 L 2.3125000,5.4375000 z "
-       style="stroke-dasharray:none;color:#000000;fill:url(#linearGradient4976);fill-opacity:1.0;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:1.0000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible" />
+       d="M 2.3125,5.4375 C 1.8987305,5.4375 1.551942,5.8362304 1.59375,6.25 L 4.625,38.75 C 4.666808,39.163769 5.1174803,39.5625 5.53125,39.5625 L 6.25,39.5625 C 6.3134628,39.584176 6.330441,39.65625 6.40625,39.65625 L 39.71875,39.65625 C 39.925644,39.65625 40.21924,39.541309 40.40625,39.40625 C 40.936652,39.023186 41.074578,38.790769 41.3125,38.4375 C 43.760628,34.80244 47.125,18.96875 47.125,18.96875 C 47.228443,18.761866 46.997826,18.53125 46.6875,18.53125 L 35.4375,18.53125 L 34.71875,11.4375 C 34.676942,11.02373 34.226269,10.59375 33.8125,10.59375 L 21.09375,10.59375 C 20.503204,10.59375 19.881278,10.2278 19.6875,9.65625 L 18.5625,6.15625 C 18.393248,5.6570373 18.017323,5.4375 17.25,5.4375 L 2.3125,5.4375 z "
+       style="color:#000000;fill:url(#linearGradient4976);fill-opacity:1;fill-rule:nonzero;stroke:#5a5a5a;stroke-width:1.00943172;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       transform="matrix(0.987714,0,0,0.993607,-7.07861e-2,9.727255e-2)"
+       inkscape:r_cx="true"
+       inkscape:r_cy="true" />
   </g>
   <g
      inkscape:groupmode="layer"

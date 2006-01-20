@@ -1,3 +1,9 @@
+2006-01-20  Garrett LeSage  <garrett@novell.com>
+
+	* scalable/places/*.svg:
+	* scalable/status/*.svg:
+	Fixups for hinting and alignment of various icons
+
 2006-01-19  Rodney Dawes  <dobey@novell.com>
 
 	* 16x16/status/Makefile.am:
