@@ -101,6 +101,7 @@ AC_CONFIG_FILES([
 Makefile
 16x16/Makefile
 16x16/actions/Makefile
+16x16/animations/Makefile
 16x16/apps/Makefile
 16x16/categories/Makefile
 16x16/devices/Makefile
@@ -111,6 +112,7 @@ Makefile
 16x16/status/Makefile
 22x22/Makefile
 22x22/actions/Makefile
+22x22/animations/Makefile
 22x22/apps/Makefile
 22x22/categories/Makefile
 22x22/devices/Makefile

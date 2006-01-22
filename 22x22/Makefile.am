@@ -1,3 +1,3 @@
 
-SUBDIRS = actions apps categories devices emblems emotes mimetypes places status
+SUBDIRS = actions animations apps categories devices emblems emotes mimetypes places status
 
