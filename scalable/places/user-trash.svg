@@ -14,10 +14,21 @@
    id="svg57"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/garrett/Source/tango-icon-theme/scalable/places"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/places"
    sodipodi:docname="user-trash.svg">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient4572">
+      <stop
+         style="stop-color:#5ab206;stop-opacity:1;"
+         offset="0"
+         id="stop4574" />
+      <stop
+         style="stop-color:#3b7504;stop-opacity:1;"
+         offset="1"
+         id="stop4576" />
+    </linearGradient>
     <linearGradient
        id="linearGradient381"
        inkscape:collect="always">
@@ -40,17 +51,6 @@
          style="stop-color:#ffffff;stop-opacity:0.0000000;"
          offset="1.0000000"
          id="stop372" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1065">
-      <stop
-         style="stop-color:#b5c051;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop1066" />
-      <stop
-         style="stop-color:#858e3f;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop1067" />
     </linearGradient>
     <linearGradient
        id="linearGradient172">
@@ -120,16 +120,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="69.460503"
-       x2="7.5291119"
-       y1="27.376621"
-       x1="7.3738608"
-       gradientTransform="matrix(3.495016,0,0,0.344323,-2.972087,-3.408148e-2)"
-       id="linearGradient152"
-       xlink:href="#linearGradient149"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
        y2="6.8897981"
        x2="60.685901"
        y1="6.8897981"
@@ -148,16 +138,6 @@
        id="linearGradient164"
        xlink:href="#linearGradient161"
        inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1065"
-       id="linearGradient1068"
-       gradientTransform="scale(1.175635,0.850604)"
-       x1="10.861447"
-       y1="33.139202"
-       x2="30.587307"
-       y2="37.720802"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="52.625473"
@@ -198,6 +178,15 @@
        y1="27.376621"
        x2="7.5291119"
        y2="69.460503" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4572"
+       id="linearGradient4578"
+       x1="3.3379318"
+       y1="31.150158"
+       x2="44.450529"
+       y2="31.150158"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      showborder="true"
@@ -207,17 +196,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.142857"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="1"
+     inkscape:cx="40.633235"
+     inkscape:cy="-13.401121"
      inkscape:current-layer="g3964"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="919"
      inkscape:window-height="944"
-     inkscape:window-x="254"
-     inkscape:window-y="96"
+     inkscape:window-x="376"
+     inkscape:window-y="86"
      inkscape:showpageshadow="false"
      gridempspacing="4"
      inkscape:object-nodes="true"
@@ -393,7 +382,7 @@
          sodipodi:nodetypes="ccccccc"
          id="path1751"
          d="M 3.836697,16.810238 C 3.792608,16.775175 5.56866,42.034206 5.569166,42.041863 C 5.73578,44.564407 7.134433,45.486354 8.699929,45.49011 C 8.75587,45.490239 38.069409,45.486863 38.693936,45.484234 C 41.330302,45.473139 41.976184,43.867694 42.149611,42.113575 C 42.163521,42.07899 43.938664,16.844824 43.952571,16.810238 C 30.580614,16.810238 17.208657,16.810238 3.836697,16.810238 z "
-         style="fill:url(#linearGradient1068);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient101);stroke-width:0.99591541;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:url(#linearGradient4578);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient101);stroke-width:0.99591541;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:r_cy="true"
          inkscape:r_cx="true"

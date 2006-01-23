@@ -15,11 +15,30 @@
    id="svg57"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/mimetypes"
-   sodipodi:docname="x-directory-trash-full.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/status"
+   sodipodi:docname="user-trash-full.svg">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient4572">
+      <stop
+         style="stop-color:#5ab206;stop-opacity:1;"
+         offset="0"
+         id="stop4574" />
+      <stop
+         style="stop-color:#3b7504;stop-opacity:1;"
+         offset="1"
+         id="stop4576" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4572"
+       id="linearGradient4578"
+       x1="3.3379318"
+       y1="31.150158"
+       x2="44.450529"
+       y2="31.150158"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient381"
        inkscape:collect="always">
@@ -355,16 +374,6 @@
        xlink:href="#linearGradient641"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1065"
-       id="linearGradient1068"
-       gradientTransform="scale(1.175635,0.850604)"
-       x1="10.861447"
-       y1="33.139202"
-       x2="30.587307"
-       y2="37.720802"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="52.625473"
        x2="19.672924"
@@ -410,7 +419,7 @@
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="776"
+     inkscape:window-width="822"
      inkscape:window-height="863"
      inkscape:window-x="257"
      inkscape:window-y="54"
@@ -570,7 +579,7 @@
       </g>
     </g>
     <path
-       style="fill:url(#linearGradient1068);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient101);stroke-width:1.2500000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       style="fill:url(#linearGradient4578);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient101);stroke-width:1.00000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;opacity:1;color:#000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-dasharray:none;stroke-dashoffset:0;visibility:visible;display:inline;overflow:visible"
        d="M 3.8366970,16.810238 C 3.7926080,16.775175 5.5686600,42.034206 5.5691660,42.041863 C 5.7357800,44.564407 7.1344330,45.486354 8.6999290,45.490110 C 8.7558700,45.490239 38.069409,45.486863 38.693936,45.484234 C 41.330302,45.473139 41.976184,43.867694 42.149611,42.113575 C 42.163521,42.078990 43.938664,16.844824 43.952571,16.810238 C 30.580614,16.810238 17.208657,16.810238 3.8366970,16.810238 z "
        id="path1751"
        sodipodi:nodetypes="ccccccc" />

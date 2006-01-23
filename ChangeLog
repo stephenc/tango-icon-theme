@@ -1,3 +1,8 @@
+2006-01-23  Jakub Steiner <jimmac@ximian.com>
+
+	* user-trash.svg:
+	* user-trash-full.svg: use tango greens
+
 2006-01-22  Jakub Steiner <jimmac@ximian.com>
 
 	* 16x16/animations/Makefile.am
