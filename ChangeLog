@@ -1,3 +1,7 @@
+2006-01-24  Jakub Steiner <jimmac@ximian.com>
+
+	* user-trash-*: reverted on multiple requests
+
 2006-01-23  Jakub Steiner <jimmac@ximian.com>
 
 	* user-trash.svg:
