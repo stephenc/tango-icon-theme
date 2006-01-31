@@ -17,6 +17,8 @@ icons_DATA =				\
 	image-loading.svg		\
 	image-missing.svg		\
 	mail-attachment.svg		\
+	network-offline.svg	\
+	network-online.svg	\
 	network-wireless-encrypted.svg	\
 	user-trash-full.svg		\
 	weather-clear.svg		\

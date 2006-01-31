@@ -1,3 +1,10 @@
+2006-01-31  Jakub Steiner <jimmac@ximian.com>
+
+	* network-online:
+	* network-offline: based on network manager icons. Maybe this is
+	  too much ethernet-related. Another option I had in mind was using
+	  a generic plug similar to what gtk stock has.
+
 2006-01-24  Jakub Steiner <jimmac@ximian.com>
 
 	* user-trash-*: reverted on multiple requests
