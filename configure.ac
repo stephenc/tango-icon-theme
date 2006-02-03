@@ -26,7 +26,7 @@ AC_SUBST(ACLOCAL_AMFLAGS, "\${ACLOCAL_FLAGS}")
 # Define the toplevel path here
 AC_SUBST(themedir, "\${datadir}/icons/Tango")
 
-UTILS_REQUIRED=0.6.6
+UTILS_REQUIRED=0.6.7
 
 AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
 PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,

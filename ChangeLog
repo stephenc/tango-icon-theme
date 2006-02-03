@@ -1,3 +1,7 @@
+2006-02-03  Rodney Dawes  <dobey@novell.com>
+
+	* configure.ac: Require icon-naming-utils 0.6.7
+
 2006-01-31  Jakub Steiner <jimmac@ximian.com>
 
 	* network-online:
@@ -17,12 +21,12 @@
 2006-01-22  Jakub Steiner <jimmac@ximian.com>
 
 	* 16x16/animations/Makefile.am
-	*	16x16/animations/process-working.png
-	*	16x16/Makefile.am
-	*	22x22/animations/Makefile.am
-	*	22x22/animations/process-working.png
-	*	22x22/Makefile.am
-	*	configure.ac: default throbber. Don't really feel like making
+	* 16x16/animations/process-working.png
+	* 16x16/Makefile.am
+	* 22x22/animations/Makefile.am
+	* 22x22/animations/process-working.png
+	* 22x22/Makefile.am
+	* configure.ac: default throbber. Don't really feel like making
 		the scalable version. If somebopdy feels like applying some svg
 		export magick, I can provide the blender source file.
 	
