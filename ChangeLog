@@ -1,5 +1,9 @@
 2006-02-03  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.6.7 for release
+
+2006-02-03  Rodney Dawes  <dobey@novell.com>
+
 	* */devices/network-wired.*: Update to use Jakub's new device icon
 
 2006-02-03  Rodney Dawes  <dobey@novell.com>
