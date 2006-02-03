@@ -1,5 +1,9 @@
 2006-02-03  Rodney Dawes  <dobey@novell.com>
 
+	* */devices/network-wired.*: Update to use Jakub's new device icon
+
+2006-02-03  Rodney Dawes  <dobey@novell.com>
+
 	* configure.ac: Require icon-naming-utils 0.6.7
 
 2006-01-31  Jakub Steiner <jimmac@ximian.com>
