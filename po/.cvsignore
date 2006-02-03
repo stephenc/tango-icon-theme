@@ -3,4 +3,5 @@ Makefile.in
 Makefile.in.in
 POTFILES
 .intltool-*
+stamp-it
 
