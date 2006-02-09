@@ -1,6 +1,7 @@
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
 
-	* folder-remote: lighten up (bug #5603)
+	* folder-remote: lighten up (bug #5603). Submitted by Andreas
+		Nilsson
 
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
 
