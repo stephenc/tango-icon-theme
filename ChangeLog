@@ -1,5 +1,9 @@
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
 
+	* *png: add -kb to all pngs
+
+2006-02-09  Jakub Steiner <jimmac@ximian.com>
+
 	* font-x-generic: new mimetype from Andreas Nilsson
 
 2006-02-03  Rodney Dawes  <dobey@novell.com>
