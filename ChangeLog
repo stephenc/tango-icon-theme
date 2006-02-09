@@ -1,5 +1,9 @@
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
 
+	* folder-remote: lighten up (bug #5603)
+
+2006-02-09  Jakub Steiner <jimmac@ximian.com>
+
 	* *png: add -kb to all pngs
 
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
