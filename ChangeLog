@@ -1,3 +1,7 @@
+2006-02-09  Jakub Steiner <jimmac@ximian.com>
+
+	* font-x-generic: new mimetype from Andreas Nilsson
+
 2006-02-03  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.6.7 for release

@@ -8,6 +8,7 @@ icons_DATA =					\
 	application-certificate.svg		\
 	application-x-executable.svg		\
 	audio-x-generic.svg			\
+	font-x-generic.svg	\
 	image-x-generic.svg			\
 	package-x-generic.svg			\
 	text-html.svg				\
