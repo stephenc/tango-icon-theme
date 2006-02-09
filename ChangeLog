@@ -1,5 +1,10 @@
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
 
+	* process-working: use different anti-aliasing method for sharper
+		result.
+
+2006-02-09  Jakub Steiner <jimmac@ximian.com>
+
 	* folder-remote: lighten up (bug #5603). Submitted by Andreas
 		Nilsson
 
