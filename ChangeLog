@@ -1,3 +1,7 @@
+2006-02-10  Jakub Steiner <jimmac@ximian.com>
+
+	* 16x16/animations/process-working.png: now it's 16x16, really.
+
 2006-02-09  Jakub Steiner <jimmac@ximian.com>
 
 	* process-working: use different anti-aliasing method for sharper
