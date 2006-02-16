@@ -22,6 +22,7 @@ icons_DATA =				\
 	network-offline.png	\
 	network-online.png	\
 	network-wireless-encrypted.png	\
+	printer-error.png	\
 	user-trash-full.png		\
 	weather-clear.png		\
 	weather-clear-night.png		\

@@ -1,5 +1,9 @@
 2006-02-16  Jakub Steiner <jimmac@ximian.com>
 
+	* printer-error: status icon from Andreas Nilsson
+
+2006-02-16  Jakub Steiner <jimmac@ximian.com>
+
 	* {16x16,22x22}/status/dialog-warning.png: lighter versions from
 		Steven Garrity
 

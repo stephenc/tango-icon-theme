@@ -24,6 +24,7 @@ icons_DATA =				\
 	network-offline.svg	\
 	network-online.svg	\
 	network-wireless-encrypted.svg	\
+	printer-error.svg	\
 	user-trash-full.svg		\
 	weather-clear.svg		\
 	weather-clear-night.svg		\
