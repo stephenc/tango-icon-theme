@@ -1,5 +1,9 @@
 2006-02-16  Jakub Steiner <jimmac@ximian.com>
 
+	* scalable/actions/go-home.svg: bring back the pseudo-perspective
+
+2006-02-16  Jakub Steiner <jimmac@ximian.com>
+
 	* printer-error: status icon from Andreas Nilsson
 
 2006-02-16  Jakub Steiner <jimmac@ximian.com>
