@@ -70,9 +70,9 @@
      borderopacity="0.13333333"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="12.461429"
-     inkscape:cy="10.954153"
+     inkscape:zoom="1"
+     inkscape:cx="16.301282"
+     inkscape:cy="1.5958603"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -156,9 +156,18 @@
          id="rect3510"
          style="opacity:0.86263733;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     </g>
+    <rect
+       style="opacity:1;color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:evenodd;stroke:#a40000;stroke-width:0.99999958;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect2669"
+       width="8.0068932"
+       height="7.875"
+       x="7.4965487"
+       y="7.625"
+       rx="0.99999952"
+       ry="1" />
     <path
-       style="fill:#ff1414;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 13.88059,5.5625 L 15,6.681911 L 13.023321,8.6585901 L 15,10.635269 L 13.88059,11.754678 L 11.903911,9.7779996 L 9.9272316,11.754678 L 8.8078227,10.635269 L 10.784502,8.6585901 L 8.8078227,6.681911 L 9.9272316,5.5625 L 11.903911,7.5391808 L 13.88059,5.5625 z "
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.99999869;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.816527,9.4180896 L 13.598562,10.205556 L 12.217628,11.59608 L 13.598562,12.986605 L 12.816527,13.77407 L 11.435594,12.383546 L 10.054661,13.77407 L 9.2726259,12.986605 L 10.653561,11.59608 L 9.2726259,10.205556 L 10.054661,9.4180896 L 11.435594,10.808615 L 12.816527,9.4180896 z "
        id="path2787" />
   </g>
 </svg>
