@@ -70,9 +70,9 @@
      borderopacity="0.13333333"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="7.3812929"
-     inkscape:cy="9.6173293"
+     inkscape:zoom="8"
+     inkscape:cx="55.317319"
+     inkscape:cy="-10.973498"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -82,7 +82,7 @@
      inkscape:window-height="578"
      inkscape:window-x="728"
      inkscape:window-y="489"
-     stroke="#3465a4" />
+     stroke="#555753" />
   <metadata
      id="metadata2571">
     <rdf:RDF>
@@ -138,7 +138,7 @@
          id="g3467"
          style="display:inline">
         <path
-           style="color:#000000;fill:url(#linearGradient3473);fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+           style="color:#000000;fill:url(#linearGradient3473);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
            d="M 18.5,22.5 L 22.5,18.5 L 22.5,29.5 L 18.5,25.5 L 18.5,22.5 z "
            id="path3364"
            sodipodi:nodetypes="ccccc" />
@@ -148,7 +148,7 @@
            id="path3366"
            sodipodi:nodetypes="ccccc" />
         <path
-           style="color:#000000;fill:url(#linearGradient3477);fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;stroke-dasharray:none"
+           style="color:#000000;fill:url(#linearGradient3477);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;stroke-dasharray:none"
            d="M 16.5,20.5 L 18.292926,20.495893 C 18.961639,20.495893 19.499989,21.034243 19.499989,21.702956 L 19.499989,26.292937 C 19.499989,26.961649 18.961639,27.499999 18.292926,27.499999 L 16.5,27.504106 L 16.5,20.5 z "
            id="rect3426"
            sodipodi:nodetypes="ccccccc" />

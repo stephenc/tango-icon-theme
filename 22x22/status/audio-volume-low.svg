@@ -22,11 +22,11 @@
     <linearGradient
        id="linearGradient3915">
       <stop
-         style="stop-color:#bdbebc;stop-opacity:1;"
+         style="stop-color:#888a85"
          offset="0"
          id="stop3917" />
       <stop
-         style="stop-color:#888a85;stop-opacity:1;"
+         style="stop-color:#555753"
          offset="1"
          id="stop3919" />
     </linearGradient>
@@ -200,9 +200,9 @@
      borderopacity="0.13333333"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="24.265567"
-     inkscape:cy="3.9763535"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="51.362268"
+     inkscape:cy="14.581935"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -210,9 +210,10 @@
      inkscape:showpageshadow="false"
      inkscape:window-width="826"
      inkscape:window-height="578"
-     inkscape:window-x="688"
-     inkscape:window-y="529"
-     stroke="#3465a4" />
+     inkscape:window-x="562"
+     inkscape:window-y="208"
+     stroke="#555753"
+     fill="#888a85" />
   <metadata
      id="metadata2571">
     <rdf:RDF>
@@ -221,7 +222,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Volume - Low</dc:title>
+        <dc:title>Volume - High</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Lapo Calamandrei</dc:title>
@@ -262,12 +263,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:0.99999952;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:0.67032967;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:0.99999952;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        d="M 13.375,13.25 C 14.010317,12.614696 14.40625,11.743819 14.40625,10.78125 C 14.406249,9.8186804 14.010317,8.9478033 13.375,8.3125"
        id="path3227"
        sodipodi:nodetypes="csc" />
     <rect
-       style="opacity:1;color:#000000;fill:#888a85;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:1;color:#000000;fill:#555753;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        id="rect4616"
        width="1.5"
        height="6"
@@ -284,7 +285,7 @@
        d="M 11.932427 17.403807 A 5.524272 2.2980971 0 1 1  0.88388348,17.403807 A 5.524272 2.2980971 0 1 1  11.932427 17.403807 z"
        transform="matrix(1.144,0,0,1.5,-1.364716,-7.994796)" />
     <path
-       style="color:#000000;fill:url(#linearGradient4585);fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="color:#000000;fill:url(#linearGradient4585);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        d="M 4.4374999,9.0300021 L 10.4375,3.5097 L 10.4375,18.530002 L 4.4374999,13.030002 L 4.4374999,9.0300021 z "
        id="path4542"
        sodipodi:nodetypes="ccccc" />
@@ -294,7 +295,7 @@
        id="path4544"
        sodipodi:nodetypes="ccccc" />
     <rect
-       style="opacity:1;color:#000000;fill:url(#linearGradient4641);fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:1;color:#000000;fill:url(#linearGradient4641);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        id="rect4614"
        width="2.9939785"
        height="9"
