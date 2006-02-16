@@ -1,3 +1,7 @@
+2006-02-16  Jakub Steiner <jimmac@ximian.com>
+
+	* audio-volume-*: based on work by Lapo Calamandrei
+
 2006-02-10  Jakub Steiner <jimmac@ximian.com>
 
 	* 16x16/animations/process-working.png: now it's 16x16, really.
