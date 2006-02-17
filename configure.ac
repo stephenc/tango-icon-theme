@@ -1,7 +1,7 @@
 # Process this file with autoconf to produce a configure script.
 AC_PREREQ(2.53)
 
-AC_INIT([tango-icon-theme], [0.6.7])
+AC_INIT([tango-icon-theme], [0.7.0])
 AC_CONFIG_SRCDIR(index.theme.in)
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar])
@@ -26,7 +26,7 @@ AC_SUBST(ACLOCAL_AMFLAGS, "\${ACLOCAL_FLAGS}")
 # Define the toplevel path here
 AC_SUBST(themedir, "\${datadir}/icons/Tango")
 
-UTILS_REQUIRED=0.6.7
+UTILS_REQUIRED=0.7.0
 
 AC_MSG_CHECKING([icon-naming-utils >= $UTILS_REQUIRED])
 PKG_CHECK_EXISTS(icon-naming-utils >= $UTILS_REQUIRED,

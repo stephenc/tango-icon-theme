@@ -1,5 +1,9 @@
 2006-02-17  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up  version to 0.7.0 for release
+
+2006-02-17  Rodney Dawes  <dobey@novell.com>
+
 	* */status/Makefile.am: Update for network-error icon
 
 	* */status/network-error.*: New network-error status icon
