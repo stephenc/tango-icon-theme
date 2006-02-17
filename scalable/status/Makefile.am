@@ -5,10 +5,10 @@ context = status
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =				\
-	audio-volume-high.svg	\
-	audio-volume-low.svg	\
-	audio-volume-medium.svg	\
-	audio-volume-muted.svg	\
+	audio-volume-high.svg		\
+	audio-volume-low.svg		\
+	audio-volume-medium.svg		\
+	audio-volume-muted.svg		\
 	battery-caution.svg		\
 	dialog-error.svg		\
 	dialog-information.svg		\
@@ -21,10 +21,13 @@ icons_DATA =				\
 	image-loading.svg		\
 	image-missing.svg		\
 	mail-attachment.svg		\
-	network-offline.svg	\
-	network-online.svg	\
+	network-idle.svg		\
+	network-offline.svg		\
+	network-receive.svg		\
+	network-transmit.svg		\
+	network-transmit-receive.svg	\
 	network-wireless-encrypted.svg	\
-	printer-error.svg	\
+	printer-error.svg		\
 	user-trash-full.svg		\
 	weather-clear.svg		\
 	weather-clear-night.svg		\

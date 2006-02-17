@@ -5,10 +5,10 @@ context = status
 iconsdir = $(themedir)/$(size)/$(context)
 
 icons_DATA =				\
-	audio-volume-high.png	\
-	audio-volume-low.png	\
-	audio-volume-medium.png	\
-	audio-volume-muted.png	\
+	audio-volume-high.png		\
+	audio-volume-low.png		\
+	audio-volume-medium.png		\
+	audio-volume-muted.png		\
 	battery-caution.png		\
 	dialog-error.png		\
 	dialog-information.png		\
@@ -19,10 +19,13 @@ icons_DATA =				\
 	image-loading.png		\
 	image-missing.png		\
 	mail-attachment.png		\
-	network-offline.png	\
-	network-online.png	\
+	network-idle.png		\
+	network-offline.png		\
+	network-receive.png		\
+	network-transmit.png		\
+	network-transmit-receive.png	\
 	network-wireless-encrypted.png	\
-	printer-error.png	\
+	printer-error.png		\
 	user-trash-full.png		\
 	weather-clear.png		\
 	weather-clear-night.png		\

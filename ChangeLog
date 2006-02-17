@@ -1,3 +1,19 @@
+2006-02-16  Rodney Dawes  <dobey@novell.com>
+
+	* */status/Makefile.am: Update for new network status icons
+	
+	* */status/network-online.*: Remove this icon to be replaced by new
+	network status icons with support for blinking lights and ambiguity
+
+	* */status/network-offline.*: Update with new status icon
+
+	* */status/network-idle.*:
+	* */status/network-receive.*:
+	* */status/network-transmit.*:
+	* */status/network-transmit-receive.*:
+	Add in these new status icons with support for blinking lights to
+	show network activity, but keep the light on as subtle as possible
+
 2006-02-16  Jakub Steiner <jimmac@ximian.com>
 
 	* scalable/actions/go-home.svg: bring back the pseudo-perspective
