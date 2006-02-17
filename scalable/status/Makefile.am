@@ -21,6 +21,7 @@ icons_DATA =				\
 	image-loading.svg		\
 	image-missing.svg		\
 	mail-attachment.svg		\
+	network-error.svg		\
 	network-idle.svg		\
 	network-offline.svg		\
 	network-receive.svg		\

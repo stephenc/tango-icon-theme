@@ -19,6 +19,7 @@ icons_DATA =				\
 	image-loading.png		\
 	image-missing.png		\
 	mail-attachment.png 		\
+	network-error.png		\
 	network-idle.png		\
 	network-offline.png		\
 	network-receive.png		\

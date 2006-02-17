@@ -1,3 +1,9 @@
+2006-02-17  Rodney Dawes  <dobey@novell.com>
+
+	* */status/Makefile.am: Update for network-error icon
+
+	* */status/network-error.*: New network-error status icon
+
 2006-02-16  Rodney Dawes  <dobey@novell.com>
 
 	* */status/Makefile.am: Update for new network status icons
