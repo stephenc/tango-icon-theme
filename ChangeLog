@@ -1,5 +1,9 @@
 2006-02-21  Jakub Steiner <jimmac@ximian.com>
 
+	* edit-select-all: Work from Andreas Nilsson and Steven Garrity
+
+2006-02-21  Jakub Steiner <jimmac@ximian.com>
+
 	* applications-multimedia, video-x-generic: It makes more sense to
 		swap these two
 	* 22x22/actions/format-text*: use a tango shadow

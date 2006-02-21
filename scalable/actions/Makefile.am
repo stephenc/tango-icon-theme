@@ -24,6 +24,7 @@ icons_DATA =				\
 	edit-find-replace.svg			\
 	edit-paste.svg			\
 	edit-redo.svg			\
+	edit-select-all.svg	\
 	edit-undo.svg			\
 	folder-new.svg			\
 	format-indent-less.svg		\

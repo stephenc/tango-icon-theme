@@ -24,6 +24,7 @@ icons_DATA =				\
 	edit-find-replace.png			\
 	edit-paste.png			\
 	edit-redo.png			\
+	edit-select-all.png	\
 	edit-undo.png			\
 	folder-new.png			\
 	format-indent-less.png		\
