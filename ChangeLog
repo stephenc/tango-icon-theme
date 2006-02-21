@@ -1,3 +1,9 @@
+2006-02-21  Jakub Steiner <jimmac@ximian.com>
+
+	* applications-multimedia, video-x-generic: It makes more sense to
+		swap these two
+	* 22x22/actions/format-text*: use a tango shadow
+	
 2006-02-17  Jakub Steiner <jimmac@ximian.com>
 
 	* scalable/status/network*: sync the "active" blue with the
