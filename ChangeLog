@@ -1,3 +1,9 @@
+2006-02-23  Rodney Dawes  <dobey@novell.com>
+
+	* */apps/Makefile.am:
+	* */apps/multimedia-volume-control.*: Remove this icon, as it's a GPL
+	icon in gnome-icon-theme already
+
 2006-02-21  Jakub Steiner <jimmac@ximian.com>
 
 	* edit-select-all: Work from Andreas Nilsson and Steven Garrity

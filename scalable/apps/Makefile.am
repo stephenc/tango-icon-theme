@@ -13,7 +13,6 @@ icons_DATA =						\
 	internet-mail.svg				\
 	internet-news-reader.svg			\
 	internet-web-browser.svg			\
-	multimedia-volume-control.svg			\
 	office-calendar.svg				\
 	preferences-desktop-accessibility.svg		\
 	preferences-desktop-assistive-technology.svg	\

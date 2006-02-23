@@ -13,7 +13,6 @@ icons_DATA =						\
 	internet-mail.png				\
 	internet-news-reader.png			\
 	internet-web-browser.png			\
-	multimedia-volume-control.png			\
 	office-calendar.png				\
 	preferences-desktop-accessibility.png		\
 	preferences-desktop-assistive-technology.png	\
