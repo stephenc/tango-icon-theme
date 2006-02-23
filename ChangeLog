@@ -1,5 +1,9 @@
 2006-02-23  Rodney Dawes  <dobey@novell.com>
 
+	* */status/network-online.*: Remove this again, as it re-appeared
+
+2006-02-23  Rodney Dawes  <dobey@novell.com>
+
 	* */apps/Makefile.am:
 	* */apps/multimedia-volume-control.*: Remove this icon, as it's a GPL
 	icon in gnome-icon-theme already
