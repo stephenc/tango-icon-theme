@@ -1,5 +1,9 @@
 2006-02-24  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.7.1 for release
+
+2006-02-24  Rodney Dawes  <dobey@novell.com>
+
 	* scalable/places/folder.icon: Update with better attach points
 
 2006-02-23  Rodney Dawes  <dobey@novell.com>
