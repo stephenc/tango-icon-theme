@@ -1,3 +1,7 @@
+2006-02-24  Rodney Dawes  <dobey@novell.com>
+
+	* scalable/places/folder.icon: Update with better attach points
+
 2006-02-23  Rodney Dawes  <dobey@novell.com>
 
 	* */status/network-online.*: Remove this again, as it re-appeared
