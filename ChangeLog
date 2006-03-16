@@ -1,3 +1,8 @@
+2006-03-16  Jakub Steiner <jimmac@ximian.com>
+
+	* preferences-desktop-locale: flip the flag order to emphesise on
+		"international". See bug #6278
+
 2006-03-03  Jakub Steiner <jimmac@ximian.com>
 
 	* AUTHORS: add Lapo and Ryan
