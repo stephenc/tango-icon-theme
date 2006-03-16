@@ -70,6 +70,7 @@ icons_DATA =				\
 	system-search.png		\
 	system-shutdown.png		\
 	tab-new.png			\
+	view-fullscreen.png		\
 	view-refresh.png 		\
 	window-new.png	
 

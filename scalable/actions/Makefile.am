@@ -70,6 +70,7 @@ icons_DATA =				\
 	system-search.svg		\
 	system-shutdown.svg		\
 	tab-new.svg			\
+	view-fullscreen.svg		\
 	view-refresh.svg		\
 	window-new.svg	
 

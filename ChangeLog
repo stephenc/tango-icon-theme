@@ -1,5 +1,9 @@
 2006-03-16  Jakub Steiner <jimmac@ximian.com>
 
+	* view-fullscreen: simple, yet clear IMO.
+
+2006-03-16  Jakub Steiner <jimmac@ximian.com>
+
 	* preferences-desktop-locale: flip the flag order to emphesise on
 		"international". See bug #6278
 
