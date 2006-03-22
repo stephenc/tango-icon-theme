@@ -9,14 +9,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="go-last.svg"
+   sodipodi:docname="go-next.svg"
    sodipodi:docbase="/home/ulisse/icone/tango-ubuntu/arrows/green/16x16"
    inkscape:version="0.43"
    sodipodi:version="0.32"
    id="svg11300"
    height="16"
    width="16"
-   inkscape:export-filename="/home/ulisse/icone/tango-ubuntu/arrows/green/16x16/go-last.png"
+   inkscape:export-filename="/home/ulisse/icone/tango-ubuntu/arrows/green/16x16/go-next.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    version="1.0">
@@ -52,10 +52,10 @@
        id="radialGradient1353"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.882016,-9.750406e-17,6.856533e-17,0.692777,-12.0939,-1.192324)"
-       cx="25.269928"
-       cy="3.8862779"
-       fx="25.269928"
-       fy="3.8862779"
+       cx="19.884539"
+       cy="5.0534792"
+       fx="19.884539"
+       fy="5.0534792"
        r="17.171415" />
     <radialGradient
        inkscape:collect="always"
@@ -63,10 +63,10 @@
        id="radialGradient1356"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.363292,-5.472876e-17,-6.198853e-17,-0.453739,-1.60199,18.1592)"
-       cx="26.430502"
-       cy="14.984718"
-       fx="26.430502"
-       fy="14.984718"
+       cx="30.475605"
+       cy="13.882763"
+       fx="30.475605"
+       fy="13.882763"
        r="16.9562" />
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -88,7 +88,7 @@
        fx="24.837126"
        fy="36.421127"
        r="15.644737"
-       gradientTransform="matrix(1,0,0,0.536723,3.143318e-15,16.87306)"
+       gradientTransform="matrix(1,0,0,0.536723,2.827165e-15,16.87306)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -114,7 +114,7 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="168"
+     inkscape:window-y="91"
      inkscape:window-x="90"
      inkscape:window-height="673"
      inkscape:window-width="872"
@@ -154,11 +154,11 @@
         <dc:source />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-        <dc:title>Go First</dc:title>
+        <dc:title>Go Next</dc:title>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>go</rdf:li>
-            <rdf:li>first</rdf:li>
+            <rdf:li>next</rdf:li>
             <rdf:li>arrow</rdf:li>
             <rdf:li>pointer</rdf:li>
             <rdf:li>&gt;</rdf:li>
@@ -200,20 +200,12 @@ Jakub Steiner</dc:title>
     <path
        sodipodi:nodetypes="cccccc"
        id="path8645"
-       d="M 6,1.5 L 6,5 L 0.99999997,5 L 0.99999997,8 C 5.5,5.5 10,10.5 15,8 L 6,1.5 z "
+       d="M 6,1.5 L 6,5 L 0.99999997,5 L 0.99999997,8 C 6.5,6 10.5,10 15,8 L 6,1.5 z "
        style="opacity:0.5080214;color:#000000;fill:url(#radialGradient1353);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
     <path
        style="opacity:0.48128339;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        d="M 1.5,5.5 L 6.5,5.5 L 6.5,2.5 L 14,8 L 6.5,13.5 L 6.5,10.5 L 1.5,10.5 L 1.5,5.5 z "
        id="path8658"
        sodipodi:nodetypes="cccccccc" />
-    <rect
-       style="opacity:1;color:#000000;fill:#3a7304;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:17.85;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="rect1364"
-       width="16"
-       height="2"
-       x="1.4901161e-08"
-       y="14"
-       transform="matrix(-7.852334e-17,1,1,7.852334e-17,0,0)" />
   </g>
 </svg>

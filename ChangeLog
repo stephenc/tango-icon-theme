@@ -1,3 +1,9 @@
+2006-03-22  Jakub Steiner <jimmac@ximian.com>
+
+	* {16x16/22x22}/actions/go-*: update the small 
+		sized arrows to have the same green. 
+	  contributed by Ulisse Perusin <uli.peru@gmail.com>
+					
 2006-03-16  Jakub Steiner <jimmac@ximian.com>
 
 	* view-fullscreen: simple, yet clear IMO.
