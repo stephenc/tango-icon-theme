@@ -1,3 +1,11 @@
+2006-04-20  Jakub Steiner <jimmac@ximian.com>
+
+	* mail-mark-junk: While I prefer Andreas' icon personally there
+		have been numerous incidents where people reported confusing
+		delete and mark as spam. While not much better, at least a
+		wrinkled paper metaphore is visually distinct.
+	* mail-mark-not-junk: was missing for some reason
+
 2006-03-22  Jakub Steiner <jimmac@ximian.com>
 
 	* {16x16/22x22}/actions/go-*: update the small 

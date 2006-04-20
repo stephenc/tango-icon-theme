@@ -52,6 +52,7 @@ icons_DATA =				\
 	mail-forward.png	\
 	mail-message-new.png		\
 	mail-mark-junk.png	\
+	mail-mark-not-junk.png	\
 	mail-reply-all.png	\
 	mail-reply-sender.png	\
 	mail-send-receive.png	\
