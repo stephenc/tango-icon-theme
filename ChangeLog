@@ -1,5 +1,9 @@
 2006-04-21  Rodney Dawes  <dobey@novell.com>
 
+	* index.theme.in: Fix typo in context name for 128x128/status
+	
+2006-04-21  Rodney Dawes  <dobey@novell.com>
+
 	* AUTHORS: Add Steven Garrity to the list
 	
 	* scalable/mimetypes/Makefile.am: Fix broken use of \ followed by a

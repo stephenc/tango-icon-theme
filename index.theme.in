@@ -425,7 +425,7 @@ Type=Fixed
 
 [128x128/status]
 Size=128
-Context=Stxatus
+Context=Status
 Type=Fixed
 
 [scalable/actions]
