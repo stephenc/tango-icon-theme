@@ -1,5 +1,10 @@
 2006-04-21  Rodney Dawes  <dobey@novell.com>
 
+	* configure.ac: Up version to 0.7.2 for release
+	Require icon-naming-utils 0.7.2 for new links
+
+2006-04-21  Rodney Dawes  <dobey@novell.com>
+
 	* index.theme.in: Fix typo in context name for 128x128/status
 	
 2006-04-21  Rodney Dawes  <dobey@novell.com>
