@@ -25,7 +25,7 @@ icons_DATA =					\
 	x-office-presentation.svg	\
 	x-office-presentation-template.svg	\
 	x-office-spreadsheet.svg	\
-	x-office-spreadsheet-template.svg	\
+	x-office-spreadsheet-template.svg
 
 EXTRA_DIST =					\
 	$(icons_DATA)
