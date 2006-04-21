@@ -19,8 +19,13 @@ icons_DATA =					\
 	x-office-address-book.svg		\
 	x-office-calendar.svg	\
 	x-office-document.svg			\
+	x-office-document-template.svg			\
+	x-office-drawing.svg		\
+	x-office-drawing-template.svg		\
 	x-office-presentation.svg	\
-	x-office-spreadsheet.svg
+	x-office-presentation-template.svg	\
+	x-office-spreadsheet.svg	\
+	x-office-spreadsheet-template.svg	\
 
 EXTRA_DIST =					\
 	$(icons_DATA)

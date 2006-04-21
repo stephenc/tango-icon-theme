@@ -1,3 +1,8 @@
+2006-04-21  Jakub Steiner <jimmac@ximian.com>
+
+	* x-office-drawing: for office illustration files
+	* x-office-*-template: template files for office documents
+
 2006-04-20  Jakub Steiner <jimmac@ximian.com>
 
 	* mail-mark-junk: While I prefer Andreas' icon personally there
