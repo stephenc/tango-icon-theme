@@ -7,7 +7,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="mail-reply-all.svg"
    sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/actions"
@@ -564,7 +564,7 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-y="138"
-     inkscape:window-x="2521"
+     inkscape:window-x="709"
      inkscape:window-height="907"
      inkscape:window-width="1205"
      inkscape:document-units="px"
@@ -645,14 +645,14 @@
      id="layer1">
     <path
        sodipodi:type="arc"
-       style="opacity:0.3;color:#000000;fill:url(#radialGradient1481);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       style="opacity:0.3;color:black;fill:url(#radialGradient1481);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
        id="path10699"
        sodipodi:cx="12.75"
        sodipodi:cy="38.700001"
        sodipodi:rx="13.75"
        sodipodi:ry="3.8"
        d="M 26.5 38.700001 A 13.75 3.8 0 1 1  -1,38.700001 A 13.75 3.8 0 1 1  26.5 38.700001 z"
-       transform="matrix(1.596973,0,0,1.526064,3.680228,-19.70947)"
+       transform="matrix(1.596973,0,0,1.526064,6.862209,-22.89145)"
        inkscape:r_cx="true"
        inkscape:r_cy="true" />
     <g

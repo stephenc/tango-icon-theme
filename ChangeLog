@@ -1,3 +1,7 @@
+2006-05-12  Jakub Steiner <jimmac@ximian.com>
+
+	* *svg: use a less stylistic shadow.
+
 2006-04-21  Rodney Dawes  <dobey@novell.com>
 
 	* configure.ac: Up version to 0.7.2 for release

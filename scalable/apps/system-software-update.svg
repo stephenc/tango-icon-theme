@@ -7,10 +7,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="system-software-update.svg"
-   sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/apps"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/apps"
    inkscape:version="0.43+devel"
    sodipodi:version="0.32"
    id="svg3440"
@@ -18,8 +18,7 @@
    width="48px"
    inkscape:export-filename="/home/jimmac/Desktop/big-software-update.png"
    inkscape:export-xdpi="360.00000"
-   inkscape:export-ydpi="360.00000"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:export-ydpi="360.00000">
   <defs
      id="defs3">
     <linearGradient
@@ -117,7 +116,7 @@
        x2="15.343062"
        y1="117.82710"
        x1="1.6422368"
-       gradientTransform="matrix(2.740165,0.000000,0.000000,0.147685,1.118717,21.16806)"
+       gradientTransform="matrix(2.740165,0,0,0.182471,1.118717,16.49994)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient177"
        xlink:href="#linearGradient178"
@@ -128,7 +127,7 @@
        x2="5.0856376"
        y1="372.57819"
        x1="0.61210024"
-       gradientTransform="matrix(8.168597,0.000000,0.000000,0.228621,1.118717,-39.93197)"
+       gradientTransform="matrix(8.168597,0,0,0.228621,1.118717,-40.55063)"
        id="linearGradient271"
        xlink:href="#linearGradient272"
        inkscape:collect="always" />
@@ -299,7 +298,7 @@
        fx="15.115514"
        cy="63.965388"
        cx="15.115514"
-       gradientTransform="scale(1.643990,0.608276)"
+       gradientTransform="scale(1.64399,0.608276)"
        id="radialGradient4120"
        xlink:href="#linearGradient4114"
        inkscape:collect="always" />
@@ -910,14 +909,14 @@
   <sodipodi:namedview
      inkscape:window-y="138"
      inkscape:window-x="124"
-     inkscape:window-height="648"
-     inkscape:window-width="770"
+     inkscape:window-height="659"
+     inkscape:window-width="872"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     showgrid="false"
+     showgrid="true"
      inkscape:current-layer="layer1"
-     inkscape:cy="21.704468"
-     inkscape:cx="32.806152"
+     inkscape:cy="12.601861"
+     inkscape:cx="40.499842"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -985,14 +984,14 @@
        id="rect69"
        style="color:#000000;fill:url(#linearGradient175);fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;overflow:visible" />
     <path
-       transform="matrix(0.827148,0.000000,0.000000,1.028347,4.083229,-1.249916)"
+       transform="matrix(0.759089,0,0,0.877848,5.774479,4.605797)"
        d="M 45.052803 38.908627 A 20.203051 7.4751287 0 1 1  4.6467018,38.908627 A 20.203051 7.4751287 0 1 1  45.052803 38.908627 z"
        sodipodi:ry="7.4751287"
        sodipodi:rx="20.203051"
        sodipodi:cy="38.908627"
        sodipodi:cx="24.849752"
        id="path4112"
-       style="fill:url(#radialGradient4120);fill-opacity:1.0000000;stroke:none;stroke-opacity:1.0000000"
+       style="fill:url(#radialGradient4120);fill-opacity:1;stroke:none;stroke-opacity:1"
        sodipodi:type="arc" />
     <rect
        y="39.984222"
@@ -1002,19 +1001,19 @@
        id="rect255"
        style="color:#000000;fill:url(#linearGradient283);fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;overflow:visible" />
     <rect
-       y="36.636272"
+       y="36.017567"
        x="6.1187172"
-       height="1.0227470"
+       height="1.022747"
        width="36.542522"
        id="rect250"
-       style="color:#000000;fill:url(#linearGradient271);fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;overflow:visible" />
+       style="color:black;fill:url(#linearGradient271);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
     <rect
-       y="37.759968"
+       y="37"
        x="6.1187172"
-       height="1.6187184"
+       height="2"
        width="36.542522"
        id="rect176"
-       style="color:#000000;fill:url(#linearGradient177);fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:block;overflow:visible" />
+       style="color:black;fill:url(#linearGradient177);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
     <path
        id="rect183"
        d="M 22.584707,26.450993 C 21.801233,26.450993 21.178457,27.073767 21.178457,27.857243 L 21.178457,35.450993 L 18.115957,35.450993 C 17.332483,35.450993 16.709707,36.073767 16.709707,36.857243 L 16.709707,40.575993 C 16.709707,41.359467 17.332483,41.982246 18.115957,41.982243 L 30.303457,41.982243 C 31.086931,41.982243 31.709707,41.359464 31.709707,40.575993 L 31.709707,36.857243 C 31.709707,36.073769 31.086931,35.450993 30.303457,35.450993 L 27.709707,35.450993 L 27.709707,27.857243 C 27.709707,27.073769 27.086932,26.450993 26.303457,26.450993 L 22.584707,26.450993 z "
