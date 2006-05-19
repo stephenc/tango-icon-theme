@@ -11,6 +11,7 @@ icons_DATA =			\
 	face-glasses.png	\
 	face-grin.png		\
 	face-kiss.png		\
+	face-monkey.png	\
 	face-plain.png		\
 	face-sad.png		\
 	face-smile.png		\
