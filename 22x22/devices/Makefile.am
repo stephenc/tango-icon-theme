@@ -24,7 +24,6 @@ icons_DATA =				\
 	network-wired.png		\
 	network-wireless.png		\
 	printer.png			\
-	printer-remote.png		\
 	video-display.png
 
 EXTRA_DIST =				\
