@@ -1,6 +1,6 @@
 DISTCHECK_CONFIGURE_FLAGS = --disable-icon-framing --enable-png-creation
 
-SUBDIRS = 16x16 22x22 scalable po
+SUBDIRS = 16x16 22x22 32x32 scalable po
 
 THEME_IN_FILES = index.theme.in
 

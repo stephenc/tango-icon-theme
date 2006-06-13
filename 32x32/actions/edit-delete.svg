@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg1306"
+   sodipodi:version="0.32"
+   inkscape:version="0.43+devel"
+   sodipodi:docbase="/home/lapo/Desktop/tango-icon-theme/32x32/actions"
+   sodipodi:docname="edit-delete.svg"
+   inkscape:export-filename="/home/andreas/projekt/tango/22/delete.png"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-ydpi="90.000000"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs1308">
+    <linearGradient
+       id="linearGradient4126"
+       inkscape:collect="always">
+      <stop
+         id="stop4128"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4130"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4126"
+       id="radialGradient1887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.5,0,20)"
+       cx="23.857143"
+       cy="40"
+       fx="23.857143"
+       fy="40"
+       r="17.142857" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="20.034739"
+     inkscape:cy="15.101127"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     fill="#73d216"
+     stroke="#a40000"
+     inkscape:window-width="1034"
+     inkscape:window-height="775"
+     inkscape:window-x="0"
+     inkscape:window-y="195"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     width="32px"
+     height="32px"
+     inkscape:showpageshadow="false"
+     showborder="false" />
+  <metadata
+     id="metadata1311">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Delete</dc:title>
+        <dc:date>2005-12-28</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://tango-project.org</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>delete</rdf:li>
+            <rdf:li>remove</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       transform="matrix(0.816667,0,0,0.272223,-3.480818,16.78414)"
+       d="M 41 40 A 17.142857 8.5714283 0 1 1  6.7142868,40 A 17.142857 8.5714283 0 1 1  41 40 z"
+       sodipodi:ry="8.5714283"
+       sodipodi:rx="17.142857"
+       sodipodi:cy="40"
+       sodipodi:cx="23.857143"
+       id="path6548"
+       style="opacity:0.52688168;color:black;fill:url(#radialGradient1887);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.55376371;fill:none;fill-opacity:1;stroke:white;stroke-width:1.4599756;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2242"
+       sodipodi:cx="28.357143"
+       sodipodi:cy="27.214285"
+       sodipodi:rx="18.357143"
+       sodipodi:ry="18.142857"
+       d="M 46.714287 27.214285 A 18.357143 18.142857 0 1 1  10,27.214285 A 18.357143 18.142857 0 1 1  46.714287 27.214285 z"
+       transform="matrix(0.680934,0,0,0.688976,-3.30934,-3.749996)" />
+    <path
+       style="opacity:1;color:black;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#a40000;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 25.545942,5.4540585 C 20.276583,0.18469957 11.723417,0.18469957 6.454059,5.4540585 C 1.184699,10.723417 1.184699,19.276584 6.454059,24.545942 C 11.723417,29.815301 20.276582,29.8153 25.545942,24.545942 C 30.8153,19.276583 30.815301,10.723417 25.545942,5.4540585 z M 22.717514,8.2824856 C 25.937743,11.502714 26.349965,16.469824 23.977048,20.148621 L 10.851379,7.0229516 C 14.530176,4.6500351 19.497287,5.0622577 22.717514,8.2824856 z M 8.022952,9.8513787 L 21.148621,22.977048 C 17.469824,25.349965 12.502713,24.937742 9.282486,21.717514 C 6.062258,18.497287 5.650035,13.530176 8.022952,9.8513787 z "
+       id="path1899" />
+    <path
+       style="opacity:0.3064516;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3,13.610564 C 3.0156669,15.125332 6.9939568,14.00908 7.0096237,14.832324 C 6.9782892,13.580993 7.8100027,11.147218 8.1076797,10.587411 L 13.794877,16.304085 C 13.763544,15.102148 18.712102,15.409261 18.633766,14.108535 L 11.646782,7.0924837 C 12.649482,6.5491428 14.452732,6.0037886 15.92545,6.1025777 C 21.346305,6.2507618 24.965853,11.598489 24.98152,15.204297 L 24.636756,18.411922 C 24.55842,19.696183 28.600222,18.451238 28.474885,19.488525 C 28.741228,18.698211 29.054571,17.068188 28.991903,15.191193 C 28.960568,8.5229154 23.61805,2.2497962 15.878448,2.1016121 C 10.230418,2.1921694 5.6751762,5.5798181 4.1162884,10.060324 C 4.0271441,10.083462 3.1488382,11.568918 3,13.610564 z "
+       id="path2263"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       style="opacity:0.47849462;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:white;stroke-width:1.00000048px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.7857068,7.5000002 L 23.5,21.214293"
+       id="path2261"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.55376371;fill:none;fill-opacity:1;stroke:white;stroke-width:1.4599756;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2795"
+       sodipodi:cx="28.357143"
+       sodipodi:cy="27.214285"
+       sodipodi:rx="18.357143"
+       sodipodi:ry="18.142857"
+       d="M 46.714287 27.214285 A 18.357143 18.142857 0 1 1  10,27.214285 A 18.357143 18.142857 0 1 1  46.714287 27.214285 z"
+       transform="matrix(0.680934,0,0,0.688976,-3.30934,-3.749996)" />
+  </g>
+</svg>

@@ -1,3 +1,8 @@
+2006-06-13  Jakub Steiner <jimmac@ximian.com>
+
+	* 32x32/*: great contribution by Lapo Calamandrei. The new
+	(optional) 32x32 size is in. Including the spinner.
+	
 2006-06-12  Jakub Steiner <jimmac@ximian.com>
 
 	* scalable/apps/system-software-update.svg: remove last traces of

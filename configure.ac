@@ -121,6 +121,17 @@ Makefile
 22x22/mimetypes/Makefile
 22x22/places/Makefile
 22x22/status/Makefile
+32x32/Makefile
+32x32/actions/Makefile
+32x32/animations/Makefile
+32x32/apps/Makefile
+32x32/categories/Makefile
+32x32/devices/Makefile
+32x32/emblems/Makefile
+32x32/emotes/Makefile
+32x32/mimetypes/Makefile
+32x32/places/Makefile
+32x32/status/Makefile
 scalable/Makefile
 scalable/actions/Makefile
 scalable/apps/Makefile
