@@ -7,7 +7,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/22x22/apps"
+   sodipodi:docbase="/home/lapo/Icone/tango-icon-theme/22x22/apps"
    sodipodi:docname="accessories-character-map.svg"
    version="1.0"
    inkscape:r_cx="true"
@@ -325,18 +325,6 @@
      inkscape:groupmode="layer"
      inkscape:r_cx="true"
      inkscape:r_cy="true">
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.38888891;color:#000000;fill:url(#radialGradient4726);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
-       id="path4718"
-       sodipodi:cx="24.25"
-       sodipodi:cy="39.8125"
-       sodipodi:rx="17.375"
-       sodipodi:ry="6.9375"
-       d="M 41.625 39.8125 A 17.375 6.9375 0 1 1  6.875,39.8125 A 17.375 6.9375 0 1 1  41.625 39.8125 z"
-       inkscape:r_cx="true"
-       inkscape:r_cy="true"
-       transform="matrix(0.496747,0,0,0.259562,-1.552898,9.79468)" />
     <rect
        style="opacity:1;color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1.00000048;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
        id="rect2960"
