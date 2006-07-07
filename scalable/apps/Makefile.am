@@ -40,7 +40,7 @@ EXTRA_DIST =						\
 install-data-local: install-iconsDATA
 	(cd $(DESTDIR)$(themedir)/$(size) && $(ICONMAP) -c $(context))
 if ENABLE_LARGE_BITMAPS
-	for i in 32 48 64 72 96 128; do \
+	for i in 48 64 72 96 128; do \
 		pngdir="$(DESTDIR)$(themedir)/$${i}x$${i}/$(context)"; \
 		$(mkinstalldirs) $$pngdir; \
 		for icon in $(icons_DATA); do \

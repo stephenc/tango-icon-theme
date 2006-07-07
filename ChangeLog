@@ -1,3 +1,8 @@
+2006-07-07  Rodney Dawes  <dobey@novell.com>
+
+	* scalable/*/Makefile.am: Don't generate 32x32 versions of the icons
+	from the SVGs as we now have native 32x32 versions
+
 2006-07-05  Lapo Calamandrei <calamandrei@gmail.com>
 
 	* 22x22/apps/*: new shadows.
