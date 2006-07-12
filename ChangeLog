@@ -1,5 +1,10 @@
 2006-07-12  Jakub Steiner <jimmac@ximian.com>
 
+	* contact-new*: make slightly darker at smaller resolutions (bug
+		#7500)
+	
+2006-07-12  Jakub Steiner <jimmac@ximian.com>
+
 	* 22x22/categories/applications-accessories*: 
 	* 22x22/actions/edit-cut*: color and shape fixes based on artwork
 	form sacrat AT gmail DOT com. Fixes #7499
