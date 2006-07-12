@@ -1,3 +1,8 @@
+2006-07-12  Jakub Steiner <jimmac@ximian.com>
+
+	* 22x22/actions/edit-cut*: color and shape fixes based on artwoirk
+	form sacrat AT gmail DOT com. Fixes #7499
+	
 2006-07-07  Rodney Dawes  <dobey@novell.com>
 
 	* scalable/*/Makefile.am: Don't generate 32x32 versions of the icons
