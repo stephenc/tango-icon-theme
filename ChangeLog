@@ -1,5 +1,15 @@
 2006-07-17  Jakub Steiner <jimmac@ximian.com>
 
+	* 22x22/apps/preferences-desktop-screensaver.png
+	* 22x22/apps/preferences-desktop-screensaver.xcf.bz2
+	* 22x22/apps/preferences-desktop-wallpaper.png
+	* 22x22/apps/preferences-desktop-wallpaper.xcf.bz2
+	* 22x22/devices/video-display.png
+	* 22x22/devices/video-display.xcf.bz2: straight outline for the
+		display
+
+2006-07-17  Jakub Steiner <jimmac@ximian.com>
+
 	* 16x16/status/weather-few-clouds: the cloud was too big for "few
 	clouds"
 	* 32x32/status/weather-severe-alert: the emblem was too dark
