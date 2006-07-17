@@ -13,11 +13,13 @@
    height="32"
    id="svg1306"
    sodipodi:version="0.32"
-   inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/lapo/Desktop/tango-icon-theme/32x32/status"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/32x32/status"
    sodipodi:docname="weather-severe-alert.svg"
    version="1.0"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:export-filename="/home/jimmac/src/cvs/tango-icon-theme/32x32/status/weather-severe-alert.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs1308">
     <linearGradient
@@ -354,10 +356,10 @@
        id="linearGradient2504"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.034921,0,0,1.034921,-0.841599,-0.85775)"
-       x1="4.1914001"
-       y1="11.1133"
-       x2="47.319698"
-       y2="56.052299" />
+       x1="38.819698"
+       y1="49.555237"
+       x2="29.490557"
+       y2="27.920462" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -366,17 +368,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="20.490579"
-     inkscape:cy="27.150989"
+     inkscape:zoom="1"
+     inkscape:cx="24.228245"
+     inkscape:cy="9.5524388"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1200"
      inkscape:window-height="704"
-     inkscape:window-x="241"
-     inkscape:window-y="216"
+     inkscape:window-x="689"
+     inkscape:window-y="325"
      inkscape:showpageshadow="false"
      width="32px"
      height="32px"

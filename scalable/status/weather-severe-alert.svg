@@ -7,14 +7,14 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48px"
    height="48px"
    id="svg1306"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
-   sodipodi:docbase="/home/rcollier/Work/Novell/Tango/weather"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/status"
    sodipodi:docname="weather-severe-alert.svg">
   <defs
      id="defs1308">
@@ -334,8 +334,8 @@
        gradientTransform="matrix(0.874977,0.000000,0.000000,0.921480,226.2382,-218.5702)"
        x1="8.5469341"
        y1="30.281681"
-       x2="30.85088"
-       y2="48.301884" />
+       x2="25.597948"
+       y2="52.330524" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4442">
@@ -4194,17 +4194,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000000"
-     inkscape:cx="48.840505"
-     inkscape:cy="39.675689"
+     inkscape:zoom="1"
+     inkscape:cx="72.704255"
+     inkscape:cy="35.011505"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1200"
      inkscape:window-height="1082"
-     inkscape:window-x="364"
-     inkscape:window-y="22"
+     inkscape:window-x="691"
+     inkscape:window-y="38"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true" />

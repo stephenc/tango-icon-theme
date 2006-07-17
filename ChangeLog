@@ -1,3 +1,9 @@
+2006-07-17  Jakub Steiner <jimmac@ximian.com>
+
+	* 16x16/status/weather-few-clouds: the cloud was too big for "few
+	clouds"
+	* 32x32/status/weather-severe-alert: the emblem was too dark
+
 2006-07-12  Jakub Steiner <jimmac@ximian.com>
 
 	* contact-new*: make slightly darker at smaller resolutions (bug
