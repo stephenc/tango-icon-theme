@@ -1,5 +1,10 @@
 2006-07-26  Jakub Steiner <jimmac@ximian.com>
 
+	* {32x32,scalable}/actions/view-fullscreen: lighten up the
+		background
+
+2006-07-26  Jakub Steiner <jimmac@ximian.com>
+
 	* 22x22/actions/list-add, list-remove: drop the shadow
 
 2006-07-26  Jakub Steiner <jimmac@ximian.com>
