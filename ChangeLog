@@ -1,3 +1,8 @@
+2006-07-26  Jakub Steiner <jimmac@ximian.com>
+
+	* {16x16,22x22}/actions/edit-{undo,redo}*: edit color and shape
+		slightly. Bug #7632
+
 2006-07-17  Jakub Steiner <jimmac@ximian.com>
 
 	* 22x22/actions/system-lock-screen.xcf.bz2
