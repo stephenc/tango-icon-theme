@@ -11,13 +11,13 @@ icons_DATA =				\
 	camera-photo.png		\
 	camera-video.png		\
 	computer.png			\
-	drive-cdrom.png			\
+	drive-optical.png		\
 	drive-harddisk.png		\
 	drive-removable-media.png	\
 	input-gaming.png		\
 	input-keyboard.png		\
 	input-mouse.png			\
-	media-cdrom.png			\
+	media-optical.png		\
 	media-floppy.png		\
 	media-memory.png	\
 	multimedia-player.png		\
