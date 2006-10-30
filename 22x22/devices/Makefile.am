@@ -19,7 +19,7 @@ icons_DATA =				\
 	input-mouse.png			\
 	media-optical.png		\
 	media-floppy.png		\
-	media-memory.png	\
+	media-flash.png			\
 	multimedia-player.png		\
 	network-wired.png		\
 	network-wireless.png		\

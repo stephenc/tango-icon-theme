@@ -19,7 +19,7 @@ icons_DATA =				\
 	input-mouse.svg			\
 	media-optical.svg		\
 	media-floppy.svg		\
-	media-memory.svg	\
+	media-flash.svg			\
 	multimedia-player.svg		\
 	network-wired.svg		\
 	network-wireless.svg		\
