@@ -1,3 +1,8 @@
+2007-01-17  Jakub Steiner <jimmac@ximian.com>
+
+	* system-log-out: make less gloomy. Additionally put the arrow on
+		the other side for better recognition.
+
 2006-10-30  Lapo Calamandrei <calamandrei@gmail.com>
 
 	* */devices/{media,drive}-cdrom renamed to new naming specs names.
