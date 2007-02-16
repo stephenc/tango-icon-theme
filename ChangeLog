@@ -1,3 +1,10 @@
+2007-02-15  Rodney Dawes  <dobey@novell.com>
+
+	* */apps/preferences-desktop-locale.*: Replace actual flags with
+	simple colored flags to avoid political debate
+
+	Fixes https://bugs.freedesktop.org/show_bug.cgi?id=6278
+
 2007-01-17  Jakub Steiner <jimmac@ximian.com>
 
 	* system-log-out: make less gloomy. Additionally put the arrow on
