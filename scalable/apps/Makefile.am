@@ -44,7 +44,7 @@ if ENABLE_LARGE_BITMAPS
 		pngdir="$(DESTDIR)$(themedir)/$${i}x$${i}/$(context)"; \
 		$(mkinstalldirs) $$pngdir; \
 		for icon in $(icons_DATA); do \
-			$(top_builddir)/svg2png.sh $$i $$pngdir $$icon; \
+			$(top_builddir)/svg2png.sh $$i $$pngdir $(srcdir)/$$icon; \
 		done; \
 		(cd $(DESTDIR)$(themedir)/$${i}x$${i} && $(ICONMAP) -c $(context)); \
 	done

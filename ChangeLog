@@ -1,3 +1,12 @@
+2007-02-16  Rodney Dawes  <dobey@novell.com>
+
+	* svg2png.sh.in: Handle having $(srcdir) passed in for the source
+	icon when getting the ICONNAME variable to use for output
+	Echo the command we're going to run to stdout
+
+	* scalable/*/Makefile.am: Add $(srcdir) for loading the svg icon
+	into svg2png.sh
+
 2007-02-16  Jakub Steiner <jimmac@ximian.com>
 
 	* */apps/preferences-desktop-locale.*: add shading to make it
