@@ -96,17 +96,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="13.879411"
-     inkscape:cy="14.589347"
+     inkscape:cx="-9.8479588"
+     inkscape:cy="13.049989"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="22px"
      height="22px"
      inkscape:showpageshadow="false"
      inkscape:window-width="872"
-     inkscape:window-height="623"
-     inkscape:window-x="743"
-     inkscape:window-y="198"
+     inkscape:window-height="630"
+     inkscape:window-x="458"
+     inkscape:window-y="162"
      showgrid="false" />
   <metadata
      id="metadata7859">
@@ -162,7 +162,7 @@
        id="path4547"
        sodipodi:nodetypes="cccc" />
     <path
-       style="opacity:0.24096386;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5270);stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.45783133;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5270);stroke-width:0.99999976000000002;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 10.955083,3.5658132 C 10.86791,3.5791463 10.791844,3.6297864 10.748466,3.7033675 L 2.5606293,17.806 C 2.4783017,17.946815 2.4799156,18.118796 2.564872,18.258175 C 2.6498288,18.397552 2.8054627,18.48355 2.9740689,18.48428 L 19.025932,18.48428 C 19.194538,18.48355 19.350173,18.397552 19.43513,18.258175 C 19.520085,18.118796 19.521698,17.946815 19.439372,17.806 L 11.251535,3.7033675 C 11.192224,3.6029786 11.074175,3.5482039 10.955083,3.5658132 z"
        id="path5219"
        sodipodi:nodetypes="cccsccsccc" />
