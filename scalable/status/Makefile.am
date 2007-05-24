@@ -29,6 +29,7 @@ icons_DATA =				\
 	network-transmit-receive.svg	\
 	network-wireless-encrypted.svg	\
 	printer-error.svg		\
+	software-update-available.svg	\
 	user-trash-full.svg		\
 	weather-clear.svg		\
 	weather-clear-night.svg		\

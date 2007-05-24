@@ -1,3 +1,12 @@
+2007-05-24  Jakub Steiner <jimmac@ximian.com>
+
+	* software-update-available: new software update status icon
+
+2007-05-09  Jakub Steiner <jimmac@ximian.com>
+
+	* 22x22/places/user-trash.svg:
+	* 22x22/status/user-trash-full.svg: fix color (bug #10882)
+
 2007-04-03  Jakub Steiner <jimmac@ximian.com>
 
 	* 16x16/emblems/emblem-favorite.svg
