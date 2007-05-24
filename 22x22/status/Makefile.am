@@ -28,6 +28,7 @@ icons_DATA =				\
 	network-wireless-encrypted.png	\
 	printer-error.png		\
 	software-update-available.png	\
+	software-update-urgent.png	\
 	user-trash-full.png		\
 	weather-clear.png		\
 	weather-clear-night.png		\

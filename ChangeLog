@@ -1,6 +1,7 @@
 2007-05-24  Jakub Steiner <jimmac@ximian.com>
 
-	* software-update-available: new software update status icon
+	* software-update-available:
+	* software-update-urgent: new software update status icons
 
 2007-05-09  Jakub Steiner <jimmac@ximian.com>
 
