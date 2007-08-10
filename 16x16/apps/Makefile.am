@@ -21,7 +21,6 @@ icons_DATA =						\
 	preferences-desktop-locale.png	\
 	preferences-desktop-remote-desktop.png		\
 	preferences-desktop-screensaver.png		\
-	preferences-desktop-sound.png			\
 	preferences-desktop-theme.png			\
 	preferences-desktop-wallpaper.png		\
 	preferences-system-network-proxy.png		\

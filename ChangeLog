@@ -1,5 +1,11 @@
 2007-08-10  Jakub Steiner <jimmac@ximian.com>
 
+	* apps/preferences-desktop-sound:
+	* actions/preferences-desktop-multimedia: renaming as per the
+		latest naming spec.
+
+2007-08-10  Jakub Steiner <jimmac@ximian.com>
+
 	* device/media-flash: use a more approachable metaphor. Novell bug
 		#268098 
 

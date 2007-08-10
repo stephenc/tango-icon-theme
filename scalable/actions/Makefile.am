@@ -64,6 +64,7 @@ icons_DATA =				\
 	media-seek-forward.svg		\
 	media-skip-backward.svg		\
 	media-skip-forward.svg		\
+	preferences-desktop-multimedia.svg	\
 	process-stop.svg		\
 	system-lock-screen.svg		\
 	system-log-out.svg		\

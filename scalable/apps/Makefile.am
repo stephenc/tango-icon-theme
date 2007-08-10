@@ -21,7 +21,6 @@ icons_DATA =						\
 	preferences-desktop-locale.svg	\
 	preferences-desktop-remote-desktop.svg		\
 	preferences-desktop-screensaver.svg		\
-	preferences-desktop-sound.svg			\
 	preferences-desktop-theme.svg			\
 	preferences-desktop-wallpaper.svg		\
 	preferences-system-network-proxy.svg		\
