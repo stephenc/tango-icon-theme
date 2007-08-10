@@ -65,7 +65,6 @@ icons_DATA =				\
 	media-seek-forward.png		\
 	media-skip-backward.png		\
 	media-skip-forward.png		\
-	preferences-desktop-multimedia.png	\
 	process-stop.png		\
 	system-lock-screen.png		\
 	system-log-out.png		\

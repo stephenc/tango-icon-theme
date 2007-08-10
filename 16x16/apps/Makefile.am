@@ -19,6 +19,7 @@ icons_DATA =						\
 	preferences-desktop-font.png			\
 	preferences-desktop-keyboard-shortcuts.png	\
 	preferences-desktop-locale.png	\
+	preferences-desktop-multimedia.png	\
 	preferences-desktop-remote-desktop.png		\
 	preferences-desktop-screensaver.png		\
 	preferences-desktop-theme.png			\

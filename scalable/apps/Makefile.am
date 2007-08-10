@@ -19,6 +19,7 @@ icons_DATA =						\
 	preferences-desktop-font.svg			\
 	preferences-desktop-keyboard-shortcuts.svg	\
 	preferences-desktop-locale.svg	\
+	preferences-desktop-multimedia.svg	\
 	preferences-desktop-remote-desktop.svg		\
 	preferences-desktop-screensaver.svg		\
 	preferences-desktop-theme.svg			\

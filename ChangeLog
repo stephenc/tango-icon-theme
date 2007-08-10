@@ -1,5 +1,11 @@
 2007-08-10  Jakub Steiner <jimmac@ximian.com>
 
+	* actions/preferences-desktop-multimedia: 
+	* apps/preferences-desktop-multimedia: I'm dumb as a doorknob.
+	Should go to the apps context.
+
+2007-08-10  Jakub Steiner <jimmac@ximian.com>
+
 	* 22x22/mimetypes/audio-x-generic.png: properly hinted small res.
 		Fixes bug #10883
 
