@@ -1,3 +1,8 @@
+2007-08-10  Jakub Steiner <jimmac@ximian.com>
+
+	* device/media-flash: use a more approachable metaphor. Novell bug
+		#268098 
+
 2007-05-24  Jakub Steiner <jimmac@ximian.com>
 
 	* software-update-available:
