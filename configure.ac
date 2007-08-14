@@ -52,7 +52,9 @@ AM_CONDITIONAL(ENABLE_ICON_FRAMING, test x$enable_framing = xyes)
 
 if test "x$enable_framing" = "xyes"; then
    PKG_CHECK_EXISTS([ImageMagick >= 5.5.7],
-                    [enable_framing=yes], [enable_framing=no])
+                    [enable_framing=yes],
+		    PKG_CHECK_EXISTS([GraphicsMagick >= 1.1],
+				     [enable_framing=yes], [enable_framing=no]))
    if test "x$enable_framing" = "xyes"; then
       AC_PATH_PROG(CONVERT, convert)
       if test -z "$CONVERT"; then

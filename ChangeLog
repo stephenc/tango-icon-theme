@@ -1,3 +1,7 @@
+2007-08-13  Rodney Dawes  <dobey.pwns@gmail.com>
+
+	* configure.ac: Fall back to GraphicsMagick for convert
+
 2007-08-10  Jakub Steiner <jimmac@ximian.com>
 
 	* actions/preferences-desktop-multimedia: 
