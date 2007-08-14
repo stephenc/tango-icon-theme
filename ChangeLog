@@ -1,5 +1,10 @@
 2007-08-13  Rodney Dawes  <dobey.pwns@gmail.com>
 
+	* scalable/*/Makefile.am:
+	Add uninstall-local rule to remove all the generated PNG files
+
+2007-08-13  Rodney Dawes  <dobey.pwns@gmail.com>
+
 	* scalable/*/preferences-desktop-multimedia.*:
 	Move to the proper place. I guess jimmac missed this one :)
 

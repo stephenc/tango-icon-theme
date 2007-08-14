@@ -59,3 +59,11 @@ if ENABLE_LARGE_BITMAPS
 	done
 endif
 
+uninstall-local:
+	for i in 48 64 72 96 128; do \
+		pngdir="$(DESTDIR)$(themedir)/$${i}x$${i}/$(context)"; \
+		for icon in $(icons_DATA); do \
+			iname=`echo $$icon|sed -e "s/svg/png/g"`; \
+			rm -f $$pngdir/$$iname; \
+		done; \
+	done
