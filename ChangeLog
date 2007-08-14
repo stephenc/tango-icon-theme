@@ -1,5 +1,10 @@
 2007-08-13  Rodney Dawes  <dobey.pwns@gmail.com>
 
+	* scalable/*/preferences-desktop-multimedia.*:
+	Move to the proper place. I guess jimmac missed this one :)
+
+2007-08-13  Rodney Dawes  <dobey.pwns@gmail.com>
+
 	* configure.ac: Fall back to GraphicsMagick for convert
 
 2007-08-10  Jakub Steiner <jimmac@ximian.com>
