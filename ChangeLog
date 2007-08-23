@@ -1,5 +1,10 @@
 2007-08-23  Jakub Steiner <jimmac@ximian.com>
 
+	* scalable/status/folder-drag-accept.icon:
+	* scalable/status/folder-visiting.icon:
+
+2007-08-23  Jakub Steiner <jimmac@ximian.com>
+
 	* emblem-unreadable: fix gradient to be more clear/readable. Fixes
 		bug #7550
 
