@@ -1,5 +1,10 @@
 2007-08-23  Jakub Steiner <jimmac@ximian.com>
 
+	* emblem-unreadable: fix gradient to be more clear/readable. Fixes
+		bug #7550
+
+2007-08-23  Jakub Steiner <jimmac@ximian.com>
+
 	* 16x16/status/network-wireless-encrypted.png: slightly more
 		recognisable shape.
 
