@@ -1,7 +1,7 @@
 2007-08-23  Jakub Steiner <jimmac@ximian.com>
 
 	* scalable/status/folder-drag-accept.icon:
-	* scalable/status/folder-visiting.icon:
+	* scalable/status/folder-visiting.icon: fix typo. bug #11092
 
 2007-08-23  Jakub Steiner <jimmac@ximian.com>
 
