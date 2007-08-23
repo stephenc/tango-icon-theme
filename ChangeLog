@@ -1,3 +1,7 @@
+2007-08-23  Jakub Steiner <jimmac@ximian.com>
+
+	* text-x-script: add some text to address bug #6203
+
 2007-08-13  Rodney Dawes  <dobey.pwns@gmail.com>
 
 	* configure.ac: Up version to 0.8.1 for release
