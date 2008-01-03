@@ -1,3 +1,9 @@
+2008-01-03  Jakub Steiner <jimmac@ximian.com>
+
+	* audio-x-generic, computer, folder, folder-open, folder-drag-accept,
+	  folder-saved-search, folder-remote, input-keyboard, user-home, 
+	  video-display: visual refresh. More consistant across sizes.
+
 2007-08-23  Jakub Steiner <jimmac@ximian.com>
 
 	* scalable/status/folder-drag-accept.icon:
