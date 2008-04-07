@@ -1,3 +1,10 @@
+2008-04-08  Jakub Steiner <jimmac@ximian.com>
+
+	* face-crying, face-devillish, face-glasses, face-grin,
+	face-plain, face-sad, face-smile, face-smile-big, face-surprise,
+	face-wink: new emotes. consistent across sizes. angle, monkey,
+	kiss to do.
+
 2008-01-03  Jakub Steiner <jimmac@ximian.com>
 
 	* audio-x-generic, computer, folder, folder-open, folder-drag-accept,
