@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jimmac/gfx/novell/pdes/trunk/docs/BIGmime-text.png"
    sodipodi:docname="text-x-script.svg"
    sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/mimetypes"
-   inkscape:version="0.45+devel"
+   inkscape:version="0.46"
    sodipodi:version="0.32"
    id="svg249"
    height="48.000000px"
@@ -22,6 +22,13 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective76" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5060"
@@ -275,17 +282,17 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-y="108"
-     inkscape:window-x="95"
-     inkscape:window-height="825"
-     inkscape:window-width="920"
+     inkscape:window-y="160"
+     inkscape:window-x="343"
+     inkscape:window-height="688"
+     inkscape:window-width="872"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      inkscape:cy="7.8138058"
      inkscape:cx="10.569441"
-     inkscape:zoom="1"
+     inkscape:zoom="5.6568542"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.25490196"
@@ -317,7 +324,7 @@
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Jakub Steiner</dc:title>
@@ -326,19 +333,13 @@
         <dc:source>http://jimmac.musichall.cz</dc:source>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction" />
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/Attribution" />
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
@@ -485,56 +486,6 @@
          style="opacity:0.52046784;fill:none;fill-rule:nonzero;stroke:url(#linearGradient3088);stroke-width:1.42079163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 50.204564,45.706929 L 31.991529,27.493894 L 50.204564,9.2808575 L 68.417599,27.493894 L 50.204564,45.706929 L 50.204564,45.706929 z "
          id="path3078" />
-    </g>
-    <g
-       style="display:inline"
-       id="g4849"
-       transform="translate(0,-20)">
-      <rect
-         style="color:#000000;fill:#9b9b9b;fill-opacity:0.54970757;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.08187136;visibility:visible;display:block;overflow:visible"
-         id="rect15736"
-         width="20.000006"
-         height="1"
-         x="15.999986"
-         y="29"
-         rx="0.13778631"
-         ry="0.065390877" />
-      <rect
-         style="color:#000000;fill:#9b9b9b;fill-opacity:0.54970757;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.08187136;visibility:visible;display:block;overflow:visible"
-         id="rect15738"
-         width="20.000006"
-         height="1"
-         x="15.999986"
-         y="31"
-         rx="0.13778631"
-         ry="0.065390877" />
-      <rect
-         style="color:#000000;fill:#9b9b9b;fill-opacity:0.54970757;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.08187136;visibility:visible;display:block;overflow:visible"
-         id="rect15740"
-         width="20.000006"
-         height="1"
-         x="15.999986"
-         y="33"
-         rx="0.13778631"
-         ry="0.065390877" />
-      <rect
-         style="color:#000000;fill:#9b9b9b;fill-opacity:0.54970757;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.08187136;visibility:visible;display:block;overflow:visible"
-         id="rect15742"
-         width="20.000006"
-         height="1"
-         x="15.999986"
-         y="35"
-         rx="0.13778631"
-         ry="0.065390877" />
-      <rect
-         style="color:#000000;fill:#9b9b9b;fill-opacity:0.54970757;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:0.08187136;visibility:visible;display:block;overflow:visible"
-         id="rect15744"
-         width="14.000014"
-         height="1"
-         x="15.999986"
-         y="37"
-         rx="0.096450485"
-         ry="0.065390877" />
     </g>
   </g>
 </svg>

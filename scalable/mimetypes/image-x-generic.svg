@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,9 +14,10 @@
    xml:space="preserve"
    id="svg16168"
    sodipodi:version="0.32"
-   inkscape:version="0.43+devel"
+   inkscape:version="0.46"
    sodipodi:docname="image-x-generic.svg"
-   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/mimetypes"><metadata
+   sodipodi:docbase="/home/jimmac/src/cvs/tango-icon-theme/scalable/mimetypes"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
    id="metadata16236">
   <rdf:RDF>
     <cc:Work
@@ -40,20 +41,17 @@
   <rdf:Bag><rdf:li>image</rdf:li><rdf:li>picture</rdf:li><rdf:li>snapshot</rdf:li><rdf:li>photo</rdf:li></rdf:Bag>
 </dc:subject>
 <cc:license
-   rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+   rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
 </cc:Work>
 
 
 
   
 <cc:License
-   rdf:about="http://creativecommons.org/licenses/by/2.0/"><cc:permits
-     rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
-     rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
-     rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
-     rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
-     rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
-     rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+   rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits
+     rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+     rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF>
 
 
 
@@ -62,7 +60,13 @@
 
 
 <defs
-   id="defs16234"><radialGradient
+   id="defs16234"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 24 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="48 : 24 : 1"
+   inkscape:persp3d-origin="24 : 16 : 1"
+   id="perspective80" /><radialGradient
    inkscape:collect="always"
    xlink:href="#linearGradient5060"
    id="radialGradient6719"
@@ -370,7 +374,7 @@
 
 
 <sodipodi:namedview
-   inkscape:window-height="1071"
+   inkscape:window-height="818"
    inkscape:window-width="1238"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
@@ -381,8 +385,8 @@
    inkscape:zoom="1"
    inkscape:cx="49.378608"
    inkscape:cy="-24.095483"
-   inkscape:window-x="514"
-   inkscape:window-y="105"
+   inkscape:window-x="0"
+   inkscape:window-y="30"
    inkscape:current-layer="svg16168"
    showgrid="false"
    inkscape:showpageshadow="false" />
