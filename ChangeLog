@@ -1,3 +1,8 @@
+2009-02-26  Rodney Dawes  <dobey@gnome.org>
+
+	* configure.ac:
+	Up version to 0.8.90 for release of Public Domain relicensing
+
 2008-04-08  Jakub Steiner <jimmac@ximian.com>
 
 	* face-crying, face-devillish, face-glasses, face-grin,
