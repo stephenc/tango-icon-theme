@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docbase="/home/lapo/Desktop/tango-icon-theme/32x32/mimetypes"
    sodipodi:docname="application-certificate.svg"
-   inkscape:version="0.43+devel"
+   inkscape:version="0.46"
    sodipodi:version="0.32"
    id="svg5105"
    xml:space="preserve"
@@ -32,24 +32,27 @@
 
 
     <dc:title>Certificate</dc:title><dc:creator><cc:Agent><dc:title>Jakub Steiner</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>certificate</rdf:li></rdf:Bag></dc:subject><cc:license
-   rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" /></cc:Work>
+   rdf:resource="http://creativecommons.org/licenses/publicdomain/" /></cc:Work>
 
 
   <cc:License
-   rdf:about="http://creativecommons.org/licenses/by-sa/2.0/"><cc:permits
-     rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
-     rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
-     rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
-     rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
-     rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
-     rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+   rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits
+     rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+     rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF>
 
 
 </metadata>
 
 
 <defs
-   id="defs5187"><linearGradient
+   id="defs5187"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 16 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="32 : 16 : 1"
+     inkscape:persp3d-origin="16 : 10.666667 : 1"
+     id="perspective46" /><linearGradient
      id="linearGradient6684">
   <stop
    id="stop6686"
@@ -236,10 +239,10 @@
 
 <sodipodi:namedview
    inkscape:current-layer="svg5105"
-   inkscape:window-y="79"
+   inkscape:window-y="30"
    inkscape:window-x="203"
    inkscape:cy="20.621675"
-   inkscape:cx="20.16091"
+   inkscape:cx="-141.83909"
    inkscape:zoom="1"
    id="base"
    pagecolor="#ffffff"
